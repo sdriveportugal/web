@@ -1,0 +1,3822 @@
+[
+  {
+    "ID": 3909,
+    "question": "Uma das principais características de uma auto-estrada é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Haver cruzamentos de nível e acesso a propriedades marginais.",
+    "optionB": "B Ser uma via pública destinada a trânsito rápido.",
+    "optionC": "Ser uma via pública localizada numa zona com edificações.",
+    "Answer": "B",
+    "Explanation": "B Ser uma via pública destinada a trânsito rápido."
+  },
+  {
+    "ID": 3908,
+    "question": "Uma das precauções que deve ser tomada na condução com gelo, será:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "A utilização das luzes de nevoeiro e o aumento da distância de paragem.",
+    "optionB": "B A utilização das luzes de nevoeiro.",
+    "optionC": "O aumento da distância de segurança.",
+    "Answer": "C",
+    "Explanation": "C O aumento da distância de segurança."
+  },
+  {
+    "ID": 3907,
+    "question": "Uma das consequências da condução com chuva é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "A diminuição da distância de paragem.",
+    "optionB": "B A diminuição da distância de travagem.",
+    "optionC": "A diminuição da visibilidade.",
+    "Answer": "C",
+    "Explanation": "C A diminuição da visibilidade."
+  },
+  {
+    "ID": 3906,
+    "question": "Todas as manobras, que são executadas, com o pavimento molhado ou escorregadio, devem:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Implicar uma atenção especial.",
+    "optionB": "B Ser feitas com as luzes de perigo ligadas.",
+    "optionC": "Ser feitas rapidamente.",
+    "Answer": "A",
+    "Explanation": "A Implicar uma atenção especial."
+  },
+  {
+    "ID": 3905,
+    "question": "Tendo acabado de ultrapassar o veículo que circulava na via mais à direita, posso continuar a circular nesta via ou estou obrigado a passar para a via da direita?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "Estou obrigado a passar para a via de trânsito mais à direita, logo que o possa fazer sem perigo.",
+    "optionB": "B Posso continuar a circular nesta ou na via de trânsito mais à esquerda.",
+    "optionC": "Posso continuar a circular nesta via de trânsito.",
+    "Answer": "A",
+    "Explanation": "A Estou obrigado a passar para a via de trânsito mais à direita, logo que o possa fazer sem perigo."
+  },
+  {
+    "ID": 3904,
+    "question": "Sempre que se verifiquem condições meteorológicas ou ambientais que tornem a visibilidade insuficiente, os condutores devem utilizar as luzes do seu veículo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Não.",
+    "optionB": "B Sim, mas apenas durante a noite.",
+    "optionC": "Sim.",
+    "Answer": "C",
+    "Explanation": "C Sim."
+  },
+  {
+    "ID": 3903,
+    "question": "Sempre que se verifiquem condições meteorológicas ou ambientais que tornem a visibilidade insuficiente, nomeadamente, em caso de queda de neve, os condutores devem utilizar as luzes:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "De cruzamento.",
+    "optionB": "B De estrada.",
+    "optionC": "De presença.",
+    "Answer": "A",
+    "Explanation": "A De cruzamento."
+  },
+  {
+    "ID": 3902,
+    "question": "Sempre que a visibilidade diminui e a intensidade de trânsito aumenta:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "A velocidade deve aumentar.",
+    "optionB": "B A velocidade deve diminuir.",
+    "optionC": "A velocidade não pode diminuir.",
+    "Answer": "B",
+    "Explanation": "B A velocidade deve diminuir."
+  },
+  {
+    "ID": 3901,
+    "question": "Se o peão iniciar a travessia, o veículo que se encontra à minha frente deve:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Ceder-lhe a passagem.",
+    "optionB": "B Utilizar os sinais sonoros e prosseguir a marcha.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Ceder-lhe a passagem."
+  },
+  {
+    "ID": 3900,
+    "question": "Se a visibilidade é menor a velocidade deve ser moderada, porque:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "Há mais dificuldade em recolher informação, logo há uma maior capacidade de previsão.",
+    "optionB": "B Há mais informação a recolher.",
+    "optionC": "Há uma maior dificuldade em recolher informação.",
+    "Answer": "C",
+    "Explanation": "C Há uma maior dificuldade em recolher informação."
+  },
+  {
+    "ID": 3899,
+    "question": "Regra geral, qual dos seguintes factores condiciona mais a condução nocturna?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "A audição.",
+    "optionB": "B A ausência de trânsito.",
+    "optionC": "As condições de visibilidade.",
+    "Answer": "C",
+    "Explanation": "C As condições de visibilidade."
+  },
+  {
+    "ID": 3898,
+    "question": "Que veículos podem circular numa auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Apenas os automóveis ligeiros e os pesados.",
+    "optionB": "B Os automóveis, os motociclos e os triciclos de cilindrada superior a 50cm3 e as máquinas industriais com matrícula.",
+    "optionC": "Todos, à excepção dos tractores agrícolas.",
+    "Answer": "B",
+    "Explanation": "B Os automóveis, os motociclos e os triciclos de cilindrada superior a 50cm3 e as máquinas industriais com matrícula."
+  },
+  {
+    "ID": 3897,
+    "question": "Quando o piso está escorregadio:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "A distância de travagem aumenta.",
+    "optionB": "B A distância de travagem diminui.",
+    "optionC": "A distância de travagem não se altera.",
+    "Answer": "A",
+    "Explanation": "A A distância de travagem aumenta."
+  },
+  {
+    "ID": 3896,
+    "question": "Quando o piso está escorregadio:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "A aderência aumenta e a distância de segurança diminui.",
+    "optionB": "B A aderência aumenta e a distância de travagem diminui.",
+    "optionC": "A aderência diminui e a distância de paragem aumenta.",
+    "Answer": "C",
+    "Explanation": "C A aderência diminui e a distância de paragem aumenta."
+  },
+  {
+    "ID": 3895,
+    "question": "Quando o piso está escorregadio, a aderência diminui e:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "A distância de paragem não se altera.",
+    "optionB": "B A distância de travagem aumenta.",
+    "optionC": "A distância percorrida durante o tempo de reacção diminui.",
+    "Answer": "B",
+    "Explanation": "B A distância de travagem aumenta."
+  },
+  {
+    "ID": 3894,
+    "question": "Quando chove, a aderência ao piso:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Aumenta, diminuindo no entanto a distância de segurança.",
+    "optionB": "B Diminui, aumentando a distância de travagem.",
+    "optionC": "Diminui, e a distância de travagem também diminui.",
+    "Answer": "B",
+    "Explanation": "B Diminui, aumentando a distância de travagem."
+  },
+  {
+    "ID": 3893,
+    "question": "Quando a via se encontra molhada, como devo proceder para evitar a hidroplanagem?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "Conduzir a velocidade moderada.",
+    "optionB": "B Fazer uso constante do travão.",
+    "optionC": "Fazer uso de pneus de chuva.",
+    "Answer": "A",
+    "Explanation": "A Conduzir a velocidade moderada."
+  },
+  {
+    "ID": 3892,
+    "question": "Qual das seguintes afirmações está correcta?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Em meio urbano a distância de segurança deve ser maior que em meio não urbano.",
+    "optionB": "B Enquanto que em estrada a condução provoca sono, em meio urbano provoca fadiga.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Enquanto que em estrada a condução provoca sono, em meio urbano provoca fadiga."
+  },
+  {
+    "ID": 3891,
+    "question": "Posso utilizar a via da esquerda:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Em qualquer circunstância, porque circulo numa auto-estrada.",
+    "optionB": "B Para efectuar uma ultrapassagem.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Para efectuar uma ultrapassagem."
+  },
+  {
+    "ID": 3890,
+    "question": "Posso transpor os separadores de trânsito existentes nesta via pública?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Não.",
+    "optionB": "B Sim, excepto nas auto-estradas.",
+    "optionC": "Sim.",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3889,
+    "question": "Posso transpor as aberturas existentes nos separadores de trânsito?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Não, em circunstância alguma.",
+    "optionB": "B Sim, mas apenas para inverter o sentido de marcha.",
+    "optionC": "Sim, mas apenas para mudar de direcção à esquerda.",
+    "Answer": "A",
+    "Explanation": "A Não, em circunstância alguma."
+  },
+  {
+    "ID": 3888,
+    "question": "Posso fazer marcha atrás nesta via?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Não, nunca posso.",
+    "optionB": "B Posso, se fizer a manobra muito rapidamente.",
+    "optionC": "Posso, se houver pouca intensidade de trânsito.",
+    "Answer": "A",
+    "Explanation": "A Não, nunca posso."
+  },
+  {
+    "ID": 3887,
+    "question": "Perante o sinal de obrigação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Circular à distância mínima de 50 km/h do veículo que segue à frente.",
+    "optionB": "B Circular à velocidade máxima de 50 km/h.",
+    "optionC": "Circular a velocidade não inferior a 50 km/h.",
+    "Answer": "C",
+    "Explanation": "C Circular a velocidade não inferior a 50 km/h."
+  },
+  {
+    "ID": 3886,
+    "question": "Perante a sinalização, que encontro neste local, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Diminuir a distância de paragem.",
+    "optionB": "B Diminuir a distância de segurança.",
+    "optionC": "Moderar a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Moderar a velocidade."
+  },
+  {
+    "ID": 3885,
+    "question": "Perante a manga de vento do lado esquerdo da via, fico a saber que o vento:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Afecta o consumo do combustível no veículo.",
+    "optionB": "B Não afecta o consumo do combustível no veículo.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Afecta o consumo do combustível no veículo."
+  },
+  {
+    "ID": 3884,
+    "question": "Para transitar em segurança neste local, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Diminuir a pressão dos pneus, para que a aderência ao piso seja maior.",
+    "optionB": "B Estar especialmente atento e adaptar a velocidade.",
+    "optionC": "Reduzir a velocidade e transitar no eixo da faixa de rodagem.",
+    "Answer": "B",
+    "Explanation": "B Estar especialmente atento e adaptar a velocidade."
+  },
+  {
+    "ID": 3883,
+    "question": "Para circular em segurança com vento lateral intenso, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Manter a velocidade.",
+    "optionC": "Reduzir a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade."
+  },
+  {
+    "ID": 3882,
+    "question": "Os condutores estão obrigados a regular a velocidade atendendo às condições meteorológicas ou ambientais. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3881,
+    "question": "Os condutores de automóveis pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m apenas podem circular nas duas vias de trânsito mais à direita.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "A afirmação é falsa.",
+    "optionB": "B A afirmação é verdadeira.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B A afirmação é verdadeira."
+  },
+  {
+    "ID": 3880,
+    "question": "Os condutores apenas devem utilizar as luzes de nevoeiro quando as condições meteorológicas ou ambientais o justifiquem. Concorda com a afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3879,
+    "question": "Os ciclomotores podem transitar em auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Não podem.",
+    "optionB": "B Podem, dentro dos limites de velocidade.",
+    "optionC": "Podem, em qualquer circunstância.",
+    "Answer": "A",
+    "Explanation": "A Não podem."
+  },
+  {
+    "ID": 3878,
+    "question": "O sinal vertical do lado direito indica-me que me encontro a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "100 metros da próxima saída.",
+    "optionB": "B 150 metros da próxima saída.",
+    "optionC": "250 metros da próxima saída.",
+    "Answer": "C",
+    "Explanation": "C 250 metros da próxima saída."
+  },
+  {
+    "ID": 3877,
+    "question": "O sinal de fundo azul significa:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "Velocidade máxima permitida de 50 Km/h.",
+    "optionB": "B Velocidade mínima aconselhável de 50 km/h.",
+    "optionC": "Velocidade mínima obrigatória de 50 km/h.",
+    "Answer": "C",
+    "Explanation": "C Velocidade mínima obrigatória de 50 km/h."
+  },
+  {
+    "ID": 3876,
+    "question": "O sinal de fundo azul determina a velocidade:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Máxima aconselhável.",
+    "optionB": "B Máxima obrigatória.",
+    "optionC": "Mínima obrigatória.",
+    "Answer": "C",
+    "Explanation": "C Mínima obrigatória."
+  },
+  {
+    "ID": 3875,
+    "question": "O sinal avisa-me que a minha velocidade deve ser especialmente adaptada:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "À inclinação da via.",
+    "optionB": "B Às condições de aderência da faixa de rodagem.",
+    "optionC": "Às condições de visibilidade do local.",
+    "Answer": "B",
+    "Explanation": "B Às condições de aderência da faixa de rodagem."
+  },
+  {
+    "ID": 3874,
+    "question": "O símbolo do lado esquerdo da via indica que o vento sopra :",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "Da direita para a esquerda.",
+    "optionB": "B Da esquerda para a direita.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Da esquerda para a direita."
+  },
+  {
+    "ID": 3873,
+    "question": "O que se entende por via de trânsito?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Via de comunicação terrestre do domínio privado aberta ao trânsito público.",
+    "optionB": "B Via de tráfego resultante do alargamento da faixa de rodagem.",
+    "optionC": "Zona longitudinal da faixa de rodagem destinada à circulação de uma única fila de veículos.",
+    "Answer": "C",
+    "Explanation": "C Zona longitudinal da faixa de rodagem destinada à circulação de uma única fila de veículos."
+  },
+  {
+    "ID": 3872,
+    "question": "O condutor do veículo, que me precede, pode circular na via de trânsito mais à esquerda?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3871,
+    "question": "Neste momento chove e a intensidade do trânsito aumenta. Devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Adaptar a minha condução às condições adversas.",
+    "optionB": "B Ligar as luzes de cruzamento e aumentar a velocidade.",
+    "optionC": "Transitar com a máxima prudência, porque a distância de travagem diminui.",
+    "Answer": "A",
+    "Explanation": "A Adaptar a minha condução às condições adversas."
+  },
+  {
+    "ID": 3870,
+    "question": "Neste local posso utilizar a via de trânsito mais à esquerda:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "Desde que não circule outro veículo à minha retaguarda.",
+    "optionB": "B Durante o tempo necessário para efectuar uma ultrapassagem.",
+    "optionC": "Sempre que circule a mais de 60 Km/h.",
+    "Answer": "B",
+    "Explanation": "B Durante o tempo necessário para efectuar uma ultrapassagem."
+  },
+  {
+    "ID": 3869,
+    "question": "Neste local posso ultrapassar pela direita.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Errado."
+  },
+  {
+    "ID": 3868,
+    "question": "Neste local é proibido:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Circular a menos de 60 km/h.",
+    "optionB": "B Circular com os máximos.",
+    "optionC": "Fazer marcha atrás.",
+    "Answer": "C",
+    "Explanation": "C Fazer marcha atrás."
+  },
+  {
+    "ID": 3867,
+    "question": "Neste local é proibido:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "Circular a mais de 90 km/h.",
+    "optionB": "B Circular a menos de 60 km/h.",
+    "optionC": "Parar.",
+    "Answer": "C",
+    "Explanation": "C Parar."
+  },
+  {
+    "ID": 3866,
+    "question": "Neste local é proibido:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Acender os máximos.",
+    "optionB": "B Parar e estacionar.",
+    "optionC": "Parar e ultrapassar.",
+    "Answer": "B",
+    "Explanation": "B Parar e estacionar."
+  },
+  {
+    "ID": 3865,
+    "question": "Nesta via podem circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Automóveis ligeiros e pesados.",
+    "optionB": "B Peões, animais, carros de mão e ciclomotores.",
+    "optionC": "Peões, animais, velocípedes e veículos de tracção animal.",
+    "Answer": "A",
+    "Explanation": "A Automóveis ligeiros e pesados."
+  },
+  {
+    "ID": 3864,
+    "question": "Nesta via não podem transitar:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Automóveis ligeiros.",
+    "optionB": "B Automóveis pesados.",
+    "optionC": "Motociclos com cilindrada igual ou inferior a 50 cm3.",
+    "Answer": "C",
+    "Explanation": "C Motociclos com cilindrada igual ou inferior a 50 cm3."
+  },
+  {
+    "ID": 3863,
+    "question": "Nesta situação, torna-se importante estar atento:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Apenas ao número de vias de trânsito.",
+    "optionB": "B Apenas aos limites de velocidade impostos por sinalização.",
+    "optionC": "E adaptar a velocidade.",
+    "Answer": "C",
+    "Explanation": "C E adaptar a velocidade."
+  },
+  {
+    "ID": 3862,
+    "question": "Nesta situação, porque me encontro a menos de 250 metros da próxima saída estou proibido de ultrapassar.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Errado."
+  },
+  {
+    "ID": 3861,
+    "question": "Nesta situação, em que a visibilidade é reduzida, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Transitar com as luzes de cruzamento e utilizar com frequência o travão de serviço para ser visto.",
+    "optionB": "B Transitar com as luzes de cruzamento, de modo a ver e a ser visto.",
+    "optionC": "Transitar com as luzes de nevoeiro apenas se circularem veículos atrás de mim.",
+    "Answer": "B",
+    "Explanation": "B Transitar com as luzes de cruzamento, de modo a ver e a ser visto."
+  },
+  {
+    "ID": 3860,
+    "question": "Nesta situação, devo moderar especialmente a minha velocidade tendo em atenção qual dos seguintes factores?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "A sinalização horizontal.",
+    "optionB": "B A sinalização vertical.",
+    "optionC": "As condições de aderência da via.",
+    "Answer": "C",
+    "Explanation": "C As condições de aderência da via."
+  },
+  {
+    "ID": 3859,
+    "question": "Nesta situação, devo dar especial atenção:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Ao comportamento do peão.",
+    "optionB": "B Ao veículo que circula atrás do meu veículo.",
+    "optionC": "Ao veículo, que já iniciou a marcha.",
+    "Answer": "A",
+    "Explanation": "A Ao comportamento do peão."
+  },
+  {
+    "ID": 3858,
+    "question": "Nesta situação, a sinalização indica perigo de vento lateral intenso, que incide:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Da direita para a esquerda.",
+    "optionB": "B Da esquerda para a direita.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Da esquerda para a direita."
+  },
+  {
+    "ID": 3857,
+    "question": "Nesta situação, a presença de vento lateral pode afectar a minha condução?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3856,
+    "question": "Nesta situação, a minha condução pode ser especialmente condicionada pela:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Aderência.",
+    "optionB": "B Ausência de sinalização vertical.",
+    "optionC": "Visibilidade.",
+    "Answer": "A",
+    "Explanation": "A Aderência."
+  },
+  {
+    "ID": 3855,
+    "question": "Nesta situação, a acção de vento lateral influencia principalmente:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "A estabilidade e trajectória do veículo.",
+    "optionB": "B O aumento de velocidade.",
+    "optionC": "O sistema de iluminação.",
+    "Answer": "A",
+    "Explanation": "A A estabilidade e trajectória do veículo."
+  },
+  {
+    "ID": 3854,
+    "question": "Nesta situação se precisar de travar posso fazê-lo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Bloqueando as rodas.",
+    "optionB": "B Com o motor.",
+    "optionC": "Com o travão de mão.",
+    "Answer": "B",
+    "Explanation": "B Com o motor."
+  },
+  {
+    "ID": 3853,
+    "question": "Nesta situação posso circular com as luzes de estrada.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Errado."
+  },
+  {
+    "ID": 3852,
+    "question": "Nesta situação o que devo fazer?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Acender os máximos.",
+    "optionB": "B Transitar a velocidade moderada.",
+    "optionC": "Travar a fundo imediatamente.",
+    "Answer": "B",
+    "Explanation": "B Transitar a velocidade moderada."
+  },
+  {
+    "ID": 3851,
+    "question": "Nesta situação em que as condições atmosféricas são adversas, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Aumentar a distância de segurança.",
+    "optionB": "B Moderar a velocidade e diminuir a distância de segurança.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Aumentar a distância de segurança."
+  },
+  {
+    "ID": 3850,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Estar especialmente atento às condições do piso.",
+    "optionB": "B Utilizar a berma ou a faixa de rodagem consoante o estado do piso.",
+    "optionC": "Utilizar a berma se na faixa de rodagem, existirem poças de água.",
+    "Answer": "A",
+    "Explanation": "A Estar especialmente atento às condições do piso."
+  },
+  {
+    "ID": 3849,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Parar, porque as condições atmosféricas não são favoráveis a uma condução segura.",
+    "optionB": "B Utilizar o motor como auxiliar do travão e moderar a velocidade.",
+    "optionC": "Utilizar o travão de serviço e nunca o motor como auxiliar, porque a via não é inclinada.",
+    "Answer": "B",
+    "Explanation": "B Utilizar o motor como auxiliar do travão e moderar a velocidade."
+  },
+  {
+    "ID": 3848,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "Utilizar apenas o travão de serviço.",
+    "optionB": "B Utilizar o motor como auxiliar do travão, de maneira a aumentar a velocidade.",
+    "optionC": "Utilizar o motor como auxiliar do travão.",
+    "Answer": "C",
+    "Explanation": "C Utilizar o motor como auxiliar do travão."
+  },
+  {
+    "ID": 3847,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Diminuir a distância de segurança.",
+    "optionC": "Ligar as luzes de cruzamento e adaptar a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Ligar as luzes de cruzamento e adaptar a velocidade."
+  },
+  {
+    "ID": 3846,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Circular com as luzes avisadoras de perigo.",
+    "optionB": "B Circular com as luzes de presença ligadas.",
+    "optionC": "Circular com velocidade especialmente moderada.",
+    "Answer": "C",
+    "Explanation": "C Circular com velocidade especialmente moderada."
+  },
+  {
+    "ID": 3845,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Buzinar para advertir o condutor que tem as luzes ligadas.",
+    "optionB": "B Procurar afastar-me dos lençóis de água a fim de evitar uma possível aquaplanagem.",
+    "optionC": "Reduzir a velocidade e colocar-me o mais à direita possível.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade e colocar-me o mais à direita possível."
+  },
+  {
+    "ID": 3844,
+    "question": "Nesta situação devo utilizar as luzes de cruzamento?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "Não, desde que não circule nenhum veículo à minha frente.",
+    "optionB": "B Sim, é obrigatório.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim, é obrigatório."
+  },
+  {
+    "ID": 3843,
+    "question": "Nesta situação devo transitar com velocidade especialmente moderada, devido:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Às condições de aderência e à existência de uma linha contínua.",
+    "optionB": "B Às condições de aderência e visibilidade.",
+    "optionC": "Às condições de visibilidade e à existência de uma linha contínua.",
+    "Answer": "B",
+    "Explanation": "B Às condições de aderência e visibilidade."
+  },
+  {
+    "ID": 3842,
+    "question": "Nesta situação devo evitar:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "Fazer travagens bruscas.",
+    "optionB": "B Utilizar o motor como auxiliar de travagem.",
+    "optionC": "Utilizar o travão de serviço.",
+    "Answer": "A",
+    "Explanation": "A Fazer travagens bruscas."
+  },
+  {
+    "ID": 3841,
+    "question": "Nesta situação devo acender os médios para:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "Assinalar a presença do veículo.",
+    "optionB": "B Assinalar uma ultrapassagem.",
+    "optionC": "Estacionar na faixa de rodagem.",
+    "Answer": "A",
+    "Explanation": "A Assinalar a presença do veículo."
+  },
+  {
+    "ID": 3840,
+    "question": "Nesta situação de chuva estou a ultrapassar. Devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Terminar a manobra rapidamente e travar assim que retomar a direita.",
+    "optionB": "B Terminar a ultrapassagem evitando manobras bruscas.",
+    "optionC": "Travar e desistir da manobra.",
+    "Answer": "B",
+    "Explanation": "B Terminar a ultrapassagem evitando manobras bruscas."
+  },
+  {
+    "ID": 3839,
+    "question": "Nesta situação a velocidade deve ser moderada, porque:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "As condições ambientais e de circulação são desfavoráveis.",
+    "optionB": "B Circulo em auto-estrada.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A As condições ambientais e de circulação são desfavoráveis."
+  },
+  {
+    "ID": 3838,
+    "question": "Nesta auto-estrada podem circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Todos os automóveis.",
+    "optionB": "B Todos os motociclos e automóveis.",
+    "optionC": "Todos os veículos, excepto os velocípedes.",
+    "Answer": "A",
+    "Explanation": "A Todos os automóveis."
+  },
+  {
+    "ID": 3837,
+    "question": "Nas auto-estradas só podem circular veículos cujas características lhes permitam atingir uma velocidade em patamar superior a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "40 km/h.",
+    "optionB": "B 50 km/h.",
+    "optionC": "60 km/h.",
+    "Answer": "C",
+    "Explanation": "C 60 km/h."
+  },
+  {
+    "ID": 3836,
+    "question": "Nas auto-estradas com três ou mais vias de trânsito afectas ao mesmo sentido, que veículos se encontram proibidos de utilizar a via de trânsito mais à esquerda?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "Os automóveis ligeiros de mercadorias e os mistos.",
+    "optionB": "B Os automóveis pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m.",
+    "optionC": "Os automóveis pesados de passageiros.",
+    "Answer": "B",
+    "Explanation": "B Os automóveis pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m."
+  },
+  {
+    "ID": 3835,
+    "question": "Na condução com condições atmosféricas adversas, como é o caso, devo ter especial atenção ao comportamento inesperado dos peões.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3834,
+    "question": "Na condução com chuva é necessário ter em atenção:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "A redução da aderência ao piso e a diminuição da visibilidade.",
+    "optionB": "B A redução de visibilidade e o aumento da aderência ao piso.",
+    "optionC": "O aumento da aderência ao piso.",
+    "Answer": "A",
+    "Explanation": "A A redução da aderência ao piso e a diminuição da visibilidade."
+  },
+  {
+    "ID": 3833,
+    "question": "Na condução com chuva deve ter-se o seguinte comportamento:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Aumentar a distância de segurança.",
+    "optionB": "B Diminuir a distância de segurança.",
+    "optionC": "Diminuir a recolha de informação.",
+    "Answer": "A",
+    "Explanation": "A Aumentar a distância de segurança."
+  },
+  {
+    "ID": 3832,
+    "question": "Menor aderência deve implicar sempre:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Maior atenção e uma diminuição da distância de travagem.",
+    "optionB": "B Moderação especial da velocidade.",
+    "optionC": "Uma diminuição da visibilidade.",
+    "Answer": "B",
+    "Explanation": "B Moderação especial da velocidade."
+  },
+  {
+    "ID": 3831,
+    "question": "Encontro-me correctamente posicionado nesta via de trânsito se pretender seguir a direcção de Elvas?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Não, deveria estar já posicionado na via à minha direita.",
+    "optionB": "B Não, deveria ocupar a via imediatamente à minha esquerda.",
+    "optionC": "Sim, é esta a via que me permite seguir na direcção pretendida.",
+    "Answer": "C",
+    "Explanation": "C Sim, é esta a via que me permite seguir na direcção pretendida."
+  },
+  {
+    "ID": 3830,
+    "question": "Encontro-me correctamente posicionado nesta via de trânsito para seguir para Vila Franca?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Não, devo circular na via de trânsito da esquerda.",
+    "optionB": "B Sim, devo circular nesta via de trânsito mais à direita.",
+    "optionC": "Sim, embora possa circular noutra via de trânsito independentemente do meu destino.",
+    "Answer": "B",
+    "Explanation": "B Sim, devo circular nesta via de trânsito mais à direita."
+  },
+  {
+    "ID": 3829,
+    "question": "Em que consiste o fenómeno de encandeamento?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Na diminuição do tempo de fixação dos olhos nos objectos.",
+    "optionB": "B Na perda momentânea da capacidade de visão.",
+    "optionC": "No aumento do tempo de fixação dos olhos nos objectos.",
+    "Answer": "B",
+    "Explanation": "B Na perda momentânea da capacidade de visão."
+  },
+  {
+    "ID": 3828,
+    "question": "Em caso de súbita redução de velocidade, provocada por condições meteorológicas adversas, devo utilizar as luzes avisadoras de perigo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3827,
+    "question": "Em auto-estrada devo adaptar a velocidade do meu veículo em função das características e estado da via?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "Não, desde que não ultrapasse os 120 km/h.",
+    "optionB": "B Sim, de modo a que consiga fazer parar o veículo no espaço livre e visível à minha frente.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim, de modo a que consiga fazer parar o veículo no espaço livre e visível à minha frente."
+  },
+  {
+    "ID": 3826,
+    "question": "É possível conduzir de forma segura com condições atmosféricas desfavoráveis?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Não, é impossível manter uma condução segura.",
+    "optionB": "B Sim, desde que adapte a minha condução às condições atmosféricas adversas.",
+    "optionC": "Sim, desde que respeite os limites de velocidade.",
+    "Answer": "B",
+    "Explanation": "B Sim, desde que adapte a minha condução às condições atmosféricas adversas."
+  },
+  {
+    "ID": 3825,
+    "question": "É permitido inverter o sentido de marcha neste local?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3824,
+    "question": "Devo ligar as luzes de cruzamento, quando:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "A intensidade do trânsito é maior.",
+    "optionB": "B A redução de velocidade for súbita.",
+    "optionC": "A redução de visibilidade o justificar.",
+    "Answer": "C",
+    "Explanation": "C A redução de visibilidade o justificar."
+  },
+  {
+    "ID": 3823,
+    "question": "Conduzo um automóvel ligeiro de mercadorias sem reboque. Qual é a velocidade máxima permitida neste local?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "B",
+    "Explanation": "B 110 Km/h."
+  },
+  {
+    "ID": 3822,
+    "question": "Conduzir com chuva provoca:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "A diminuição da distância de paragem.",
+    "optionB": "B A redução da visibilidade.",
+    "optionC": "O aumento da aderência ao piso.",
+    "Answer": "B",
+    "Explanation": "B A redução da visibilidade."
+  },
+  {
+    "ID": 3821,
+    "question": "Como se designa a via de trânsito à minha direita e que permite a entrada na auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Via de abrandamento.",
+    "optionB": "B Via de aceleração.",
+    "optionC": "Via reversível.",
+    "Answer": "B",
+    "Explanation": "B Via de aceleração."
+  },
+  {
+    "ID": 3820,
+    "question": "Como se chama a via de trânsito à minha direita?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Berma.",
+    "optionB": "B Via de abrandamento.",
+    "optionC": "Via de aceleração.",
+    "Answer": "C",
+    "Explanation": "C Via de aceleração."
+  },
+  {
+    "ID": 3819,
+    "question": "Como devo proceder quando a via se encontra em mau estado de conservação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Circular pela parte que estiver em melhores condições.",
+    "optionB": "B Devo circular pela direita da faixa de rodagem.",
+    "optionC": "Devo circular pela esquerda da faixa de rodagem, se a via for de sentido único.",
+    "Answer": "B",
+    "Explanation": "B Devo circular pela direita da faixa de rodagem."
+  },
+  {
+    "ID": 3818,
+    "question": "Como devo proceder para circular em segurança no local em que me encontro?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Adaptar a velocidade às características da via e condições atmosféricas.",
+    "optionB": "B Aproximar o veículo o mais possível do eixo da faixa de rodagem.",
+    "optionC": "Travar a fundo antes de entrar na curva.",
+    "Answer": "A",
+    "Explanation": "A Adaptar a velocidade às características da via e condições atmosféricas."
+  },
+  {
+    "ID": 3817,
+    "question": "Como devo proceder para circular em segurança no local em que me encontro?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Aumentar a distância de paragem do veículo que conduzo.",
+    "optionB": "B Circular em marcha lenta fazendo uso das luzes de perigo.",
+    "optionC": "Guardar distância de segurança em relação ao veículo da frente.",
+    "Answer": "C",
+    "Explanation": "C Guardar distância de segurança em relação ao veículo da frente."
+  },
+  {
+    "ID": 3816,
+    "question": "Como devo proceder no local em que circulo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Adaptar a velocidade às condições da via.",
+    "optionB": "B Fazer uso das luzes de perigo para assinalar a minha presença.",
+    "optionC": "Reduzir a distância que me separa do veículo da frente.",
+    "Answer": "A",
+    "Explanation": "A Adaptar a velocidade às condições da via."
+  },
+  {
+    "ID": 3815,
+    "question": "Como devo proceder na situação em que me encontro?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "Aumentar a distância de segurança.",
+    "optionB": "B Circular junto ao eixo da faixa de rodagem.",
+    "optionC": "Ligar os máximos e reduzir a velocidade.",
+    "Answer": "A",
+    "Explanation": "A Aumentar a distância de segurança."
+  },
+  {
+    "ID": 3814,
+    "question": "Com o piso escorregadio, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Aumentar a distância de segurança.",
+    "optionB": "B Diminuir a distância de segurança.",
+    "optionC": "Manter a distância de segurança.",
+    "Answer": "A",
+    "Explanation": "A Aumentar a distância de segurança."
+  },
+  {
+    "ID": 3813,
+    "question": "Com estas condições atmosféricas posso ultrapassar?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Não, porque não tenho visibilidade suficiente.",
+    "optionB": "B Sim, porque não vêm veículos em sentido contrário.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Não, porque não tenho visibilidade suficiente."
+  },
+  {
+    "ID": 3812,
+    "question": "Circulo numa via reservada a automóveis e motociclos. Logo na via de trânsito em que me encontro podem circular, para ultrapassar:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Todos os automóveis, menos os pesados de mercadorias ou conjunto de veículos cujo comprimento exceda 7 metros.",
+    "optionB": "B Todos os automóveis, menos os pesados de passageiros.",
+    "optionC": "Todos os veículos.",
+    "Answer": "A",
+    "Explanation": "A Todos os automóveis, menos os pesados de mercadorias ou conjunto de veículos cujo comprimento exceda 7 metros."
+  },
+  {
+    "ID": 3811,
+    "question": "Circulo numa auto-estrada. Posso inverter o sentido da marcha?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "É permitido com baixo volume de trânsito.",
+    "optionB": "B É permitido junto às portagens.",
+    "optionC": "Não, é proibido.",
+    "Answer": "C",
+    "Explanation": "C Não, é proibido."
+  },
+  {
+    "ID": 3810,
+    "question": "As condições meteorológicas ou ambientais podem obrigar-me a moderar especialmente a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Sim, mas apenas quando chove ou está nevoeiro.",
+    "optionB": "B Sim, mas apenas quando chove, neva, está nevoeiro, há gelo ou é de noite.",
+    "optionC": "Sim, sempre que a visibilidade é afectada.",
+    "Answer": "C",
+    "Explanation": "C Sim, sempre que a visibilidade é afectada."
+  },
+  {
+    "ID": 3809,
+    "question": "Ao circular numa auto-estrada e sempre que a visibilidade seja insuficiente, como devo proceder em caso de avaria da luz de cruzamento do lado esquerdo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "A circulação apenas é permitida até à próxima área de serviço ou saída mais próxima.",
+    "optionB": "B A circulação é permitida até ao local de destino.",
+    "optionC": "Devo imobilizar o veículo em segurança, o mais rapidamente possível.",
+    "Answer": "C",
+    "Explanation": "C Devo imobilizar o veículo em segurança, o mais rapidamente possível."
+  },
+  {
+    "ID": 3808,
+    "question": "Ao circular numa auto-estrada e sempre que a visibilidade seja insuficiente, como devo proceder em caso de avaria da luz de cruzamento do lado direito?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "A circulação apenas é permitida até à próxima área de serviço ou saída mais próxima.",
+    "optionB": "B A circulação é permitida até ao local de destino.",
+    "optionC": "Devo imobilizar imediatamente o veículo.",
+    "Answer": "A",
+    "Explanation": "A A circulação apenas é permitida até à próxima área de serviço ou saída mais próxima."
+  },
+  {
+    "ID": 3807,
+    "question": "Ao circular neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Circular sempre à velocidade máxima de 120 km/h.",
+    "optionB": "B Circular sempre com as luzes de presença ligadas.",
+    "optionC": "Manter sempre uma distância de segurança.",
+    "Answer": "C",
+    "Explanation": "C Manter sempre uma distância de segurança."
+  },
+  {
+    "ID": 3806,
+    "question": "Ao circular nesta via, devo moderar especialmente a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "Não, apenas estou obrigado a regular a velocidade em função do limite máximo para esta via.",
+    "optionB": "B Sim, devo adequar a velocidade atendendo às condições meteorológicas.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim, devo adequar a velocidade atendendo às condições meteorológicas."
+  },
+  {
+    "ID": 3805,
+    "question": "Ao circular nesta via pública, o condutor de um automóvel pesado deve manter uma distância mínima que permita a sua ultrapassagem com segurança. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Não, a afirmação está incorrecta.",
+    "optionB": "B Sim, deve manter uma distância máxima de 50 metros.",
+    "optionC": "Sim, deve manter uma distância mínima de 50 metros.",
+    "Answer": "C",
+    "Explanation": "C Sim, deve manter uma distância mínima de 50 metros."
+  },
+  {
+    "ID": 3804,
+    "question": "Ao circular fora de uma localidade em marcha lenta, o condutor de um automóvel pesado deve manter em relação ao veículo que circula à sua frente uma distância mínima de 50 metros.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "A afirmação está correcta.",
+    "optionB": "B A afirmação está incorrecta.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A A afirmação está correcta."
+  },
+  {
+    "ID": 3803,
+    "question": "Ao circular em auto-estrada estou obrigado a circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "Pela via de trânsito mais à direita.",
+    "optionB": "B Pela via de trânsito mais à esquerda.",
+    "optionC": "Pela via de trânsito mais conveniente ao meu destino.",
+    "Answer": "A",
+    "Explanation": "A Pela via de trânsito mais à direita."
+  },
+  {
+    "ID": 3802,
+    "question": "A visibilidade é reduzida ou insuficiente sempre que o condutor não possa avistar a faixa de rodagem em toda a sua largura numa extensão de, pelo menos, 50 metros.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3801,
+    "question": "A via de trânsito destina-se à circulação de quantas filas de veículos?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "Duas.",
+    "optionB": "B Três ou mais.",
+    "optionC": "Uma.",
+    "Answer": "C",
+    "Explanation": "C Uma."
+  },
+  {
+    "ID": 3800,
+    "question": "A velocidade deve ser especialmente moderada quando as condições atmosféricas são desfavoráveis.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3799,
+    "question": "A sinalização adverte-me para a possível diminuição de aderência. Devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Diminuir a distância de paragem e aumentar a velocidade.",
+    "optionB": "B Diminuir a distância de segurança e aumentar a distância de paragem.",
+    "optionC": "Diminuir a velocidade e aumentar a distância de segurança.",
+    "Answer": "C",
+    "Explanation": "C Diminuir a velocidade e aumentar a distância de segurança."
+  },
+  {
+    "ID": 3798,
+    "question": "A perda de informação visual que se verifica durante a noite dificulta os processos de percepção e de tomada de decisão ao volante.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "A afirmação é falsa.",
+    "optionB": "B A afirmação é verdadeira.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B A afirmação é verdadeira."
+  },
+  {
+    "ID": 3797,
+    "question": "A distância de paragem aumenta quando a aderência ao piso é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Maior.",
+    "optionB": "B Menor.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Menor."
+  },
+  {
+    "ID": 3796,
+    "question": "A condução nestas condições afecta:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "A distância de reacção.",
+    "optionB": "B A distância de travagem.",
+    "optionC": "O tempo de reacção.",
+    "Answer": "B",
+    "Explanation": "B A distância de travagem."
+  },
+  {
+    "ID": 3795,
+    "question": "A aquaplanagem, regra geral, é provocada por:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Água.",
+    "optionB": "B Óleo na estrada.",
+    "optionC": "Qualquer substância que se encontre entre o pneu e o piso.",
+    "Answer": "A",
+    "Explanation": "A Água."
+  },
+  {
+    "ID": 3794,
+    "question": "A aquaplanagem pode ocorrer:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "Apenas com pneus lisos.",
+    "optionB": "B Se eu não adaptar a velocidade às condições do piso.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Se eu não adaptar a velocidade às condições do piso."
+  },
+  {
+    "ID": 3793,
+    "question": "Um triciclo de cilindrada superior a 50 cm3 pode circular na via pública em que vou entrar?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Não. É proibida a circulação de triciclos.",
+    "optionB": "B Sim, não podendo exceder a velocidade máxima de 100 Km/h.",
+    "optionC": "Sim, não podendo exceder a velocidade máxima de 90 Km/h.",
+    "Answer": "C",
+    "Explanation": "C Sim, não podendo exceder a velocidade máxima de 90 Km/h."
+  },
+  {
+    "ID": 3792,
+    "question": "Um motociclo de cilindrada inferior a 50 cm3 não pode exceder, dentro duma localidade, o limite máximo de velocidade de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "40 Km/h.",
+    "optionB": "B 50 Km/h.",
+    "optionC": "60 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 40 Km/h."
+  },
+  {
+    "ID": 3791,
+    "question": "Um dos factores que deve influenciar a velocidade a que transito é a visibilidade do local.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3790,
+    "question": "Um dos cuidados a considerar, no cruzamento de veículos será:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "A altura de ambos.",
+    "optionB": "B A altura do meu veículo.",
+    "optionC": "A velocidade, tendo em conta as características do veículo.",
+    "Answer": "C",
+    "Explanation": "C A velocidade, tendo em conta as características do veículo."
+  },
+  {
+    "ID": 3789,
+    "question": "Um condutor está obrigado a moderar especialmente a velocidade quando circula nesta ponte. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3788,
+    "question": "Um automóvel ligeiro de passageiros com reboque ao circular nesta auto-estrada não pode exceder a velocidade máxima de 100 Km/h. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3787,
+    "question": "Um automóvel ligeiro de mercadorias, sem reboque, ao circular fora de uma localidade, não pode exceder a velocidade máxima de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "80 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 80 Km/h."
+  },
+  {
+    "ID": 3786,
+    "question": "Travar com o motor significa:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Moderar a velocidade sem auxílio do motor.",
+    "optionB": "B Reduzir a velocidade com auxílio do motor.",
+    "optionC": "Utilizar o travão de serviço.",
+    "Answer": "B",
+    "Explanation": "B Reduzir a velocidade com auxílio do motor."
+  },
+  {
+    "ID": 3785,
+    "question": "Transito em auto-estrada, qual a velocidade mínima a que pode circular o veículo pesado que vai à minha frente?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "50 km/h, como qualquer outro veículo.",
+    "optionB": "B 60km/h, tal como a indicação dada pelo sinal.",
+    "optionC": "80km/h, por ser destinado ao transporte de mercadorias.",
+    "Answer": "A",
+    "Explanation": "A 50 km/h, como qualquer outro veículo."
+  },
+  {
+    "ID": 3784,
+    "question": "Transito dentro da localidade. Nesta situação devo circular à velocidade de 50 km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Não, porque o limite de velocidade dentro das localidades é de 40 km/h.",
+    "optionB": "B Não.",
+    "optionC": "Sim, se conduzir um automóvel ligeiro.",
+    "Answer": "B",
+    "Explanation": "B Não."
+  },
+  {
+    "ID": 3783,
+    "question": "Transito correctamente nesta via de trânsito?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Sim, porque circula um veículo na via de trânsito da esquerda.",
+    "optionB": "B Sim, porque circulo à velocidade máxima permitida no local.",
+    "optionC": "Sim, se estiver a ultrapassar.",
+    "Answer": "C",
+    "Explanation": "C Sim, se estiver a ultrapassar."
+  },
+  {
+    "ID": 3782,
+    "question": "Transito à velocidade de 90 km/h. Neste local posso ser ultrapassado?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "Não.",
+    "optionB": "B Sim, por um ligeiro de passageiros.",
+    "optionC": "Sim, por um pesado de passageiros.",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3781,
+    "question": "Transitando numa localidade, qual é o limite máximo de velocidade para o automóvel pesado de passageiros sem reboque que circula à minha frente?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "40 km/h.",
+    "optionB": "B 45 km/h.",
+    "optionC": "50 km/h.",
+    "Answer": "C",
+    "Explanation": "C 50 km/h."
+  },
+  {
+    "ID": 3780,
+    "question": "Transitando a 60 km/h, pode considerar-se que o condutor do veículo pesado de mercadorias sem reboque circula em excesso de velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Não, porque o limite de velocidade é de 60 km/h.",
+    "optionB": "B Sim, porque o limite de velocidade é de 40 km/h.",
+    "optionC": "Sim, porque o limite de velocidade é de 50 km/h.",
+    "Answer": "C",
+    "Explanation": "C Sim, porque o limite de velocidade é de 50 km/h."
+  },
+  {
+    "ID": 3779,
+    "question": "Sou obrigado a moderar a velocidade do meu veículo em todas as curvas, lombas e outros locais de visibilidade reduzida?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3778,
+    "question": "Se pretender ultrapassar o veículo de mercadorias que circula à minha frente, devo fazê-lo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "Apenas pela direita.",
+    "optionB": "B Apenas pela esquerda.",
+    "optionC": "Por qualquer um dos lados.",
+    "Answer": "B",
+    "Explanation": "B Apenas pela esquerda."
+  },
+  {
+    "ID": 3777,
+    "question": "Se o condutor que transita à minha frente, diminuir a velocidade, a distância de segurança:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Aumenta.",
+    "optionB": "B Diminui.",
+    "optionC": "Não se altera.",
+    "Answer": "B",
+    "Explanation": "B Diminui."
+  },
+  {
+    "ID": 3776,
+    "question": "Se nesta faixa de rodagem transitar um veículo à velocidade de 100 km/h, comete uma infracção?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "Não, se o veículo for um automóvel ligeiro de mercadorias com reboque.",
+    "optionB": "B Não, se o veículo for um automóvel ligeiro de passageiros.",
+    "optionC": "Sim, devido à sinalização, existente no local.",
+    "Answer": "B",
+    "Explanation": "B Não, se o veículo for um automóvel ligeiro de passageiros."
+  },
+  {
+    "ID": 3775,
+    "question": "Se não moderar a velocidade numa descida de inclinação acentuada, pratico alguma infracção ao Código da Estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3774,
+    "question": "Se for necessário aumentar a distância de segurança, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Manter a velocidade desde que mude de via de trânsito.",
+    "optionC": "Reduzir a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade."
+  },
+  {
+    "ID": 3773,
+    "question": "Se eu aumentar a velocidade devo aumentar a distância de segurança.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3772,
+    "question": "Se conduzir uma máquina agrícola ou motocultivador, a velocidade máxima permitida dentro das localidades é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "20 km/h.",
+    "optionB": "B 30 km/h.",
+    "optionC": "40 km/h.",
+    "Answer": "A",
+    "Explanation": "A 20 km/h."
+  },
+  {
+    "ID": 3771,
+    "question": "Se circular nesta auto-estrada com um automóvel ligeiro de mercadorias sem reboque, nunca posso exceder a velocidade máxima de 110 Km/h. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "Não, ao circular nesta auto-estrada posso circular a uma velocidade até 120 Km/h.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3770,
+    "question": "Se circular com um automóvel ligeiro de passageiros sem reboque, qual a velocidade que nunca posso exceder ao circular na via pública em que vou entrar?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 70 Km/h.",
+    "optionC": "80 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 100 Km/h."
+  },
+  {
+    "ID": 3769,
+    "question": "Se a intensidade do trânsito aumentar, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Diminuir a velocidade.",
+    "optionC": "Manter a velocidade.",
+    "Answer": "B",
+    "Explanation": "B Diminuir a velocidade."
+  },
+  {
+    "ID": 3768,
+    "question": "Regra geral, qualquer motociclo, pode circular dentro das localidades, à velocidade de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "40 Km/h.",
+    "optionB": "B 50 Km/h.",
+    "optionC": "60 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 40 Km/h."
+  },
+  {
+    "ID": 3767,
+    "question": "Regra geral, numa localidade a velocidade deve ser especialmente moderada, não podendo exceder:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "30 Km/h.",
+    "optionB": "B 40 km/h.",
+    "optionC": "50 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 50 Km/h."
+  },
+  {
+    "ID": 3766,
+    "question": "Regra geral, dentro das localidades, um automóvel pesado de mercadorias sem reboque, não pode exceder a velocidade de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "40 km/h.",
+    "optionB": "B 50 Km/h.",
+    "optionC": "60 Km/h.",
+    "Answer": "B",
+    "Explanation": "B 50 Km/h."
+  },
+  {
+    "ID": 3765,
+    "question": "Regra geral em condições óptimas de circulação posso circular a 40 km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Sim, desde que possa imobilizar o meu veículo em segurança.",
+    "optionB": "B Sim, em qualquer circunstância.",
+    "optionC": "Sim, se o condutor da frente for a velocidade inferior.",
+    "Answer": "A",
+    "Explanation": "A Sim, desde que possa imobilizar o meu veículo em segurança."
+  },
+  {
+    "ID": 3764,
+    "question": "Que precauções devo adoptar no local em que me encontro?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Aumentar a distância de paragem.",
+    "optionB": "B Circular com velocidade moderada.",
+    "optionC": "Travar o mais rapidamente possível.",
+    "Answer": "B",
+    "Explanation": "B Circular com velocidade moderada."
+  },
+  {
+    "ID": 3763,
+    "question": "Que limites de velocidade se encontram fixados para a circulação em auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Apenas máximos.",
+    "optionB": "B Apenas mínimos.",
+    "optionC": "Mínimos e máximos.",
+    "Answer": "C",
+    "Explanation": "C Mínimos e máximos."
+  },
+  {
+    "ID": 3762,
+    "question": "Quando sou ultrapassado, em auto-estrada, a velocidade do meu veículo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Deve aumentar.",
+    "optionB": "B Deve diminuir.",
+    "optionC": "Não deve ser alterada.",
+    "Answer": "C",
+    "Explanation": "C Não deve ser alterada."
+  },
+  {
+    "ID": 3761,
+    "question": "Quando o piso está molhado, a aderência diminui. Pelo que:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "A velocidade deve ser maior, para melhorar as condições de aderência.",
+    "optionB": "B A velocidade deve ser moderada.",
+    "optionC": "A velocidade não deve ser alterada.",
+    "Answer": "B",
+    "Explanation": "B A velocidade deve ser moderada."
+  },
+  {
+    "ID": 3760,
+    "question": "Quando o piso está escorregadio, devo utilizar o motor como auxiliar do travão?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Não, devo utilizar apenas o travão de serviço.",
+    "optionB": "B Sim e também devo evitar travagens bruscas.",
+    "optionC": "Sim, apesar de ser mais seguro o travão de estacionamento.",
+    "Answer": "B",
+    "Explanation": "B Sim e também devo evitar travagens bruscas."
+  },
+  {
+    "ID": 3759,
+    "question": "Quando o pavimento é irregular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "A velocidade deve ser maior.",
+    "optionB": "B A velocidade deve ser menor.",
+    "optionC": "A velocidade não deve ser alterada.",
+    "Answer": "B",
+    "Explanation": "B A velocidade deve ser menor."
+  },
+  {
+    "ID": 3758,
+    "question": "Quando existe maior dificuldade na recolha de informação, a velocidade:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Deve aumentar.",
+    "optionB": "B Deve diminuir.",
+    "optionC": "Deve manter-se, desde que as luzes do veículo estejam ligadas.",
+    "Answer": "B",
+    "Explanation": "B Deve diminuir."
+  },
+  {
+    "ID": 3757,
+    "question": "Quando a visibilidade é reduzida a velocidade:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Deve aumentar.",
+    "optionB": "B Deve ser moderada.",
+    "optionC": "Não deve ser alterada.",
+    "Answer": "B",
+    "Explanation": "B Deve ser moderada."
+  },
+  {
+    "ID": 3756,
+    "question": "Quando a visibilidade é menor, a velocidade, deve ser:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Adaptada apenas às características do veículo.",
+    "optionB": "B Maior.",
+    "optionC": "Menor e adaptada às características do meio envolvente.",
+    "Answer": "C",
+    "Explanation": "C Menor e adaptada às características do meio envolvente."
+  },
+  {
+    "ID": 3755,
+    "question": "Quando a visibilidade é insuficiente, para além da utilização das luzes, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Adaptar a velocidade.",
+    "optionB": "B Moderar a velocidade e utilizar os sinais sonoros.",
+    "optionC": "Utilizar sempre os sinais sonoros.",
+    "Answer": "A",
+    "Explanation": "A Adaptar a velocidade."
+  },
+  {
+    "ID": 3754,
+    "question": "Quando a intensidade de trânsito aumenta, a velocidade deve:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Aumentar.",
+    "optionB": "B Diminuir, apenas se circular em auto-estrada.",
+    "optionC": "Diminuir.",
+    "Answer": "C",
+    "Explanation": "C Diminuir."
+  },
+  {
+    "ID": 3753,
+    "question": "Quando a aderência ao piso é menor, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Aumentar a velocidade, aumentando a distância de segurança.",
+    "optionB": "B Circular a velocidade especialmente moderada.",
+    "optionC": "Moderar a velocidade, para diminuir a distância de segurança.",
+    "Answer": "B",
+    "Explanation": "B Circular a velocidade especialmente moderada."
+  },
+  {
+    "ID": 3752,
+    "question": "Quando a aderência ao piso é menor, a velocidade:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Deve aumentar.",
+    "optionB": "B Deve diminuir.",
+    "optionC": "Não deve sofrer qualquer alteração.",
+    "Answer": "B",
+    "Explanation": "B Deve diminuir."
+  },
+  {
+    "ID": 3751,
+    "question": "Quando a aderência ao piso é menor, a distância de paragem aumenta e a velocidade deve:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Aumentar.",
+    "optionB": "B Diminuir.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Diminuir."
+  },
+  {
+    "ID": 3750,
+    "question": "Quando a aderência ao piso é menor devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Moderar a velocidade.",
+    "optionC": "Travar.",
+    "Answer": "B",
+    "Explanation": "B Moderar a velocidade."
+  },
+  {
+    "ID": 3749,
+    "question": "Quando a aderência ao piso é menor a velocidade deve ser moderada, porque:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "A distância de paragem aumenta.",
+    "optionB": "B A distância de paragem diminui.",
+    "optionC": "A distância de travagem diminui.",
+    "Answer": "A",
+    "Explanation": "A A distância de paragem aumenta."
+  },
+  {
+    "ID": 3748,
+    "question": "Quando a aderência ao piso é menor a distância de paragem aumenta. Logo devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Diminuir a velocidade.",
+    "optionC": "Manter a velocidade.",
+    "Answer": "B",
+    "Explanation": "B Diminuir a velocidade."
+  },
+  {
+    "ID": 3747,
+    "question": "Qual o limite mínimo de velocidade instantânea fixado para a circulação neste tipo de via?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "40 km/h.",
+    "optionB": "B 50 km/h.",
+    "optionC": "60 km/h.",
+    "Answer": "B",
+    "Explanation": "B 50 km/h."
+  },
+  {
+    "ID": 3746,
+    "question": "Qual é o limite máximo de velocidade permitido na via em que circulo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "80 km/h para todos os automóveis pesados sem reboque.",
+    "optionB": "B 90 km/h para todos os automóveis ligeiros.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A 80 km/h para todos os automóveis pesados sem reboque."
+  },
+  {
+    "ID": 3745,
+    "question": "Qual é o limite máximo de velocidade para um automóvel ligeiro de mercadorias, numa via reservada a automóveis e motociclos?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "80 km/h, se tiver atrelado um reboque.",
+    "Answer": "C",
+    "Explanation": "C 80 km/h, se tiver atrelado um reboque."
+  },
+  {
+    "ID": 3744,
+    "question": "Qual é a velocidade máxima permitida, no local em que me encontro, para automóveis ligeiros de passageiros sem reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "70 Km/h.",
+    "optionB": "B 80 km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 Km/h."
+  },
+  {
+    "ID": 3743,
+    "question": "Qual é a velocidade máxima permitida, no local em que me encontro, para automóveis ligeiros de mercadorias sem reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "60 Km/h.",
+    "optionB": "B 70 Km/h.",
+    "optionC": "80 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 80 Km/h."
+  },
+  {
+    "ID": 3742,
+    "question": "Qual é a velocidade máxima permitida nesta via não urbana?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "70 km/h para os automóveis pesados de mercadorias com reboque.",
+    "optionB": "B 80 km/h para todos os automóveis ligeiros com reboque.",
+    "optionC": "90 km/h para todos os veículos.",
+    "Answer": "A",
+    "Explanation": "A 70 km/h para os automóveis pesados de mercadorias com reboque."
+  },
+  {
+    "ID": 3741,
+    "question": "Qual é a velocidade máxima permitida nesta faixa de rodagem?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 110 km/h.",
+    "optionC": "Depende da via de trânsito em que me encontro.",
+    "Answer": "A",
+    "Explanation": "A 100 km/h."
+  },
+  {
+    "ID": 3740,
+    "question": "Qual é a velocidade máxima a que posso circular nesta via pública?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "70 km/h, se conduzir um automóvel ligeiro de mercadorias sem reboque.",
+    "optionB": "B 80 km/h, se conduzir um automóvel pesado de passageiros sem reboque.",
+    "optionC": "90 km/h, independentemente do veículo que conduza.",
+    "Answer": "B",
+    "Explanation": "B 80 km/h, se conduzir um automóvel pesado de passageiros sem reboque."
+  },
+  {
+    "ID": 3739,
+    "question": "Qual dos seguintes veículos não pode exceder a velocidade de 90 Km/h ao circular nesta via pública?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Automóvel ligeiro de mercadorias, com reboque.",
+    "optionB": "B Automóvel ligeiro de mercadorias, sem reboque.",
+    "optionC": "Automóvel ligeiro de passageiros, sem reboque.",
+    "Answer": "A",
+    "Explanation": "A Automóvel ligeiro de mercadorias, com reboque."
+  },
+  {
+    "ID": 3738,
+    "question": "Qual dos seguintes tipos de veículos está proibido de exceder a velocidade máxima de 110 Km/h nesta auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "Os automóveis ligeiros de mercadorias, sem reboque.",
+    "optionB": "B Os automóveis ligeiros de passageiros, sem reboque.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Os automóveis ligeiros de mercadorias, sem reboque."
+  },
+  {
+    "ID": 3737,
+    "question": "Qual a velocidade mínima a que devo circular na via de trânsito em que me encontro?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "50 Km/h.",
+    "optionB": "B 60 Km/h.",
+    "optionC": "70 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 70 Km/h."
+  },
+  {
+    "ID": 3736,
+    "question": "Qual a velocidade máxima permitida, neste local para os automóveis ligeiros sem reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "40 km/h, se forem de mercadorias.",
+    "optionB": "B 50 km/h.",
+    "optionC": "60 km/h, se forem de passageiros.",
+    "Answer": "B",
+    "Explanation": "B 50 km/h."
+  },
+  {
+    "ID": 3735,
+    "question": "Qual a velocidade máxima permitida para um triciclo de cilindrada superior a 50 cm3 para a via pública em que vou entrar?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "70 Km/h.",
+    "optionB": "B 80 Km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 Km/h."
+  },
+  {
+    "ID": 3734,
+    "question": "Qual a velocidade máxima permitida para a via de trânsito em que vou entrar?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "120 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 100 Km/h."
+  },
+  {
+    "ID": 3733,
+    "question": "Qual a velocidade máxima a que pode transitar um motociclo de cilindrada superior a 50 cm3, após o sinal vertical?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "30 Km/h.",
+    "optionB": "B 40 Km/h.",
+    "optionC": "50 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 50 Km/h."
+  },
+  {
+    "ID": 3732,
+    "question": "Qual a velocidade máxima a que este automóvel ligeiro de passageiros com reboque, pode transitar nas vias reservadas a automóveis e motociclos?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "80 km/h.",
+    "Answer": "C",
+    "Explanation": "C 80 km/h."
+  },
+  {
+    "ID": 3731,
+    "question": "Qual a velocidade máxima a que devo circular numa auto-estrada conduzindo um automóvel ligeiro de passageiros com reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "120 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 100 Km/h."
+  },
+  {
+    "ID": 3730,
+    "question": "Qual a velocidade a que um automóvel ligeiro de passageiros, com reboque, pode circular fora de uma localidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "50 Km/h.",
+    "optionB": "B 70 Km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "B",
+    "Explanation": "B 70 Km/h."
+  },
+  {
+    "ID": 3729,
+    "question": "Posso ser sancionado por circular a 110 km/h numa auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Não, porque o limite máximo de velocidade é de 120 km/h.",
+    "optionB": "B Sim, se a velocidade for excessiva para as características da via e exista sinalização a impor um limite máximo de velocidade.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim, se a velocidade for excessiva para as características da via e exista sinalização a impor um limite máximo de velocidade."
+  },
+  {
+    "ID": 3728,
+    "question": "Posso parar na faixa de rodagem?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Não, porque as regras de paragem mo proíbem.",
+    "optionB": "B Sim, desde que seja para largar passageiros.",
+    "optionC": "Sim, se a paragem for rápida.",
+    "Answer": "A",
+    "Explanation": "A Não, porque as regras de paragem mo proíbem."
+  },
+  {
+    "ID": 3727,
+    "question": "Porque o piso está molhado, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Adequar a velocidade ao estado de aderência do piso.",
+    "optionB": "B Ligar as luzes de cruzamento.",
+    "optionC": "Ligar as luzes de estrada.",
+    "Answer": "A",
+    "Explanation": "A Adequar a velocidade ao estado de aderência do piso."
+  },
+  {
+    "ID": 3726,
+    "question": "Porque me aproximo da curva, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "Fazer sinal de mudança de direcção.",
+    "optionB": "B Preparar-me para travar ao descrever a curva.",
+    "optionC": "Reduzir a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade."
+  },
+  {
+    "ID": 3725,
+    "question": "Por circular numa auto-estrada, a velocidade máxima permitida, é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "120 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "A",
+    "Explanation": "A 120 km/h."
+  },
+  {
+    "ID": 3724,
+    "question": "Podem ser fixados limites máximos de velocidade diferentes dos previstos no Código da Estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3723,
+    "question": "Podem ser fixados limites de velocidade inferiores ou superiores aos estabelecidos no Código da Estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Não.",
+    "optionB": "B Sim, sempre que a intensidade do trânsito ou as características da via aconselharem.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim, sempre que a intensidade do trânsito ou as características da via aconselharem."
+  },
+  {
+    "ID": 3722,
+    "question": "Perante os sinais, como devo proceder?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Acelerar e buzinar para assinalar a presença do veículo.",
+    "optionB": "B Circular a mais de 50 Km/h.",
+    "optionC": "Moderar a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Moderar a velocidade."
+  },
+  {
+    "ID": 3721,
+    "question": "Perante o sinal, devo reduzir a velocidade porque:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Me aproximo de um local onde há uma portagem.",
+    "optionB": "B Me aproximo duma zona regulada por sinalização luminosa.",
+    "optionC": "Vou entrar numa localidade.",
+    "Answer": "B",
+    "Explanation": "B Me aproximo duma zona regulada por sinalização luminosa."
+  },
+  {
+    "ID": 3720,
+    "question": "Perante o sinal vertical:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "A velocidade máxima permitida é de 100 km/h.",
+    "optionB": "B A velocidade mínima permitida é de 100 km/h.",
+    "optionC": "A velocidade obrigatória é de 100 km/h.",
+    "Answer": "A",
+    "Explanation": "A A velocidade máxima permitida é de 100 km/h."
+  },
+  {
+    "ID": 3719,
+    "question": "Perante o sinal de perigo devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Adequar a velocidade às características da via.",
+    "optionB": "B Reduzir a velocidade e transitar à velocidade mínima de 70 km/h.",
+    "optionC": "Reduzir a velocidade para 70 km/h.",
+    "Answer": "A",
+    "Explanation": "A Adequar a velocidade às características da via."
+  },
+  {
+    "ID": 3718,
+    "question": "Perante este sinal, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Parar, junto ao local da saída de ciclistas.",
+    "optionB": "B Reduzir a velocidade e ceder passagem aos ciclistas.",
+    "optionC": "Transitar a velocidade moderada e prestar especial atenção aos ciclistas.",
+    "Answer": "C",
+    "Explanation": "C Transitar a velocidade moderada e prestar especial atenção aos ciclistas."
+  },
+  {
+    "ID": 3717,
+    "question": "Perante este sinal, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Buzinar e reduzir a velocidade.",
+    "optionB": "B Circular a velocidade moderada.",
+    "optionC": "Passar rapidamente pelo local.",
+    "Answer": "B",
+    "Explanation": "B Circular a velocidade moderada."
+  },
+  {
+    "ID": 3716,
+    "question": "Perante este sinal que precauções devo tomar?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Avançar rapidamente.",
+    "optionB": "B Parar imediatamente.",
+    "optionC": "Reduzir a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade."
+  },
+  {
+    "ID": 3715,
+    "question": "Perante este sinal não devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Diminuir a velocidade.",
+    "optionC": "Moderar a velocidade.",
+    "Answer": "A",
+    "Explanation": "A Aumentar a velocidade."
+  },
+  {
+    "ID": 3714,
+    "question": "Perante este sinal devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "Circular a velocidade especialmente moderada.",
+    "optionB": "B Manter a velocidade.",
+    "optionC": "Parar.",
+    "Answer": "A",
+    "Explanation": "A Circular a velocidade especialmente moderada."
+  },
+  {
+    "ID": 3713,
+    "question": "Perante este sinal devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Aumentar a pressão dos pneus.",
+    "optionB": "B Circular a velocidade constante.",
+    "optionC": "Circular a velocidade especialmente moderada.",
+    "Answer": "C",
+    "Explanation": "C Circular a velocidade especialmente moderada."
+  },
+  {
+    "ID": 3712,
+    "question": "Perante este sinal devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Ceder a passagem aos peões.",
+    "optionB": "B Ceder a passagem aos veículos que venham em sentido contrário.",
+    "optionC": "Circular a velocidade especialmente moderada.",
+    "Answer": "C",
+    "Explanation": "C Circular a velocidade especialmente moderada."
+  },
+  {
+    "ID": 3711,
+    "question": "Perante este sinal devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Aumentar a velocidade para passar o mais rapidamente possível.",
+    "optionB": "B Reduzir a velocidade e circular com especial atenção.",
+    "optionC": "Reduzir a velocidade e deslocar-me para a esquerda.",
+    "Answer": "B",
+    "Explanation": "B Reduzir a velocidade e circular com especial atenção."
+  },
+  {
+    "ID": 3710,
+    "question": "Perante a sinalização, é importante:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "Adequar a velocidade.",
+    "optionB": "B Parar, se estiver muito nevoeiro.",
+    "optionC": "Que eu ultrapasse rapidamente.",
+    "Answer": "A",
+    "Explanation": "A Adequar a velocidade."
+  },
+  {
+    "ID": 3709,
+    "question": "Perante a sinalização fico a saber que:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Não posso estacionar e devo moderar a velocidade.",
+    "optionB": "B Não posso parar e devo moderar a velocidade.",
+    "optionC": "Não posso parar, nem estacionar.",
+    "Answer": "A",
+    "Explanation": "A Não posso estacionar e devo moderar a velocidade."
+  },
+  {
+    "ID": 3708,
+    "question": "Perante a sinalização existente:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "Devo circular apenas nas duas vias mais à direita.",
+    "optionB": "B Não devo circular a velocidade inferior ao limite fixado.",
+    "optionC": "Não devo ultrapassar.",
+    "Answer": "B",
+    "Explanation": "B Não devo circular a velocidade inferior ao limite fixado."
+  },
+  {
+    "ID": 3707,
+    "question": "Perante a sinalização existente o condutor de um automóvel pesado de mercadorias:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "Não deve circular nas vias de trânsito mais à esquerda.",
+    "optionB": "B Não deve fazer ultrapassagens.",
+    "optionC": "Pode usar qualquer via de trânsito, desde que respeite os limites de velocidade.",
+    "Answer": "A",
+    "Explanation": "A Não deve circular nas vias de trânsito mais à esquerda."
+  },
+  {
+    "ID": 3706,
+    "question": "Perante a sinalização devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Moderar a velocidade e ultrapassar.",
+    "optionB": "B Parar.",
+    "optionC": "Reduzir a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade."
+  },
+  {
+    "ID": 3705,
+    "question": "Para circular com segurança, neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "Adequar a velocidade às características da via.",
+    "optionB": "B Aproximar o veículo do eixo da faixa de rodagem, moderando a velocidade.",
+    "optionC": "Parar antes da curva.",
+    "Answer": "A",
+    "Explanation": "A Adequar a velocidade às características da via."
+  },
+  {
+    "ID": 3704,
+    "question": "Para as auto-estradas, estão estabelecidos limites:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Máximos mas não mínimos.",
+    "optionB": "B Mínimos e máximos de velocidade.",
+    "optionC": "Mínimos mas não máximos.",
+    "Answer": "B",
+    "Explanation": "B Mínimos e máximos de velocidade."
+  },
+  {
+    "ID": 3703,
+    "question": "Os veículos, quando transitam em missão urgente de socorro, podem:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "Deixar de parar perante a luz vermelha dos sinais luminosos.",
+    "optionB": "B Exceder os limites de velocidade quando a situação o exigir.",
+    "optionC": "Não parar perante um sinal 'STOP.'",
+    "Answer": "B",
+    "Explanation": "B Exceder os limites de velocidade quando a situação o exigir."
+  },
+  {
+    "ID": 3702,
+    "question": "Os limites de velocidade nas auto-estradas:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "Devem ser alterados.",
+    "optionB": "B Não podem ser alterados.",
+    "optionC": "Podem ser alterados, devido às condições atmosféricas adversas.",
+    "Answer": "C",
+    "Explanation": "C Podem ser alterados, devido às condições atmosféricas adversas."
+  },
+  {
+    "ID": 3701,
+    "question": "Os automóveis ligeiros de passageiros sem reboque, fora das localidades, não podem circular a velocidade superior a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "70 km/h.",
+    "optionB": "B 80 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 km/h."
+  },
+  {
+    "ID": 3700,
+    "question": "Os automóveis ligeiros de mercadorias, sem reboque, ao circularem nesta auto-estrada estão proibidos de exceder a velocidade máxima de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "70 Km/h.",
+    "Answer": "B",
+    "Explanation": "B 110 Km/h."
+  },
+  {
+    "ID": 3699,
+    "question": "Onde é que os automóveis ligeiros com reboque estão proibidos de circular a velocidade máxima superior a 80 km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Nas auto-estradas.",
+    "optionB": "B Nas estradas, fora das localidades.",
+    "optionC": "Nas vias reservadas a automóveis e motociclos.",
+    "Answer": "C",
+    "Explanation": "C Nas vias reservadas a automóveis e motociclos."
+  },
+  {
+    "ID": 3698,
+    "question": "O veículo que circula em sentido contrário, é um automóvel pesado com semi-reboque. Fora da localidade, pode atingir a velocidade de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "110 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "B",
+    "Explanation": "B 70 km/h."
+  },
+  {
+    "ID": 3697,
+    "question": "O sinal é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Cedência de passagem.",
+    "optionB": "B Informação.",
+    "optionC": "Perigo.",
+    "Answer": "C",
+    "Explanation": "C Perigo."
+  },
+  {
+    "ID": 3696,
+    "question": "O sinal de perigo condiciona a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Não.",
+    "optionB": "B Sim, apenas a quem transita na via de trânsito do lado direito.",
+    "optionC": "Sim, porque me aproximo de um local onde prevejo vento intenso do lado esquerdo.",
+    "Answer": "C",
+    "Explanation": "C Sim, porque me aproximo de um local onde prevejo vento intenso do lado esquerdo."
+  },
+  {
+    "ID": 3695,
+    "question": "O sinal de indicação significa que neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Moderar especialmente a velocidade, transitando obrigatoriamente a velocidade inferior à indicada pelo sinal.",
+    "optionB": "B Moderar especialmente a velocidade.",
+    "optionC": "Transitar à velocidade indicada no sinal ou a velocidade inferior.",
+    "Answer": "C",
+    "Explanation": "C Transitar à velocidade indicada no sinal ou a velocidade inferior."
+  },
+  {
+    "ID": 3694,
+    "question": "O sinal circular indica-me que a partir deste local, deixa de existir limitação máxima de velocidade aplicável.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Errado."
+  },
+  {
+    "ID": 3693,
+    "question": "O que me deve levar a moderar a velocidade no local em que circulo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "A diversidade de utentes de grande vulnerabilidade.",
+    "optionB": "B A possibilidade de ocorrência de condições atmosféricas adversas.",
+    "optionC": "O traçado e características da via.",
+    "Answer": "B",
+    "Explanation": "B A possibilidade de ocorrência de condições atmosféricas adversas."
+  },
+  {
+    "ID": 3692,
+    "question": "O que devo fazer, neste local?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Avançar rapidamente, evitando assim parar na subida.",
+    "optionB": "B Parar.",
+    "optionC": "Transitar com precaução e a velocidade moderada.",
+    "Answer": "C",
+    "Explanation": "C Transitar com precaução e a velocidade moderada."
+  },
+  {
+    "ID": 3691,
+    "question": "O que devo fazer relativamente ao veículo que segue à minha frente?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Aumentar a distância de segurança, para iniciar a ultrapassagem.",
+    "optionB": "B Diminuir a distância de segurança.",
+    "optionC": "Manter uma distância que me permita parar em segurança.",
+    "Answer": "C",
+    "Explanation": "C Manter uma distância que me permita parar em segurança."
+  },
+  {
+    "ID": 3690,
+    "question": "O que devo fazer neste local?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Desistir da viagem, invertendo o sentido de marcha rapidamente.",
+    "optionB": "B Moderar a velocidade.",
+    "optionC": "Parar.",
+    "Answer": "B",
+    "Explanation": "B Moderar a velocidade."
+  },
+  {
+    "ID": 3689,
+    "question": "O que devo fazer nesta situação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Adaptar a velocidade às condições de visibilidade.",
+    "optionB": "B Aumentar a velocidade e se necessário ligar os máximos.",
+    "optionC": "Parar, porque a visibilidade do local é insuficiente.",
+    "Answer": "A",
+    "Explanation": "A Adaptar a velocidade às condições de visibilidade."
+  },
+  {
+    "ID": 3688,
+    "question": "O que devo fazer nesta situação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Fazer sinais de luzes se pretender ultrapassar.",
+    "optionB": "B Manter o veículo na mesma via de trânsito.",
+    "optionC": "Parar, porque circula um veículo em sentido contrário.",
+    "Answer": "B",
+    "Explanation": "B Manter o veículo na mesma via de trânsito."
+  },
+  {
+    "ID": 3687,
+    "question": "O que devo fazer nesta situação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Devo inverter o sentido de marcha rapidamente.",
+    "optionB": "B Moderar a velocidade, mas nunca parar para não embaraçar o trânsito.",
+    "optionC": "Utilizar o sinal sonoro alertando o peão da minha presença.",
+    "Answer": "C",
+    "Explanation": "C Utilizar o sinal sonoro alertando o peão da minha presença."
+  },
+  {
+    "ID": 3686,
+    "question": "O piso está molhado. Devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Adequar a velocidade à visibilidade e intensidade do tráfego.",
+    "optionB": "B Aumentar um pouco a velocidade para que a distância de paragem diminua.",
+    "optionC": "Mudar para a via da esquerda.",
+    "Answer": "A",
+    "Explanation": "A Adequar a velocidade à visibilidade e intensidade do tráfego."
+  },
+  {
+    "ID": 3685,
+    "question": "O piso está molhado. Devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Aumentar a velocidade, porque a distância de travagem também aumenta.",
+    "optionB": "B Diminuir a velocidade, porque a distância de travagem aumenta.",
+    "optionC": "Diminuir a velocidade, porque a distância de travagem também diminui.",
+    "Answer": "B",
+    "Explanation": "B Diminuir a velocidade, porque a distância de travagem aumenta."
+  },
+  {
+    "ID": 3684,
+    "question": "O painel destina-se a indicar ao condutor que a velocidade máxima autorizada do veículo é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "30 Km/h.",
+    "optionB": "B 40 Km/h.",
+    "optionC": "50 Km/h.",
+    "Answer": "B",
+    "Explanation": "B 40 Km/h."
+  },
+  {
+    "ID": 3683,
+    "question": "O meu automóvel ligeiro atrela um reboque. Qual a velocidade máxima legalmente permitida fora da localidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "70 Km/h.",
+    "optionB": "B 80 Km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 70 Km/h."
+  },
+  {
+    "ID": 3682,
+    "question": "O local é de visibilidade insuficiente. Devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Moderar a velocidade até ao limite de 40 km/h, porque transito fora da localidade.",
+    "optionB": "B Moderar a velocidade.",
+    "optionC": "Parar.",
+    "Answer": "B",
+    "Explanation": "B Moderar a velocidade."
+  },
+  {
+    "ID": 3681,
+    "question": "O condutor de um triciclo não pode exceder a velocidade de 100 Km/h ao circular nesta auto-estrada. Considera correcta esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "Não, os triciclos nunca podem circular numa auto-estrada.",
+    "optionB": "B Sim, os triciclos de cilindrada superior a 50 cm3 não devem exceder esta velocidade ao circular numa auto-estrada.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim, os triciclos de cilindrada superior a 50 cm3 não devem exceder esta velocidade ao circular numa auto-estrada."
+  },
+  {
+    "ID": 3680,
+    "question": "O condutor de um triciclo ao circular fora de uma localidade não pode exceder a velocidade máxima de 80 Km/h. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Não, excepto os triciclos de cilindrada superior a 50 cm3.",
+    "optionB": "B Não.",
+    "optionC": "Sim.",
+    "Answer": "C",
+    "Explanation": "C Sim."
+  },
+  {
+    "ID": 3679,
+    "question": "O condutor de um automóvel pesado de passageiros sem reboque pode circular a 110 km/h nesta via pública?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Não, o limite de velocidade é de 100 km/h.",
+    "optionB": "B Não, o limite de velocidade é de 110 km/h.",
+    "optionC": "Sim, em auto-estrada o limite geral de velocidade é de 120 km/h.",
+    "Answer": "A",
+    "Explanation": "A Não, o limite de velocidade é de 100 km/h."
+  },
+  {
+    "ID": 3678,
+    "question": "O condutor de um automóvel ligeiro de passageiros, sem reboque, ao circular nesta auto-estrada, não pode exceder a velocidade máxima de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "120 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 120 Km/h."
+  },
+  {
+    "ID": 3677,
+    "question": "O condutor de um automóvel ligeiro de passageiros, ao circular dentro de uma localidade, não pode exceder a velocidade máxima de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "50 Km/h.",
+    "optionB": "B 60 Km/h.",
+    "optionC": "70 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 50 Km/h."
+  },
+  {
+    "ID": 3676,
+    "question": "O condutor de um automóvel ligeiro de mercadorias, com reboque, pode circular, nesta via, à velocidade máxima de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 Km/h."
+  },
+  {
+    "ID": 3675,
+    "question": "O Código da Estrada obriga-me a moderar a velocidade numa rotunda?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "Não, se necessário, apenas devo parar ao entrar numa rotunda.",
+    "optionB": "B Não.",
+    "optionC": "Sim, estou obrigado a moderar especialmente a velocidade do meu veículo.",
+    "Answer": "C",
+    "Explanation": "C Sim, estou obrigado a moderar especialmente a velocidade do meu veículo."
+  },
+  {
+    "ID": 3674,
+    "question": "Numa localidade, qual a velocidade máxima para um automóvel pesado de mercadorias com reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "40 Km/h.",
+    "optionB": "B 50 km/h.",
+    "optionC": "60 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 40 Km/h."
+  },
+  {
+    "ID": 3673,
+    "question": "Numa localidade a velocidade máxima legalmente permitida é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "40 Km/h.",
+    "optionB": "B 50 Km/h.",
+    "optionC": "60 Km/h.",
+    "Answer": "B",
+    "Explanation": "B 50 Km/h."
+  },
+  {
+    "ID": 3672,
+    "question": "Numa auto-estrada a velocidade máxima permitida ao automóvel ligeiro de passageiros com reboque é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 110 Km/h.",
+    "optionC": "120 km/h.",
+    "Answer": "A",
+    "Explanation": "A 100 Km/h."
+  },
+  {
+    "ID": 3671,
+    "question": "Nos locais assinalados com sinais de perigo devo sempre moderar a velocidade. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Não, excepto nas subidas.",
+    "optionB": "B Não, nem sempre sou obrigado a moderar a velocidade.",
+    "optionC": "Sim.",
+    "Answer": "C",
+    "Explanation": "C Sim."
+  },
+  {
+    "ID": 3670,
+    "question": "No preciso local em que me encontro a velocidade máxima permitida para todos os automóveis ligeiros é de 50 km/h.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "A afirmação é falsa.",
+    "optionB": "B A afirmação é verdadeira.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B A afirmação é verdadeira."
+  },
+  {
+    "ID": 3669,
+    "question": "No local em que transito a velocidade, deve ser:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Moderada e não ultrapassando os 30 Km/h.",
+    "optionB": "B Moderada, mas obrigatoriamente de 50 Km/h.",
+    "optionC": "Moderada.",
+    "Answer": "C",
+    "Explanation": "C Moderada."
+  },
+  {
+    "ID": 3668,
+    "question": "No local em que me encontro:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "Devo circular a mais de 50 Km/h.",
+    "optionB": "B Não devo ultrapassar a velocidade indicada no sinal.",
+    "optionC": "Posso circular a mais de 50 Km/h.",
+    "Answer": "C",
+    "Explanation": "C Posso circular a mais de 50 Km/h."
+  },
+  {
+    "ID": 3667,
+    "question": "No local em que me encontro, devo circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "À velocidade mínima de 50 km/h porque circulo numa localidade.",
+    "optionB": "B A velocidade moderada.",
+    "optionC": "Em marcha lenta.",
+    "Answer": "B",
+    "Explanation": "B A velocidade moderada."
+  },
+  {
+    "ID": 3666,
+    "question": "No local em que me encontro devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Transitar a velocidade moderada.",
+    "optionB": "B Transitar no eixo da faixa de rodagem e diminuir a velocidade.",
+    "optionC": "Transitar, no eixo da faixa de rodagem e aumentar a velocidade.",
+    "Answer": "A",
+    "Explanation": "A Transitar a velocidade moderada."
+  },
+  {
+    "ID": 3665,
+    "question": "No local em que me encontro devo circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "A 60 km/h.",
+    "optionB": "B Com velocidade especialmente moderada.",
+    "optionC": "Com velocidade igual ou superior à do veículo que circula à minha frente.",
+    "Answer": "B",
+    "Explanation": "B Com velocidade especialmente moderada."
+  },
+  {
+    "ID": 3664,
+    "question": "No local em que me encontro devo circular a velocidade moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Não, o sinal indica-me a proximidade de um hotel.",
+    "optionB": "B Não.",
+    "optionC": "Sim.",
+    "Answer": "C",
+    "Explanation": "C Sim."
+  },
+  {
+    "ID": 3663,
+    "question": "No interior de uma localidade posso circular com lentidão?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Sim, desde que não cause embaraço injustificado aos restantes utentes da via.",
+    "optionB": "B Sim, em quaisquer circunstâncias.",
+    "optionC": "Sim, se utilizar as luzes de cruzamento acesas.",
+    "Answer": "A",
+    "Explanation": "A Sim, desde que não cause embaraço injustificado aos restantes utentes da via."
+  },
+  {
+    "ID": 3662,
+    "question": "Neste troço de via é obrigatório:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Circular a velocidade especialmente moderada.",
+    "optionB": "B Circular com a 3ª velocidade engatada.",
+    "optionC": "Circular com as luzes de presença acesas.",
+    "Answer": "A",
+    "Explanation": "A Circular a velocidade especialmente moderada."
+  },
+  {
+    "ID": 3661,
+    "question": "Neste preciso local posso circular a mais de 50 Km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Não, devido ao sinal vertical de proibição.",
+    "optionB": "B Não, porque circulo dentro de uma localidade.",
+    "optionC": "Sim, devido ao sinal vertical de proibição.",
+    "Answer": "B",
+    "Explanation": "B Não, porque circulo dentro de uma localidade."
+  },
+  {
+    "ID": 3660,
+    "question": "Neste momento, o piso está escorregadio, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Aumentar a distância de segurança, adaptando a velocidade.",
+    "optionB": "B Diminuir a distância de segurança, moderando a velocidade.",
+    "optionC": "Ligar as luzes de cruzamento.",
+    "Answer": "A",
+    "Explanation": "A Aumentar a distância de segurança, adaptando a velocidade."
+  },
+  {
+    "ID": 3659,
+    "question": "Neste local:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "A velocidade deve ser considerada um elemento fundamental para a segurança.",
+    "optionB": "B A velocidade não pode ser superior a 40 km/h.",
+    "optionC": "É mais seguro parar do que avançar.",
+    "Answer": "A",
+    "Explanation": "A A velocidade deve ser considerada um elemento fundamental para a segurança."
+  },
+  {
+    "ID": 3658,
+    "question": "Neste local, sei que:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "Devo estar especialmente atento.",
+    "optionB": "B Não posso parar e devo moderar especialmente a velocidade.",
+    "optionC": "Não posso parar, nem estacionar.",
+    "Answer": "A",
+    "Explanation": "A Devo estar especialmente atento."
+  },
+  {
+    "ID": 3657,
+    "question": "Neste local, qual é a velocidade máxima permitida?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "110 km/h, para os ligeiros de mercadorias com ou sem reboque.",
+    "optionB": "B 120 km/h, para qualquer automóvel.",
+    "optionC": "90 km/h para um pesado de passageiros, com reboque.",
+    "Answer": "C",
+    "Explanation": "C 90 km/h para um pesado de passageiros, com reboque."
+  },
+  {
+    "ID": 3656,
+    "question": "Neste local, posso transitar a mais de 50 Km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Não posso.",
+    "optionB": "B Posso, caso não exista sinalização que o proíba.",
+    "optionC": "Posso, se houver pouca intensidade de trânsito.",
+    "Answer": "A",
+    "Explanation": "A Não posso."
+  },
+  {
+    "ID": 3655,
+    "question": "Neste local, posso transitar a 50 Km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Não, porque as condições da via não o permitem.",
+    "optionB": "B Não, porque essa velocidade nunca é permitida na localidade.",
+    "optionC": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
+    "Answer": "A",
+    "Explanation": "A Não, porque as condições da via não o permitem."
+  },
+  {
+    "ID": 3654,
+    "question": "Neste local, posso circular a 80 Km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3653,
+    "question": "Neste local, os automóveis pesados de passageiros sem reboque não podem circular a velocidade superior a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "60 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "80 km/h.",
+    "Answer": "C",
+    "Explanation": "C 80 km/h."
+  },
+  {
+    "ID": 3652,
+    "question": "Neste local, o limite máximo de velocidade para os automóveis ligeiros de passageiros, é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "50 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "80 km/h.",
+    "Answer": "A",
+    "Explanation": "A 50 km/h."
+  },
+  {
+    "ID": 3651,
+    "question": "Neste local, não posso circular a velocidade superior a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "50 Km/h.",
+    "optionB": "B 70 Km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 Km/h."
+  },
+  {
+    "ID": 3650,
+    "question": "Neste local, em qual das vias de trânsito devo circular?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Na via da direita, se não pretender ultrapassar.",
+    "optionB": "B Sempre na via da direita.",
+    "optionC": "Sempre na via da esquerda, se a velocidade for de 120 km/h.",
+    "Answer": "A",
+    "Explanation": "A Na via da direita, se não pretender ultrapassar."
+  },
+  {
+    "ID": 3649,
+    "question": "Neste local, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Moderar a velocidade, porque a faixa de rodagem é de um só sentido.",
+    "optionB": "B Transitar a velocidade adequada e estar atento à distância lateral.",
+    "optionC": "Utilizar o motor como auxiliar do travão, não ultrapassando os 20 km/h.",
+    "Answer": "B",
+    "Explanation": "B Transitar a velocidade adequada e estar atento à distância lateral."
+  },
+  {
+    "ID": 3648,
+    "question": "Neste local, devo transitar:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "À mesma velocidade a que circularia em qualquer via não urbana.",
+    "optionB": "B A velocidade especialmente moderada.",
+    "optionC": "A velocidade não superior a 40 km/h.",
+    "Answer": "B",
+    "Explanation": "B A velocidade especialmente moderada."
+  },
+  {
+    "ID": 3647,
+    "question": "Neste local, dentro duma povoação, estou obrigado a circular com velocidade especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Não, mas o limite máximo são 40 km/h.",
+    "optionB": "B Sim, mas apenas porque circulo dentro duma localidade e me aproximo de um estreitamento na via.",
+    "optionC": "Sim, mas apenas porque circulo dentro duma localidade.",
+    "Answer": "B",
+    "Explanation": "B Sim, mas apenas porque circulo dentro duma localidade e me aproximo de um estreitamento na via."
+  },
+  {
+    "ID": 3646,
+    "question": "Neste local, a velocidade mínima permitida é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "20 Km/h.",
+    "optionB": "B 30 Km/h.",
+    "optionC": "A que não cause embaraço injustificado à circulação.",
+    "Answer": "C",
+    "Explanation": "C A que não cause embaraço injustificado à circulação."
+  },
+  {
+    "ID": 3645,
+    "question": "Neste local, a velocidade deve ser adequada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Não, porque o sinal não tem carácter obrigatório.",
+    "optionB": "B Sim, às condições ambientais.",
+    "optionC": "Sim, mas somente se estiver nevoeiro.",
+    "Answer": "B",
+    "Explanation": "B Sim, às condições ambientais."
+  },
+  {
+    "ID": 3644,
+    "question": "Neste local posso circular a 60 Km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3643,
+    "question": "Neste local posso circular a 60 Km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Não, em caso algum.",
+    "optionB": "B Sim, caso não exista sinalização vertical que mo proíba.",
+    "optionC": "Sim, se conduzir um automóvel ligeiro de passageiros sem reboque.",
+    "Answer": "A",
+    "Explanation": "A Não, em caso algum."
+  },
+  {
+    "ID": 3642,
+    "question": "Neste local o limite máximo de velocidade instantânea é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "30 km/h.",
+    "optionB": "B 50 km/h.",
+    "optionC": "60 km/h.",
+    "Answer": "A",
+    "Explanation": "A 30 km/h."
+  },
+  {
+    "ID": 3641,
+    "question": "Neste local é obrigatório moderar a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Não nunca. Esse comportamento iria originar embaraço para o trânsito.",
+    "optionB": "B Sim porque as condições atmosféricas são desfavoráveis.",
+    "optionC": "Sim, sempre.",
+    "Answer": "B",
+    "Explanation": "B Sim porque as condições atmosféricas são desfavoráveis."
+  },
+  {
+    "ID": 3640,
+    "question": "Neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "Moderar a velocidade, unicamente devido às baias direccionais.",
+    "optionB": "B Parar, porque existem baias direccionais.",
+    "optionC": "Reduzir a velocidade, porque me aproximo de uma curva.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade, porque me aproximo de uma curva."
+  },
+  {
+    "ID": 3639,
+    "question": "Neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "Aproximar o meu veículo ao lado esquerdo da faixa de rodagem, moderando para isso a velocidade.",
+    "optionB": "B Moderar a velocidade porque prevejo vento forte predominantemente do lado direito.",
+    "optionC": "Moderar a velocidade porque prevejo vento forte predominantemente do lado esquerdo.",
+    "Answer": "C",
+    "Explanation": "C Moderar a velocidade porque prevejo vento forte predominantemente do lado esquerdo."
+  },
+  {
+    "ID": 3638,
+    "question": "Neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Ceder a passagem a eventuais peões.",
+    "optionB": "B Moderar a velocidade e parar devido às marcas rodoviárias.",
+    "optionC": "Parar se necessário e não ultrapassar a velocidade de 40 km/h.",
+    "Answer": "A",
+    "Explanation": "A Ceder a passagem a eventuais peões."
+  },
+  {
+    "ID": 3637,
+    "question": "Neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "Aumentar especialmente a velocidade.",
+    "optionB": "B Moderar especialmente a velocidade.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Moderar especialmente a velocidade."
+  },
+  {
+    "ID": 3636,
+    "question": "Neste local devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Avançar com prudência, porque tenho o direito de passar primeiro.",
+    "optionB": "B Ceder a passagem aos condutores que circulam em sentido contrário.",
+    "optionC": "Reduzir a velocidade e em caso de perigo iminente utilizar os sinais sonoros.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade e em caso de perigo iminente utilizar os sinais sonoros."
+  },
+  {
+    "ID": 3635,
+    "question": "Neste local devo transitar com velocidade especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "Sim, porque a via encontra-se dividida com uma linha contínua.",
+    "optionB": "B Sim, porque circulo numa via secundária.",
+    "optionC": "Sim, porque me aproximo de um local de visibilidade reduzida.",
+    "Answer": "C",
+    "Explanation": "C Sim, porque me aproximo de um local de visibilidade reduzida."
+  },
+  {
+    "ID": 3634,
+    "question": "Neste local devo moderar a velocidade, porque me aproximo de uma área de serviço.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Errado."
+  },
+  {
+    "ID": 3633,
+    "question": "Neste local devo circular com velocidade especialmente moderada.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3632,
+    "question": "Neste local devo circular a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "50 Km/h.",
+    "optionB": "B 60 Km/h.",
+    "optionC": "Velocidade especialmente moderada.",
+    "Answer": "C",
+    "Explanation": "C Velocidade especialmente moderada."
+  },
+  {
+    "ID": 3631,
+    "question": "Neste local devo circular a velocidade especialmente moderada:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Porque a via não está sinalizada.",
+    "optionB": "B Porque a via se encontra em mau estado de conservação.",
+    "optionC": "Porque me aproximo de uma curva de visibilidade reduzida.",
+    "Answer": "B",
+    "Explanation": "B Porque a via se encontra em mau estado de conservação."
+  },
+  {
+    "ID": 3630,
+    "question": "Neste local deve ser especialmente moderada a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3629,
+    "question": "Neste local de declive acentuado, devo moderar a velocidade utilizando para o efeito:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Apenas o travão de serviço.",
+    "optionB": "B O motor e o travão de estacionamento.",
+    "optionC": "Principalmente o motor através da caixa de velocidades.",
+    "Answer": "C",
+    "Explanation": "C Principalmente o motor através da caixa de velocidades."
+  },
+  {
+    "ID": 3628,
+    "question": "Neste local conduzo um automóvel ligeiro de passageiros com reboque. Qual a velocidade máxima permitida?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "40 km/h.",
+    "optionB": "B 50 km/h.",
+    "optionC": "60 km/h.",
+    "Answer": "B",
+    "Explanation": "B 50 km/h."
+  },
+  {
+    "ID": 3627,
+    "question": "Neste local ao verificar a sinalização, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Aumentar, se necessário, a distância de segurança.",
+    "optionB": "B Diminuir a distância de segurança.",
+    "optionC": "Moderar a velocidade.",
+    "Answer": "A",
+    "Explanation": "A Aumentar, se necessário, a distância de segurança."
+  },
+  {
+    "ID": 3626,
+    "question": "Neste local a velocidade máxima permitida é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "40 km/h, para uma máquina agrícola.",
+    "optionB": "B 70 km/h, para um pesado de mercadorias com reboque.",
+    "optionC": "90 km/h, para todos os veículos.",
+    "Answer": "B",
+    "Explanation": "B 70 km/h, para um pesado de mercadorias com reboque."
+  },
+  {
+    "ID": 3625,
+    "question": "Neste local a velocidade máxima legalmente permitida é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "100 Km/h.",
+    "optionB": "B 50 km/h.",
+    "optionC": "90 Km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 Km/h."
+  },
+  {
+    "ID": 3624,
+    "question": "Neste local a velocidade deve ser especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Sim, apenas porque existem veículos estacionados.",
+    "optionB": "B Sim, pelas características do local.",
+    "optionC": "Sim, porque dentro das localidades a velocidade recomendada é de 30 km/h.",
+    "Answer": "B",
+    "Explanation": "B Sim, pelas características do local."
+  },
+  {
+    "ID": 3623,
+    "question": "Neste local a velocidade deve ser especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Não, porque não há trânsito.",
+    "optionB": "B Sim, porque a sinalização horizontal me obriga.",
+    "optionC": "Sim, porque me aproximo de uma curva de visibilidade reduzida.",
+    "Answer": "C",
+    "Explanation": "C Sim, porque me aproximo de uma curva de visibilidade reduzida."
+  },
+  {
+    "ID": 3622,
+    "question": "Neste local a velocidade deve ser especialmente moderada:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3621,
+    "question": "Neste exacto momento, circulo a 60 Km/h. Transito em excesso de velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3620,
+    "question": "Nestas condições devo circular a velocidade:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Especialmente moderada.",
+    "optionB": "B Instantânea de 50 Km/h.",
+    "optionC": "Instantânea de 90 Km/h.",
+    "Answer": "A",
+    "Explanation": "A Especialmente moderada."
+  },
+  {
+    "ID": 3619,
+    "question": "Nestas circunstâncias, devo circular com especial prudência?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Não, desde que cumpra os limites de velocidade estabelecidos.",
+    "optionB": "B Sim, devido à proximidade de uma passagem para peões.",
+    "optionC": "Sim, porque circulo numa zona frequentada por idosos e crianças.",
+    "Answer": "B",
+    "Explanation": "B Sim, devido à proximidade de uma passagem para peões."
+  },
+  {
+    "ID": 3618,
+    "question": "Nesta via, qual a velocidade máxima permitida para um automóvel pesado de passageiros sem reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 110 km/h.",
+    "optionC": "120 km/h.",
+    "Answer": "A",
+    "Explanation": "A 100 km/h."
+  },
+  {
+    "ID": 3617,
+    "question": "Nesta via, posso encontrar um sinal de limitação de velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Não, pois nas auto-estradas há um limite geral de velocidade.",
+    "optionB": "B Posso, mas somente nas descidas de acentuada inclinação.",
+    "optionC": "Sim, posso.",
+    "Answer": "C",
+    "Explanation": "C Sim, posso."
+  },
+  {
+    "ID": 3616,
+    "question": "Nesta via, a que velocidade pode transitar o automóvel pesado de passageiros?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 110 km/h.",
+    "optionC": "80 km/h.",
+    "Answer": "C",
+    "Explanation": "C 80 km/h."
+  },
+  {
+    "ID": 3615,
+    "question": "Nesta via qual é a velocidade máxima permitida?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "120 km/h para todos os automóveis ligeiros.",
+    "optionB": "B 120 km/h para todos os motociclos.",
+    "optionC": "90 km/h para os automóveis pesados de mercadorias sem reboque.",
+    "Answer": "C",
+    "Explanation": "C 90 km/h para os automóveis pesados de mercadorias sem reboque."
+  },
+  {
+    "ID": 3614,
+    "question": "Nesta via não urbana, qual a velocidade máxima permitida para automóveis ligeiros de mercadorias com reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "70 km/h.",
+    "optionB": "B 80 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "A",
+    "Explanation": "A 70 km/h."
+  },
+  {
+    "ID": 3613,
+    "question": "Nesta via estou obrigado a circular a uma velocidade especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "Não, desde que não exceda o limite de velocidade para esta via.",
+    "optionB": "B Não, porque se trata de uma via de inclinação acentuada.",
+    "optionC": "Sim, porque circulo dentro duma localidade.",
+    "Answer": "C",
+    "Explanation": "C Sim, porque circulo dentro duma localidade."
+  },
+  {
+    "ID": 3612,
+    "question": "Nesta via devo circular a velocidade especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Não, porque não há sinalização que me obrigue.",
+    "optionB": "B Sim, devido à neve.",
+    "optionC": "Sim, porque há o perigo de queda de pedras.",
+    "Answer": "B",
+    "Explanation": "B Sim, devido à neve."
+  },
+  {
+    "ID": 3611,
+    "question": "Nesta via de trânsito, posso circular à velocidade de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "45 Km/h.",
+    "optionB": "B 55 Km/h.",
+    "optionC": "60 Km/h.",
+    "Answer": "A",
+    "Explanation": "A 45 Km/h."
+  },
+  {
+    "ID": 3610,
+    "question": "Nesta situação, uma das precauções que devo tomar, é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Adaptar a velocidade à presença do peão.",
+    "optionB": "B Aumentar um pouco a velocidade, para que o peão se desvie.",
+    "optionC": "Contornar o peão, aumentando um pouco a velocidade.",
+    "Answer": "A",
+    "Explanation": "A Adaptar a velocidade à presença do peão."
+  },
+  {
+    "ID": 3609,
+    "question": "Nesta situação, um dos principais aspectos a considerar é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "A proibição de circular com as luzes de cruzamento acesas.",
+    "optionB": "B Manter uma velocidade adequada.",
+    "optionC": "O dever de utilizar as luzes de estrada.",
+    "Answer": "B",
+    "Explanation": "B Manter uma velocidade adequada."
+  },
+  {
+    "ID": 3608,
+    "question": "Nesta situação, se pretender seguir em frente em segurança, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Manter a velocidade e ficar atento.",
+    "optionB": "B Utilizar os sinais de luzes.",
+    "optionC": "Utilizar os sinais sonoros e circular a velocidade especialmente moderada.",
+    "Answer": "C",
+    "Explanation": "C Utilizar os sinais sonoros e circular a velocidade especialmente moderada."
+  },
+  {
+    "ID": 3607,
+    "question": "Nesta situação, que via de trânsito devo ocupar se pretender circular de acordo com o limite mínimo de velocidade instantânea estabelecido para a circulação em auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "A via central.",
+    "optionB": "B A via da direita.",
+    "optionC": "A via da esquerda.",
+    "Answer": "B",
+    "Explanation": "B A via da direita."
+  },
+  {
+    "ID": 3606,
+    "question": "Nesta situação, qual o motivo que deve levar o motociclista a moderar a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "As condições atmosféricas.",
+    "optionB": "B As deficientes condições de aderência do pavimento.",
+    "optionC": "O traçado e características da via.",
+    "Answer": "C",
+    "Explanation": "C O traçado e características da via."
+  },
+  {
+    "ID": 3605,
+    "question": "Nesta situação, qual é o limite máximo de velocidade para o veículo pesado que circula em sentido contrário?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "40 km/h.",
+    "optionB": "B 45 km/h.",
+    "optionC": "50 km/h.",
+    "Answer": "C",
+    "Explanation": "C 50 km/h."
+  },
+  {
+    "ID": 3604,
+    "question": "Nesta situação, porque a aderência ao piso é menor, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "Aumentar a distância de segurança.",
+    "optionB": "B Aumentar um pouco a velocidade.",
+    "optionC": "Diminuir a distância de segurança.",
+    "Answer": "A",
+    "Explanation": "A Aumentar a distância de segurança."
+  },
+  {
+    "ID": 3603,
+    "question": "Nesta situação, para aumentar a distância de segurança, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "Aumentar a velocidade, se o pesado diminuir a velocidade.",
+    "optionB": "B Manter a velocidade, se o pesado circular mais rápido.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Manter a velocidade, se o pesado circular mais rápido."
+  },
+  {
+    "ID": 3602,
+    "question": "Nesta situação, o que me deve levar a moderar a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "A intensidade do trânsito.",
+    "optionB": "B A quantidade de informação, característica das vias urbanas.",
+    "optionC": "As marcas longitudinais inscritas no pavimento.",
+    "Answer": "A",
+    "Explanation": "A A intensidade do trânsito."
+  },
+  {
+    "ID": 3601,
+    "question": "Nesta situação, o que devo fazer?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Parar.",
+    "optionB": "B Transitar com precaução, mas nunca utilizar o motor como auxiliar do travão.",
+    "optionC": "Transitar com precaução, utilizando se necessário o motor como auxiliar do travão.",
+    "Answer": "C",
+    "Explanation": "C Transitar com precaução, utilizando se necessário o motor como auxiliar do travão."
+  },
+  {
+    "ID": 3600,
+    "question": "Nesta situação, em que a aderência ao piso é reduzida, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Manter a velocidade.",
+    "optionC": "Reduzir a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade."
+  },
+  {
+    "ID": 3599,
+    "question": "Nesta situação, em qual dos casos se pode considerar que circulo a velocidade excessiva?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "Quando atingir uma velocidade próxima dos 90 km/h.",
+    "optionB": "B Quando não conseguir avistar a largura da faixa de rodagem ao longo de, pelo menos, 50 metros.",
+    "optionC": "Quando não conseguir parar o veículo no espaço livre e visível à minha frente.",
+    "Answer": "C",
+    "Explanation": "C Quando não conseguir parar o veículo no espaço livre e visível à minha frente."
+  },
+  {
+    "ID": 3598,
+    "question": "Nesta situação, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Estar especialmente atento.",
+    "optionB": "B Parar e se necessário moderar especialmente a velocidade.",
+    "optionC": "Transitar à velocidade de 40 km/h, porque o sinal a isso me obriga.",
+    "Answer": "A",
+    "Explanation": "A Estar especialmente atento."
+  },
+  {
+    "ID": 3597,
+    "question": "Nesta situação, devo utilizar as luzes de cruzamento e de nevoeiro.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3596,
+    "question": "Nesta situação, devo reduzir a velocidade e estar especialmente atento:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Ao peão.",
+    "optionB": "B Ao veículo que circula em sentido contrário.",
+    "optionC": "Às obras que decorrem na via pública.",
+    "Answer": "A",
+    "Explanation": "A Ao peão."
+  },
+  {
+    "ID": 3595,
+    "question": "Nesta situação, devo circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "A velocidade especialmente moderada.",
+    "optionB": "B A velocidade não superior a 40 km/h.",
+    "optionC": "A velocidade não superior a 60 km/h.",
+    "Answer": "A",
+    "Explanation": "A A velocidade especialmente moderada."
+  },
+  {
+    "ID": 3594,
+    "question": "Nesta situação, como devo circular?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "A uma distância mínima de 3 metros do veículo da frente.",
+    "optionB": "B Com velocidade especialmente moderada.",
+    "optionC": "Pelo meio da faixa de rodagem.",
+    "Answer": "B",
+    "Explanation": "B Com velocidade especialmente moderada."
+  },
+  {
+    "ID": 3593,
+    "question": "Nesta situação, ao cruzar-me com o automóvel pesado, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Aumentar a velocidade, porque não existem marcas rodoviárias.",
+    "optionB": "B Moderar a velocidade, atendendo à largura deste tipo de veículo.",
+    "optionC": "Moderar a velocidade, atendendo apenas à altura deste tipo de veículo.",
+    "Answer": "B",
+    "Explanation": "B Moderar a velocidade, atendendo à largura deste tipo de veículo."
+  },
+  {
+    "ID": 3592,
+    "question": "Nesta situação, a velocidade deve ser moderada. Devido ao local?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "Não, devido às condições atmosféricas do momento.",
+    "optionB": "B Não, porque neste local nunca devo moderar a velocidade.",
+    "optionC": "Sim, neste local é sempre obrigatório moderar a velocidade.",
+    "Answer": "A",
+    "Explanation": "A Não, devido às condições atmosféricas do momento."
+  },
+  {
+    "ID": 3591,
+    "question": "Nesta situação, a velocidade deve ser especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Não, apenas quando estiver no túnel.",
+    "optionB": "B Sim, pois a via apresenta más condições de aderência.",
+    "optionC": "Sim, porque a visibilidade é insuficiente.",
+    "Answer": "B",
+    "Explanation": "B Sim, pois a via apresenta más condições de aderência."
+  },
+  {
+    "ID": 3590,
+    "question": "Nesta situação torna-se necessário:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "Moderar a velocidade, porque há veículos estacionados.",
+    "optionB": "B Transitar com muita atenção, devido ao facto de existirem veículos estacionados mais à frente.",
+    "optionC": "Transitar com precaução.",
+    "Answer": "C",
+    "Explanation": "C Transitar com precaução."
+  },
+  {
+    "ID": 3589,
+    "question": "Nesta situação se tiver que reduzir subitamente a velocidade devo utilizar as luzes avisadoras de perigo.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "Certo.",
+    "optionB": "B Errado.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Certo."
+  },
+  {
+    "ID": 3588,
+    "question": "Nesta situação para além de moderar a velocidade, pode tornar-se necessário:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "Ligar as luzes de cruzamento e as luzes de estrada em simultâneo.",
+    "optionB": "B Ligar as luzes de cruzamento.",
+    "optionC": "Ligar as luzes de estrada.",
+    "Answer": "B",
+    "Explanation": "B Ligar as luzes de cruzamento."
+  },
+  {
+    "ID": 3587,
+    "question": "Nesta situação em que o piso apresenta fraca aderência, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "Manter a velocidade, porque nestas condições a distância de paragem diminui.",
+    "optionB": "B Moderar a velocidade, porque nestas condições a distância de travagem aumenta.",
+    "optionC": "Moderar a velocidade, porque nestas condições a distância de travagem diminui.",
+    "Answer": "B",
+    "Explanation": "B Moderar a velocidade, porque nestas condições a distância de travagem aumenta."
+  },
+  {
+    "ID": 3586,
+    "question": "Nesta situação é aconselhável circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "À velocidade máxima de 80 Km/h.",
+    "optionB": "B Obrigatoriamente a 80 Km/h.",
+    "optionC": "Obrigatoriamente a mais de 80 Km/h.",
+    "Answer": "A",
+    "Explanation": "A À velocidade máxima de 80 Km/h."
+  },
+  {
+    "ID": 3585,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Aumentar a distância de segurança e utilizar as luzes de estrada.",
+    "optionB": "B Moderar a velocidade.",
+    "optionC": "Utilizar as luzes de estrada.",
+    "Answer": "B",
+    "Explanation": "B Moderar a velocidade."
+  },
+  {
+    "ID": 3584,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Adequar a velocidade à sinalização existente na via onde circulo.",
+    "optionB": "B Parar para respeitar a velocidade imposta.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Adequar a velocidade à sinalização existente na via onde circulo."
+  },
+  {
+    "ID": 3583,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Aumentar a velocidade.",
+    "optionB": "B Manter a velocidade.",
+    "optionC": "Reduzir a velocidade.",
+    "Answer": "B",
+    "Explanation": "B Manter a velocidade."
+  },
+  {
+    "ID": 3582,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Estar especialmente atento.",
+    "optionB": "B Moderar a velocidade e estar atento à indicação de bermas baixas dada pelo sinal.",
+    "optionC": "Moderar especialmente a velocidade, não ultrapassando os 40 km/h.",
+    "Answer": "A",
+    "Explanation": "A Estar especialmente atento."
+  },
+  {
+    "ID": 3581,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Buzinar para advertir o condutor que está a cometer uma infracção.",
+    "optionB": "B Reduzir a velocidade e estar atento ao procedimento deste condutor.",
+    "optionC": "Travar fortemente para não colidir com o veículo da frente.",
+    "Answer": "B",
+    "Explanation": "B Reduzir a velocidade e estar atento ao procedimento deste condutor."
+  },
+  {
+    "ID": 3580,
+    "question": "Nesta situação devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Acelerar pois tenho o direito de passar primeiro.",
+    "optionB": "B Buzinar com insistência para advertir o condutor que não pode realizar aquela manobra.",
+    "optionC": "Reduzir a velocidade e circular com especial precaução.",
+    "Answer": "C",
+    "Explanation": "C Reduzir a velocidade e circular com especial precaução."
+  },
+  {
+    "ID": 3579,
+    "question": "Nesta situação devo ligar as luzes de cruzamento?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Não, nunca.",
+    "optionB": "B Sim, mas apenas de noite.",
+    "optionC": "Sim.",
+    "Answer": "C",
+    "Explanation": "C Sim."
+  },
+  {
+    "ID": 3578,
+    "question": "Nesta situação devo estar especialmente atento:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "À velocidade máxima permitida.",
+    "optionB": "B Aos veículos estacionados.",
+    "optionC": "Às características do local.",
+    "Answer": "C",
+    "Explanation": "C Às características do local."
+  },
+  {
+    "ID": 3577,
+    "question": "Nesta situação devo estar especialmente atento ao comportamento do peão:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Aumentando um pouco a velocidade para contornar o peão.",
+    "optionB": "B Mantendo a velocidade para não incomodar o peão.",
+    "optionC": "Reduzindo a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Reduzindo a velocidade."
+  },
+  {
+    "ID": 3576,
+    "question": "Nesta situação devo circular:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "A 80 Km/h.",
+    "optionB": "B A 90Km/h.",
+    "optionC": "A velocidade especialmente moderada.",
+    "Answer": "C",
+    "Explanation": "C A velocidade especialmente moderada."
+  },
+  {
+    "ID": 3575,
+    "question": "Nesta situação de menor visibilidade devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Adequar a velocidade à visibilidade e intensidade de tráfego.",
+    "optionB": "B Aumentar a velocidade.",
+    "optionC": "Respeitar o limite mínimo de velocidade.",
+    "Answer": "A",
+    "Explanation": "A Adequar a velocidade à visibilidade e intensidade de tráfego."
+  },
+  {
+    "ID": 3574,
+    "question": "Nesta situação a velocidade deve ser moderada, porque:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "A via está marginada por edificações e o piso com pouca aderência.",
+    "optionB": "B Está a chover e por isso o meu tempo de reacção aumenta.",
+    "optionC": "Existe um veículo estacionado do lado esquerdo.",
+    "Answer": "A",
+    "Explanation": "A A via está marginada por edificações e o piso com pouca aderência."
+  },
+  {
+    "ID": 3573,
+    "question": "Nesta localidade posso circular à velocidade de 70 km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "Não, porque circulo dentro de uma localidade.",
+    "optionB": "B Sim, dado que o limite de velocidade é de 90 km/h.",
+    "optionC": "Sim, devido ao sinal de fim de localidade.",
+    "Answer": "A",
+    "Explanation": "A Não, porque circulo dentro de uma localidade."
+  },
+  {
+    "ID": 3572,
+    "question": "Nas vias que se encontrem em mau estado de conservação ou que ofereçam precárias condições de aderência, estou obrigado a moderar a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "Não, o Código da Estrada não me obriga a moderar a velocidade.",
+    "optionB": "B Sim, excepto nas vias em mau estado de conservação.",
+    "optionC": "Sim, o Código da Estrada obriga-me a moderar especialmente a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Sim, o Código da Estrada obriga-me a moderar especialmente a velocidade."
+  },
+  {
+    "ID": 3571,
+    "question": "Nas vias fora das localidades, os automóveis ligeiros podem atingir a velocidade de 90 km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "Não, apenas os de passageiros e sem reboque.",
+    "optionB": "B Sim, se não tiverem reboque.",
+    "optionC": "Sim, todos.",
+    "Answer": "A",
+    "Explanation": "A Não, apenas os de passageiros e sem reboque."
+  },
+  {
+    "ID": 3570,
+    "question": "Nas situações indicadas pelo sinal, devo conduzir com velocidade:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "De 50 km/h, atendendo à sinalização.",
+    "optionB": "B Moderada, atendendo ao ambiente rodoviário sinalizado.",
+    "optionC": "Moderada, atendendo ao facto de transitar num local com bermas baixas.",
+    "Answer": "B",
+    "Explanation": "B Moderada, atendendo ao ambiente rodoviário sinalizado."
+  },
+  {
+    "ID": 3569,
+    "question": "Nas localidades a velocidade máxima permitida, a uma máquina agrícola, é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "20 km/h.",
+    "optionB": "B 30 km/h.",
+    "optionC": "40 km/h.",
+    "Answer": "A",
+    "Explanation": "A 20 km/h."
+  },
+  {
+    "ID": 3568,
+    "question": "Nas descidas de inclinação acentuada apenas os veículos pesados estão obrigados a moderar especialmente a velocidade. Concorda com esta afirmação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3567,
+    "question": "Nas auto-estradas, qual é o limite mínimo de velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "30 km/h.",
+    "optionB": "B 40 km/h.",
+    "optionC": "50 km/h.",
+    "Answer": "C",
+    "Explanation": "C 50 km/h."
+  },
+  {
+    "ID": 3566,
+    "question": "Nas auto-estradas, a velocidade máxima autorizada é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "100 km/h para todos os motociclos e triciclos.",
+    "optionB": "B 110 km/h para todos os automóveis ligeiros.",
+    "optionC": "80 km/h para os automóveis pesados de mercadorias com reboque.",
+    "Answer": "C",
+    "Explanation": "C 80 km/h para os automóveis pesados de mercadorias com reboque."
+  },
+  {
+    "ID": 3565,
+    "question": "Nas auto-estradas podem ser estabelecidos limites de velocidade inferiores aos determinados na lei.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "A afirmação é falsa.",
+    "optionB": "B A afirmação é verdadeira.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B A afirmação é verdadeira."
+  },
+  {
+    "ID": 3564,
+    "question": "Na via indicada pelo sinal, a velocidade máxima permitida, é:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 60 km/h.",
+    "optionC": "80 km/h.",
+    "Answer": "A",
+    "Explanation": "A 100 km/h."
+  },
+  {
+    "ID": 3563,
+    "question": "Na via indicada pelo sinal vertical, qual a velocidade máxima a que pode circular um automóvel ligeiro de mercadorias sem reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "110 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 km/h."
+  },
+  {
+    "ID": 3562,
+    "question": "Na via em que circulo, qual é a velocidade máxima permitida para um automóvel ligeiro com reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "70 km/h.",
+    "optionB": "B 80 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "A",
+    "Explanation": "A 70 km/h."
+  },
+  {
+    "ID": 3561,
+    "question": "Na via de trânsito em que me encontro, qual é a velocidade máxima permitida?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "100 km/h, se conduzir um ligeiro de mercadorias.",
+    "optionB": "B 120 km/h, se conduzir um ligeiro de passageiros.",
+    "optionC": "60 km/h.",
+    "Answer": "C",
+    "Explanation": "C 60 km/h."
+  },
+  {
+    "ID": 3560,
+    "question": "Na via de trânsito em que circulo, após a sinalização:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Passa a existir a velocidade mínima de 60 km/h.",
+    "optionB": "B Passa a existir a velocidade recomendada de 40 km/h.",
+    "optionC": "Passa a existir a velocidade recomendada de 60 km/h.",
+    "Answer": "A",
+    "Explanation": "A Passa a existir a velocidade mínima de 60 km/h."
+  },
+  {
+    "ID": 3559,
+    "question": "Na via de trânsito em que circulo, a velocidade mínima permitida é de:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/206.png",
+    "optionA": "120 km/h.",
+    "optionB": "B 60 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "B",
+    "Explanation": "B 60 km/h."
+  },
+  {
+    "ID": 3558,
+    "question": "Na próxima curva, devo:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2063.png",
+    "optionA": "Aproximar o veículo da direita da faixa de rodagem sem alterar a velocidade.",
+    "optionB": "B Aproximar o veículo do lado esquerdo, diminuindo a velocidade.",
+    "optionC": "Moderar a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Moderar a velocidade."
+  },
+  {
+    "ID": 3557,
+    "question": "Na presença de peões:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2085.png",
+    "optionA": "Devo aumentar sempre a velocidade, para que o peão não se coloque à minha frente.",
+    "optionB": "B Devo evitar alterar a velocidade, para não assustar o peão.",
+    "optionC": "Devo transitar com velocidade reduzida.",
+    "Answer": "C",
+    "Explanation": "C Devo transitar com velocidade reduzida."
+  },
+  {
+    "ID": 3556,
+    "question": "Fora das localidades, qual é a velocidade mínima permitida para um automóvel ligeiro de passageiros?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3132.png",
+    "optionA": "40 km/h, independentemente das condições da via.",
+    "optionB": "B 50 km/h.",
+    "optionC": "Aquela que permita ao condutor agir em segurança, não provocando embaraço no trânsito.",
+    "Answer": "C",
+    "Explanation": "C Aquela que permita ao condutor agir em segurança, não provocando embaraço no trânsito."
+  },
+  {
+    "ID": 3555,
+    "question": "Fora das localidades, qual é a velocidade máxima permitida para os automóveis ligeiros de passageiros com reboque?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2140.png",
+    "optionA": "60 km/h.",
+    "optionB": "B 70 km/h.",
+    "optionC": "80 km/h.",
+    "Answer": "B",
+    "Explanation": "B 70 km/h."
+  },
+  {
+    "ID": 3554,
+    "question": "Fora das localidades, qual a velocidade mínima a praticar?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2636.png",
+    "optionA": "40 km/h.",
+    "optionB": "B Aquela que se adapta às condicionantes do momento e que não provoque embaraço no trânsito.",
+    "optionC": "Não há velocidade mínima, o condutor pode praticar qualquer velocidade.",
+    "Answer": "B",
+    "Explanation": "B Aquela que se adapta às condicionantes do momento e que não provoque embaraço no trânsito."
+  },
+  {
+    "ID": 3553,
+    "question": "Estou obrigado a regular a velocidade do meu veículo de acordo com as características desta via pública?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2717.png",
+    "optionA": "Não, embora deva reduzir a velocidade por uma questão de segurança rodoviária.",
+    "optionB": "B Não, o Código da Estrada não estabelece obrigação.",
+    "optionC": "Sim, sempre.",
+    "Answer": "C",
+    "Explanation": "C Sim, sempre."
+  },
+  {
+    "ID": 3552,
+    "question": "Estou obrigado a moderar a velocidade nesta localidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2928.png",
+    "optionA": "Não, salvo se existir intensidade de trânsito.",
+    "optionB": "B Sim, mas apenas na aproximação de pessoas ou animais.",
+    "optionC": "Sim.",
+    "Answer": "C",
+    "Explanation": "C Sim."
+  },
+  {
+    "ID": 3551,
+    "question": "Estou obrigado a moderar a velocidade nesta localidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3082.png",
+    "optionA": "Não, desde que circule sempre a 50 Km/h.",
+    "optionB": "B Sim, desde que mantenha uma velocidade não inferior a 50 Km/h.",
+    "optionC": "Sim, devo moderar especialmente a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Sim, devo moderar especialmente a velocidade."
+  },
+  {
+    "ID": 3550,
+    "question": "Estou obrigado a moderar a velocidade em todas as vias em mau estado de conservação?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3086.png",
+    "optionA": "Não, só nas vias de visibilidade reduzida.",
+    "optionB": "B Não.",
+    "optionC": "Sim.",
+    "Answer": "C",
+    "Explanation": "C Sim."
+  },
+  {
+    "ID": 3549,
+    "question": "Estou obrigado a moderar a velocidade do meu veículo ao circular numa rotunda?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3137.png",
+    "optionA": "Não.",
+    "optionB": "B Sim, devo moderar sempre a velocidade.",
+    "optionC": "Sim, mas apenas quando exceda a velocidade máxima permitida.",
+    "Answer": "B",
+    "Explanation": "B Sim, devo moderar sempre a velocidade."
+  },
+  {
+    "ID": 3548,
+    "question": "Estou obrigado a circular com velocidade moderada neste local?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3140.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3547,
+    "question": "Estou obrigado a circular com velocidade moderada na passagem de nível?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3289.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim."
+  },
+  {
+    "ID": 3546,
+    "question": "Estou habilitado a conduzir automóveis da categoria B. Posso circular nesta auto-estrada com um triciclo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "Não, os triciclos nunca podem circular nesta via pública.",
+    "optionB": "B Não, porque não estou habilitado a conduzir triciclos.",
+    "optionC": "Sim, mas apenas se o triciclo tiver cilindrada superior a 50 cm3.",
+    "Answer": "C",
+    "Explanation": "C Sim, mas apenas se o triciclo tiver cilindrada superior a 50 cm3."
+  },
+  {
+    "ID": 3545,
+    "question": "Estou a iniciar uma descida prolongada. Para circular em segurança:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3383.png",
+    "optionA": "Devo parar, para assim poder utilizar o travão de estacionamento.",
+    "optionB": "B Devo utilizar o motor como auxiliar do travão de serviço.",
+    "optionC": "Não devo moderar a velocidade.",
+    "Answer": "B",
+    "Explanation": "B Devo utilizar o motor como auxiliar do travão de serviço."
+  },
+  {
+    "ID": 3544,
+    "question": "Este sinal vertical exige especial atenção e prudência ?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3617.png",
+    "optionA": "Não, exige a mesma atenção que qualquer outro sinal.",
+    "optionB": "B Sim, pois vou encontrar um lugar frequentado por idosos.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B Sim, pois vou encontrar um lugar frequentado por idosos."
+  },
+  {
+    "ID": 3543,
+    "question": "Este automóvel ligeiro de passageiros com reboque pode transitar na auto-estrada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3848.png",
+    "optionA": "Sim, à velocidade de 110 km/h.",
+    "optionB": "B Sim, à velocidade de 120 km/h.",
+    "optionC": "Sim, à velocidade de 80 km/h.",
+    "Answer": "C",
+    "Explanation": "C Sim, à velocidade de 80 km/h."
+  },
+  {
+    "ID": 3542,
+    "question": "Encontrando-me numa localidade, posso transitar a velocidade superior a 50 km/h?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/460.png",
+    "optionA": "Não.",
+    "optionB": "B Sim, mas apenas se circular com um veículo ligeiro sem reboque.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3541,
+    "question": "Em qual das situações devo moderar especialmente a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/571.png",
+    "optionA": "Quando as marcas longitudinais separam os sentidos de trânsito.",
+    "optionB": "B Quando as vias têm dois sentidos de trânsito.",
+    "optionC": "Quando estou na presença de um sinal de perigo.",
+    "Answer": "C",
+    "Explanation": "C Quando estou na presença de um sinal de perigo."
+  },
+  {
+    "ID": 3540,
+    "question": "Em qual das situações devo moderar especialmente a velocidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1019.png",
+    "optionA": "De dia e de noite, fora das localidades.",
+    "optionB": "B Na presença de um sinal de proibição.",
+    "optionC": "Nas curvas de fraca visibilidade.",
+    "Answer": "C",
+    "Explanation": "C Nas curvas de fraca visibilidade."
+  },
+  {
+    "ID": 3539,
+    "question": "Em qual das situações devo circular a velocidade especialmente moderada?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1101.png",
+    "optionA": "Se não conseguir avistar os veículos que circulam na faixa de rodagem a pelo menos 250 metros de distância.",
+    "optionB": "B Se não conseguir avistar toda a largura da faixa de rodagem até, pelo menos, 50 metros.",
+    "optionC": "Se não conseguir avistar um obstáculo numa extensão de 150 metros.",
+    "Answer": "B",
+    "Explanation": "B Se não conseguir avistar toda a largura da faixa de rodagem até, pelo menos, 50 metros."
+  },
+  {
+    "ID": 3538,
+    "question": "Em auto-estrada, qual é a velocidade máxima a que os condutores de automóveis pesados de mercadorias sem reboque podem circular?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1199.png",
+    "optionA": "100 km/h.",
+    "optionB": "B 120 km/h.",
+    "optionC": "90 km/h.",
+    "Answer": "C",
+    "Explanation": "C 90 km/h."
+  },
+  {
+    "ID": 3537,
+    "question": "Em auto-estrada, qual a velocidade máxima a que posso circular?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1420.png",
+    "optionA": "100 km/h, se conduzir um automóvel ligeiro de mercadorias com reboque.",
+    "optionB": "B 120 km/h, seja qual for o veículo que conduza.",
+    "optionC": "90 km/h, se conduzir um automóvel pesado de mercadorias sem reboque.",
+    "Answer": "C",
+    "Explanation": "C 90 km/h, se conduzir um automóvel pesado de mercadorias sem reboque."
+  },
+  {
+    "ID": 3536,
+    "question": "Em auto-estrada, os automóveis pesados de passageiros não podem exceder os:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1536.png",
+    "optionA": "100 km/h, independentemente de terem ou não reboque.",
+    "optionB": "B 110 km/h, se não tiverem reboque.",
+    "optionC": "90 km/h, se tiverem reboque.",
+    "Answer": "C",
+    "Explanation": "C 90 km/h, se tiverem reboque."
+  },
+  {
+    "ID": 3535,
+    "question": "É obrigatório moderar a velocidade em todas as curvas?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1640.png",
+    "optionA": "Não.",
+    "optionB": "B Sim.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "A Não."
+  },
+  {
+    "ID": 3534,
+    "question": "Durante a condução nocturna:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1650.png",
+    "optionA": "Aumenta a distância de travagem.",
+    "optionB": "B Diminui a visibilidade.",
+    "optionC": "Diminui o tempo de reacção.",
+    "Answer": "B",
+    "Explanation": "B Diminui a visibilidade."
+  },
+  {
+    "ID": 3533,
+    "question": "Devo ter especial atenção para regular a velocidade a que circulo no que se refere:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1734.png",
+    "optionA": "À cilindrada do veículo que conduzo.",
+    "optionB": "B À intensidade do trânsito e às características da via.",
+    "optionC": "À largura da via e a distância que me separa dos veículos à minha retaguarda.",
+    "Answer": "B",
+    "Explanation": "B À intensidade do trânsito e às características da via."
+  },
+  {
+    "ID": 3532,
+    "question": "Devo ter a preocupação de moderar a velocidade sempre que circulo numa localidade?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Não, apenas na proximidade de passagens para peões.",
+    "optionB": "B Não, apenas nos locais assinalados com sinais de perigo.",
+    "optionC": "Sim, em toda e qualquer circunstância.",
+    "Answer": "C",
+    "Explanation": "C Sim, em toda e qualquer circunstância."
+  },
+  {
+    "ID": 3531,
+    "question": "Devo regular a velocidade do meu veículo de acordo com as características da via pública onde circulo?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1940.png",
+    "optionA": "Não, excepto no caso de perigo iminente.",
+    "optionB": "B Sim, ainda que exceda o limite máximo de velocidade autorizado para esta via pública.",
+    "optionC": "Sim, o Código da Estrada obriga-me a regular a velocidade.",
+    "Answer": "C",
+    "Explanation": "C Sim, o Código da Estrada obriga-me a regular a velocidade."
+  },
+  {
+    "ID": 3530,
+    "question": "Devo moderar especialmente a velocidade, porque:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/2048.png",
+    "optionA": "Circulo atrás de um veículo pesado.",
+    "optionB": "B Circulo num local de visibilidade reduzida.",
+    "optionC": "Circulo numa via com dois sentidos de trânsito.",
+    "Answer": "B",
+    "Explanation": "B Circulo num local de visibilidade reduzida."
+  },
+  {
+    "ID": 3529,
+    "question": "Devo moderar especialmente a velocidade do meu veículo, em todos os locais onde existam sinais de perigo.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/3359.png",
+    "optionA": "A afirmação é falsa.",
+    "optionB": "B A afirmação é verdadeira.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "B A afirmação é verdadeira."
+  },
+  {
+    "ID": 3528,
+    "question": "Devo moderar a velocidade na passagem de nível?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/1797.png",
+    "optionA": "Não, o local tem boa visibilidade.",
+    "optionB": "B Sim, estou obrigado a moderar a velocidade.",
+    "optionC": "Sim, mas apenas se existir intensidade de trânsito.",
+    "Answer": "B",
+    "Explanation": "B Sim, estou obrigado a moderar a velocidade."
+  }
+]
