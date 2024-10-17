@@ -1,0 +1,302 @@
+[
+  {
+    "ID": 3848,
+    "question": "In this situation I must:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3848.png",
+    "optionA": "Only use the service brake.",
+    "optionB": "Use the engine as a brake booster to increase speed.",
+    "optionC": "Use the engine as a brake aid.",
+    "Answer": "C",
+    "Explanation": "The service brake is the brake that you use with your foot by pressing one of the three pedals. Using the engine as a brake aid is when you are braking thºe vehicle with the service brake and at the same time you are shifting gears to match the speed of the vehicle to help you brake. When a gear is engaged, the movement of the wheels and the engine are somewhat linked. If you engage a gear lower than the one you're currently travelling in, the vehicle tends to slow down (even if you don't use the service brake). So you can and must use the engine as a braking aid as it reduces speed without running the risk of skidding, which would be a serious possibility in the situation in the picture."
+  },
+  {
+    "ID": 1199,
+    "question": "Does this vehicle meet all the safety conditions to start driving?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1199.png",
+    "optionA": "No.",
+    "optionB": "Yes, as long as the front passengers are wearing their seatbelts.",
+    "optionC": "Yes, because the child is in the back seat.",
+    "Answer": "A",
+    "Explanation": "You do not meet the necessary conditions because the child is not properly seated."
+  },
+  {
+    "ID": 1734,
+    "question": "I want to reverse the direction of travel. I must:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1734.png",
+    "optionA": "Make light signals.",
+    "optionB": "Use the left turn signal.",
+    "optionC": "Use the audible signals.",
+    "Answer": "B",
+    "Explanation": "First you need to understand that Make light signals means the light signals are made with the brief use of the \"high beams\" in general term flashing. All manoeuvres must be signalled, in this case at the start of the U-turn you are going to change direction to the left and in this way you must warn the vehicles behind you of your intention, if you don't the vehicle behind may just think you are stationary and try to overtake your vehicle, which could lead to an accident."
+  },
+  {
+    "ID": 3137,
+    "question": "Can I use the sound signals?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3137.png",
+    "optionA": "Yes, in case of imminent danger.",
+    "optionB": "Yes, because I'm travelling within a locality.",
+    "optionC": "Yes, because there is a sign indicating a narrow passage.",
+    "Answer": "A",
+    "Explanation": "According to Highway code Article 22 Sound Signals. Audible signals must be brief and may only be used In the event of imminent danger."
+  },
+  {
+    "ID": 206,
+    "question": "The driver of the vehicle assigned to the provision of rescue, in this situation, must:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/206.png",
+    "optionA": "Fast forward.",
+    "optionB": "Give way.",
+    "optionC": "To stop obligatorily.",
+    "Answer": "B",
+    "Explanation": "When entering the highway Any vehicle, I repeat Any vehicle must give way to the vehicles circulating in the highway. Whether they are in the rescue mission or not. So in this situation the fire brigade vehicle must give way to us."
+  },
+  {
+    "ID": 2085,
+    "question": "The sign represents the existence of:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2085.png",
+    "optionA": "A narrowing of the carriageway.",
+    "optionB": "A place where I must switch on the road lights.",
+    "optionC": "A tunnel.",
+    "Answer": "C",
+    "Explanation": "Its a Tunnel sign, no doubt."
+  },
+  {
+    "ID": 3289,
+    "question": "Drivers must know that provisional driving licences always require them to:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3289.png",
+    "optionA": "Taking a new test to obtain a definitive driving licence.",
+    "optionB": "Having to wait until the end of the probationary period to obtain the definitive licence, regardless of the offences committed.",
+    "optionC": "A more penalising administrative offence regime.",
+    "Answer": "C",
+    "Explanation": "Answer A is incorrect because there is no need to take a new test to obtain a permanent licence, it becomes permanent once the three years have passed. Answer B is incorrect because if you commit a crime related to driving, a very serious offence or two serious offences, your licence will be cancelled. Answer C is correct because the probationary system is more penalising. Probation period has lower limits for driving under the influence of alcohol, for example, where the limit of 0.5 g/l is lowered to 0.2 g/l for serious administrative offences and 0.8 g/l is lowered to 0.5 g/l for very serious administrative offences."
+  },
+  {
+    "ID": 3617,
+    "question": "Can I find a speed limit sign on this road?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3617.png",
+    "optionA": "No, because there is a general speed limit on motorways.",
+    "optionB": "I can, but only on steep descents.",
+    "optionC": "Yes, I can.",
+    "Answer": "C",
+    "Explanation": "The question simply asks whether you know that you might see signs such as C13 - Prohibition on exceeding the maximum speed. And the correct answer is C means yes you can find such signs"
+  },
+  {
+    "ID": 2063,
+    "question": "The pre-signalling sign indicates that:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2063.png",
+    "optionA": "At a distance of 1500 metres there is an exit to the identified locations.",
+    "optionB": "At a distance of 1500 metres, the towns identified begin.",
+    "optionC": "Overtaking is prohibited for a distance of 1500 metres.",
+    "Answer": "A",
+    "Explanation": "The sign includes an arrow at the top to indicate the direction of an upcoming exit. The arrow helps drivers anticipate where they need to go. Below the arrow, the sign displays information about the exit, such as the destination name and the distance to the exit. At the bottom, the sign shows \"pre-signaling\" of 1500 metres, meaning the exit to the identified locations is 1500 metres ahead."
+  },
+  {
+    "ID": 1940,
+    "question": "Can I park in the second row immediately after the pedestrian crossing?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1940.png",
+    "optionA": "No, I can't park.",
+    "optionB": "Yes, on the right-hand side of the road.",
+    "optionC": "Yes, on the left-hand side of the road.",
+    "Answer": "A",
+    "Explanation": "The question concerns second-row parking, you can't park anywhere in a second row As per Article 50. And forbidden to stop less than 5 metres before and on top of pedestrian or cycle crossings as per Article 49."
+  },
+  {
+    "ID": 2140,
+    "question": "What does the vertical sign mean?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2140.png",
+    "optionA": "Opening a new traffic lane.",
+    "optionB": "Approaching a dead-end road.",
+    "optionC": "The suppression of a traffic lane.",
+    "Answer": "C",
+    "Explanation": "You can refer to the sign Information Signs H32 - Suppression of a traffic lane which indicates the suppression of a traffic lane."
+  },
+  {
+    "ID": 3359,
+    "question": "Can I start overtaking at the exact place where I am?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3359.png",
+    "optionA": "Yes.",
+    "optionB": "No.",
+    "optionC": "Yes, as long as I don't step over or cross the continuous line.",
+    "Answer": "B",
+    "Explanation": "You can see sign C20C - End of overtaking ban sign, which means that you must have previously seen a sign prohibiting you from overtaking and in the picture you are still in the area where overtaking is prohibited."
+  },
+  {
+    "ID": 1797,
+    "question": "The vehicle on the sidewalk is considered to:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1797.png",
+    "optionA": "Constitutes a serious disturbance to pedestrian traffic.",
+    "optionB": "Is not a disturbance and is therefore parked correctly.",
+    "optionC": "If it is not there for more than two hours, it is not a disruption.",
+    "Answer": "A",
+    "Explanation": "The vehicle doesn't need to remain in place for 2 hours to constitute a disturbance. Vehicles can not be parked on the sidewalk."
+  },
+  {
+    "ID": 2048,
+    "question": "Is the indication sign placed in the exact location of the escape route?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2048.png",
+    "optionA": "Yes.",
+    "optionB": "No.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "The sign is not posted at the exact location, it indicates the location, 250 metres away. Where the sign is posted, you won't find the escape route."
+  },
+  {
+    "ID": 460,
+    "question": "When driving within a locality, I must use the rightmost traffic lane.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/460.png",
+    "optionA": "The statement is False",
+    "optionB": "The statement is True",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "Pay attention to how the questions are asked. You don't have to drive on the right for several reasons. For example, within towns there are public transport lanes (BUS) which are generally the rightmost lane, you can drive on the left when on a one-way street to turn left, you can overtake when there is more than one lane... among other reasons. If the question were: \"When travelling within a town, as a general rule, I should use the right-hand lane.\" the answer would already be \"The statement is true\"."
+  },
+  {
+    "ID": 3140,
+    "question": "I intend to move on. I should:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3140.png",
+    "optionA": "Proceed with caution",
+    "optionB": "Go ahead quickly.",
+    "optionC": "Stop.",
+    "Answer": "A",
+    "Explanation": "The supplementary lamp on the right-hand side is a yellow background lamp with a black arrow pointing to the right-hand side. When turning right, you can proceed without stopping at the red light if there's a flashing yellow light, but you must proceed with caution. but you cannot go in any direction other than right, for any other direction you must stop."
+  },
+  {
+    "ID": 3086,
+    "question": "When I see the light, I am authorised to proceed. However, the traffic conditions:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3086.png",
+    "optionA": "Do not allow me to proceed immediately.",
+    "optionB": "Force me to stop before the signal.",
+    "optionC": "Allow me to use the audible signals",
+    "Answer": "A",
+    "Explanation": "The white vehicle in front is stationary on the carriageway, due to a breakdown or accident. The sign on the ground is the danger pre-signalling triangle, this sign alerts drivers to the stationary white vehicle. your vehicle is already stationary, it is now waiting for an opportunity to change traffic lanes in order to continue its journey, which is why answer A is the correct one."
+  },
+  {
+    "ID": 571,
+    "question": "In this situation I must give way to the fire brigade vehicle.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/571.png",
+    "optionA": "Right",
+    "optionB": "Wrong",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "This road is a national road, as indicated by the N224 sign near the fire brigade vehicle, vehicles on an urgent rescue mission only lose priority on roads reserved for cars and motorcycles and on motorways."
+  },
+  {
+    "ID": 1536,
+    "question": "I am forbidden to reverse the direction of travel in this place because the carriageway has only one lane of traffic affecting each direction and oncoming vehicles are circulating.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1536.png",
+    "optionA": "The statement is Correct",
+    "optionB": "The statement is incorrect",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "According to IMT, the speed bump exists in the picture-even if it’s hard to see because of the quality of the picture, we have to go with what IMT tells us. The statement in the question is incorrect because the reason we can't make a U-turn at this location is because we're on a bump. And it's considered a place with poor visibility and it's dangerous to make the manoeuvre. And this question is about the location and not the situation and therefore doesn't involve oncoming vehicles. Even if there were no vehicles travelling in the opposite direction. Article 45 - Places where reversing is prohibited tells us that it is prohibited On speed bumps."
+  },
+  {
+    "ID": 3082,
+    "question": "To indicate to other users of the public road that their vehicle is approaching, the driver must use",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3082.png",
+    "optionA": "The turn signal.",
+    "optionB": "Audible signals in localities during the day, but only in the event of imminent danger.",
+    "optionC": "Audible signals at night in localities.",
+    "Answer": "B",
+    "Explanation": "Within localities, at night, you are obliged to use the light signals instead of the sound signals. Turn signal won’t signal for your moving forward approach. Sound signals can be used during the day both inside and outside localities. According to Highway code Article 22 Sound Signals. Audible signals must be brief and may only be used In the event of imminent danger."
+  },
+  {
+    "ID": 1019,
+    "question": "The mandatory sign tells me:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1019.png",
+    "optionA": "A dangerous left and right turn.",
+    "optionB": "That traffic is changing from one to two lanes.",
+    "optionC": "Possible mandatory directions",
+    "Answer": "C",
+    "Explanation": "Its a D2C - Possible Mandatory Directions sign. Which means Indication of the obligation to follow one of the directions indicated by the arrows on the signal."
+  },
+  {
+    "ID": 2132,
+    "question": "At the signal, I am informed of the appropriate place:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2132.png",
+    "optionA": "To carry out the reversing manoeuvre.",
+    "optionB": "To make a U-turn.",
+    "optionC": "To change direction to the left.",
+    "Answer": "B",
+    "Explanation": "The key point to remember is to remember the portuguese form of reverse and U turn. Marcha-atrás means reversing that involves moving the vehicle backwards through the \"R\" gear,  and inversão de sentido de marcha means reversing the direction of travel which involves changing the vehicle's direction to go in the opposite direction to the one it was travelling in. In general terms we say U turn. The sign that exists is the information sign H27 - Reversing direction of travel which indicates the exact location where the reversing manoeuvre can be carried out."
+  },
+  {
+    "ID": 1101,
+    "question": "Motorway driving is a general rule",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1101.png",
+    "optionA": "A comfortable and fast drive if all the safety rules are complied with.",
+    "optionB": "Dangerous driving.",
+    "optionC": "Fast and dangerous driving.",
+    "Answer": "A",
+    "Explanation": "Driving on the highway can be comfortable and fast, but only if all safety rules are followed. It's not inherently dangerous unless the rules are ignored."
+  },
+  {
+    "ID": 1640,
+    "question": "What should I do in this situation?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1640.png",
+    "optionA": "Go round the vehicle that is reversing.",
+    "optionB": "Park.",
+    "optionC": "Allow the other driver to finish the manoeuvre.",
+    "Answer": "C",
+    "Explanation": "You have No other option than waiting. Because it is already in the middle of the reversing manoeuvre you need to wait for him to finish it."
+  },
+  {
+    "ID": 2928,
+    "question": "The road markings on my carriageway show me:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2928.png",
+    "optionA": "The safety distance I must maintain from the vehicles in front.",
+    "optionB": "That I must reduce the speed of my vehicle.",
+    "optionC": "That I must not enter the area covered by the signs if the intensity of the traffic is expected to force me to stop within that area.",
+    "Answer": "B",
+    "Explanation": "You can consult the road markings, in this image are M20 - Colour bands. Then they ask you to slow down, so the distance between them gets progressively shorter, until you reach the junction, roundabout or wherever they are."
+  },
+  {
+    "ID": 3383,
+    "question": "In the face of the sign, I can't:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3383.png",
+    "optionA": "Park.",
+    "optionB": "Stop.",
+    "optionC": "Overtake.",
+    "Answer": "C",
+    "Explanation": "This is a C14A - Prohibition of overtaking sign. It indicates that overtaking of vehicles other than two-wheelers is prohibited. This sign prohibits overtaking for all vehicles, however all vehicles may overtake if the vehicle in front is a two-wheeled vehicle without a sidecar. If the vehicle in front is a car, for example, and the overtaker is a motorbike, overtaking is still prohibited."
+  },
+  {
+    "ID": 2636,
+    "question": "These prohibition signs are designed to limit speed:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2636.png",
+    "optionA": "Maximum, only in the two left-hand traffic lanes.",
+    "optionB": "Maximum, on all traffic lanes.",
+    "optionC": "Minimum, on all traffic lanes except the one I'm travelling on.",
+    "Answer": "B",
+    "Explanation": "These signs are C13 - Prohibition on exceeding the maximum speed of. These signs indicate the prohibition on travelling at a speed greater than that indicated on the sign. These signs are applied for all lanes."
+  },
+  {
+    "ID": 2717,
+    "question": "The sign prohibits:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2717.png",
+    "optionA": "Driving less than 10 metres from the vehicle in front.",
+    "optionB": "Parking for vehicles longer than 10 metres.",
+    "optionC": "Vehicles longer than 10 metres from the vehicle in front.",
+    "Answer": "C",
+    "Explanation": "The sign there in the picture is prohibition signs. C7 - Traffic prohibited for vehicles or combinations of vehicles longer than written in the sign. It indicates prohibited access for light and heavy goods vehicles. It doesn't just prohibit goods vehicles, it prohibits any vehicle whose length is greater than that indicated on the sign. This sign is the only one that shows the design used for goods vehicles but does not apply exclusively to these vehicles."
+  },
+  {
+    "ID": 1650,
+    "question": "The turn indicators are broken. I want to turn left. I must signal the manoeuvre:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1650.png",
+    "optionA": "With the horn.",
+    "optionB": "With my arm.",
+    "optionC": "With the dipped beam.",
+    "Answer": "B",
+    "Explanation": "MINISTRY OF INTERNAL AFFAIRS,Regulatory Decree No. 22-A/98 Article 105 - How to signal tells us In the event of failure of the light. Drivers must signal the manoeuvres using the signals by their arm and palm. For example: you are going to reduce speed left arm extended horizontally, with the palm facing the ground, and is swung slowly, repeatedly, in the vertical plane, from top to bottom If you are going left- extend your arm horizontally from the steering wheel side, palm facing forwards"
+  },
+  {
+    "ID": 1420,
+    "question": "If you decide to overtake the moped, one of the precautions you should take is:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1420.png",
+    "optionA": "The lateral distance to maintain.",
+    "optionB": "The age of the driver.",
+    "optionC": "The vehicle's number plate.",
+    "Answer": "A",
+    "Explanation": "The age of the driver and the The vehicle's number plate has no any impact on overtaking the vehicles"
+  }
+]
