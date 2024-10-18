@@ -1,0 +1,302 @@
+[
+  {
+    "ID": 783,
+    "question": "The triangle must be used when:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/783.png",
+    "optionA": "The light system of the immobilised vehicle is faulty",
+    "optionB": "The immobilised vehicle is not visible from 200 metres",
+    "optionC": "The vehicle or load immobilised on the carriageway, are not visible from 100 metres away.’",
+    "Answer": "C",
+    "Explanation": "If the vehicle is immobilised on the public road, we must place the triangle at least 30m from the rear of the vehicle so that the same triangle is visible to others at least 100m.  We need to give other drivers enough time to react. All Light and Heavy vehicles must be equipped with the triangle. Failure to use this sign is a serious offence. The IMT didn't formulate the question very well: it's not the vehicle or load that has to be visible from 100 metres away, it's the triangle that has to be visible from at least 100 metres away and cannot be less than 30 metres from the obstacle."
+  },
+  {
+    "ID": 80,
+    "question": "At this intersection, I must move forward:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/80.png",
+    "optionA": "Before the blue car and after the bicycle",
+    "optionB": "Before the grey car and after the blue car",
+    "optionC": "In first place if changing direction to the right",
+    "Answer": "C",
+    "Explanation": "When you are not told in the image, question or answers which direction the vehicles are going, you must assume that they are going straight ahead. In this case, you are only told that our vehicle is going to change direction to the right, so all the others are going straight ahead. As we're changing direction to the right, there's nothing to stop us from making the manoeuvre. The vehicle on our left has to give way to us and we're not going to interfere with the vehicle on the right (at the junction), so we can go ahead."
+  },
+  {
+    "ID": 2081,
+    "question": "The sign indicates:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2081.png",
+    "optionA": "The existence of a tunnel",
+    "optionB": "The existence of a subway",
+    "optionC": "The end of a tunnel",
+    "Answer": "A",
+    "Explanation": "The signal is H35 - Tunnel, Indication of the existence of a tunnel."
+  },
+  {
+    "ID": 2429,
+    "question": "The reference IC 17 on the signpost indicates:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2429.png",
+    "optionA": "I'm driving on complementary route no. 17",
+    "optionB": "That there are 17 kilometres to the start of the A1",
+    "optionC": "That I am at kilometre 17 on the road I am travelling on",
+    "Answer": "A",
+    "Explanation": "The signs over there are showing the identification of the road on which it is placed these also may serve as the Destinations on the itinerary, These signs may only be used above the road, and the vertical defined by the arrowhead on it must be centred in relation to the traffic lane it affects."
+  },
+  {
+    "ID": 3745,
+    "question": "What is the maximum speed limit for a light goods vehicle on a road reserved for cars and motorbikes?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3745.png",
+    "optionA": "100 km/h",
+    "optionB": "70 km/h",
+    "optionC": "80 km/h if I have a trailer",
+    "Answer": "C",
+    "Explanation": "The maximum speed allowed for a light goods vehicle without a trailer on a motorway is 90 km/h. The maximum speed for a light goods vehicle with a trailer is 80 km/h."
+  },
+  {
+    "ID": 2193,
+    "question": "This sign indicates the proximity of a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2193.png",
+    "optionA": "Right-hand bend and counter-bend",
+    "optionB": "Dangerous left-hand bend",
+    "optionC": "A series of dangerous bends, the first on the left",
+    "Answer": "C",
+    "Explanation": "The Danger sign present there is A1D - Left turn and counter-turn, which indicates the proximity of a succession of dangerous curves, the first being on the left."
+  },
+  {
+    "ID": 1230,
+    "question": "In this situation it is compulsory to drive with the Crossing Lights..",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1230.png",
+    "optionA": "Right",
+    "optionB": "Wrong",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "What you should understand from the picture is that the vehicles are no longer stationary waiting for the gate to open, so the crossing lights should be used as they are about to start moving. You should only use the present lights while you are waiting for the gate to open. Here the gates are open and the vehicle is already crossing the level crossing so you should use the crossing lights after the gates open."
+  },
+  {
+    "ID": 163,
+    "question": "In this situation:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/163.png",
+    "optionA": "I must give way",
+    "optionB": "I must use the audible signals",
+    "optionC": "I can go in first place",
+    "Answer": "A",
+    "Explanation": "when you leave a private driveway or parking space, you have to give way to all vehicles."
+  },
+  {
+    "ID": 2442,
+    "question": "How must I proceed at the junction I am approaching?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2442.png",
+    "optionA": "Proceeding without caution as I have the right of way in first place",
+    "optionB": "Move forward, making sure that the drivers on the road I'm travelling on give way to me",
+    "optionC": "Give way to all motorised vehicles",
+    "Answer": "B",
+    "Explanation": "The sign in the image is B9B - Junction with non-priority lane: Indicates a junction with a lane where drivers travelling on that lane must give way to us. At the next junction you have priority over vehicles on your right, but you should always proceed with caution as at all junctions or crossroads."
+  },
+  {
+    "ID": 978,
+    "question": "When driving, a more aggressive emotional state:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/978.png",
+    "optionA": "Increases the driver's attention",
+    "optionB": "It can increase the driver's reaction time",
+    "optionC": "It can slow down the driver's reaction time",
+    "Answer": "B",
+    "Explanation": "Reaction time never decreases, and by saying that reaction time decreases you would be saying that you can react even faster, which is wrong. In this situation reaction time increases, making it more longer to react, which is a negative factor in driving."
+  },
+  {
+    "ID": 269,
+    "question": "The vertical sign tells me:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/269.png",
+    "optionA": "A junction with a priority lane",
+    "optionB": "A junction with a non-priority lane..",
+    "optionC": "A place where traffic is travelling in one direction",
+    "Answer": "B",
+    "Explanation": "The give way sign B9C - Junction with non-priority lane Indicates a junction with a lane where drivers travelling on that must give way to us. Whoever sees the sign has priority over drivers whose lane intersects with their lane."
+  },
+  {
+    "ID": 1656,
+    "question": "To change direction to the right at the next junction, am I positioned correctly?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1656.png",
+    "optionA": "No.",
+    "optionB": "Yes.",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "The M15 arrows are painted on the road to show the permitted direction(s) of travel. These arrows guide vehicles on how they should proceed at an intersection or junction. When these arrows are placed within lanes separated by continuous lines, they indicate that drivers must follow the direction shown by the arrow. For example, if the arrow points left, vehicles in that lane are required to turn left if it points straight and right, vehicles can either proceed straight or turn right. There might be an earlier arrow (before reaching the crossroads or junction) with the same configuration that acts as a warning. This earlier arrow helps to notify drivers in advance about the upcoming traffic directions or lane restrictions, allowing them to choose the correct lane ahead of time."
+  },
+  {
+    "ID": 147,
+    "question": "In this situation, who must move forward in first place?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/147.png",
+    "optionA": "Me, because I'm on the right of the motorbike",
+    "optionB": "The motorbike is a two-wheeled vehicle",
+    "optionC": "The motorbike, because it's travelling inside the roundabout",
+    "Answer": "C",
+    "Explanation": "The motorcycle has priority because it is inside the roundabout. Vehicles entering a roundabout must give way to vehicles already circulating within the roundabout."
+  },
+  {
+    "ID": 3777,
+    "question": "If the driver in front of me slows down, the safety distance:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3777.png",
+    "optionA": "Increases",
+    "optionB": "Decreases",
+    "optionC": "Does not change",
+    "Answer": "B",
+    "Explanation": "In this case, the question refers to the distance between our vehicle and the heavy vehicle. Our safety distance decreases if the vehicle in front slows down and we don't slow down either."
+  },
+  {
+    "ID": 3548,
+    "question": "Am I obliged to drive at a moderate speed here?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3548.png",
+    "optionA": "No.",
+    "optionB": "Yes.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "You must moderate your speed near pedestrian crossings. As per Article 25 - Moderate speed, Without prejudice to the maximum speed limits set, drivers must particularly moderate their speed When approaching crossings marked on the carriageway for pedestrians and/or cyclists"
+  },
+  {
+    "ID": 973,
+    "question": "There are medicines whose ingestion can influence driving in the same way as alcohol",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/973.png",
+    "optionA": "The statement is false",
+    "optionB": "The statement is true",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "Driving under the influence of medications can influence driving."
+  },
+  {
+    "ID": 1360,
+    "question": "Pedestrians:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1360.png",
+    "optionA": "You must never give way because you are a vulnerable road user",
+    "optionB": "You have rights, but you must not forget your duties",
+    "optionC": "You always have the right of way",
+    "Answer": "B",
+    "Explanation": "Articles 99 to 104 of the Highway Code talks about the things that pedestrians must follow. For example Pedestrians must travel on the sidewalks, lanes or passages intended for them or, failing that, on the verges. Pedestrians may not cross the carriageway without first ensuring that, taking into account the distance that separates them from the vehicles that travel on it and their speed, they can do so without danger of accident."
+  },
+  {
+    "ID": 885,
+    "question": "Driving under the influence of alcohol can be considered a criminal offence?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/885.png",
+    "optionA": "Yes, if the value is equal to or greater than 0.5 g/l",
+    "optionB": "Yes, if the value is 0.8 g/l or more",
+    "optionC": "Yes, if the value is 1.2 g/l or more",
+    "Answer": "C",
+    "Explanation": "Yes Alcohol more than 1.2g/l blood is considered a crime. Blood Alcohol Level Equal to or greater than 0.5g/l is SERIOUS Administrative Offence can lead to Driving disqualification from 1 month to 1 year. Blood Alcohol Level Equal to or greater than 0.8g/l is a VERY SERIOUS offence can lead to Driving disqualification from 2 month to 2 year. Blood Alcohol Level Equal to or greater than 1.2g/l is a CRIME, can lead to Prohibition of driving for 3 years, shall be punished with imprisonment of up to 1 year or with a fine of up to 120 days."
+  },
+  {
+    "ID": 3667,
+    "question": "Where I am, I must drive:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3667.png",
+    "optionA": "At a minimum speed of 50 km/h because I'm driving in a locality",
+    "optionB": "Moderate speed",
+    "optionC": "At slower speed",
+    "Answer": "B",
+    "Explanation": "You're on a speed bump with reduced visibility. And as per Article 25 - Moderate speed Without affecting the maximum speed limits set, drivers must particularly moderate their speed at bends, crossroads, junctions, roundabouts, speed bumps and other places of reduced visibility."
+  },
+  {
+    "ID": 2436,
+    "question": "When travelling on this road, I must be aware that:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2436.png",
+    "optionA": "The recommended maximum speed for this road is 60 km/h",
+    "optionB": "I can't exceed the maximum speed of 60 kilometres per hour",
+    "optionC": "I am obliged to drive at no less than the speed indicated on the sign",
+    "Answer": "C",
+    "Explanation": "Please be careful, the sign does not indicate the maximum recommended speed, but the obligation to drive at a minimum speed of 60 km/h. It's an obligation sign D8 - Obligation to drive at a minimum speed of the marked speed which indicates that the driver is obliged to travel at a speed not less than that indicated on the sign."
+  },
+  {
+    "ID": 3635,
+    "question": "I must drive at a particularly moderate speed?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3635.png",
+    "optionA": "Yes, because the road is divided by a continuous line",
+    "optionB": "Yes, because I'm travelling on a secondary road",
+    "optionC": "Yes, because I am approaching a place with reduced visibility",
+    "Answer": "C",
+    "Explanation": "As you can see in the picture, our field of vision is limited due to the elevation of the road, so we have to pay special attention."
+  },
+  {
+    "ID": 695,
+    "question": "I intend to move on, I must:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/695.png",
+    "optionA": "Keep in the queue of traffic I'm travelling in",
+    "optionB": "Move to the left of the traffic queue",
+    "optionC": "Moving to the rightmost traffic queue",
+    "Answer": "A",
+    "Explanation": "The leftmost lane serves to change direction to the left, the others go straight. Due to the high number of vehicles, you should not change lanes. You should stay in the queue as it would only cause embarrassment to traffic if you try to move from one queue to the other when you are already stopped at the red light."
+  },
+  {
+    "ID": 1939,
+    "question": "Can I park on the pavement?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1939.png",
+    "optionA": "No, because you are only allowed to stop",
+    "optionB": "No.",
+    "optionC": "Yes, if I take a short time and switch on the hazard lights",
+    "Answer": "B",
+    "Explanation": "As Per Article 49 - Prohibition on stopping or parking. It is forbidden to stop or park: In cycle lanes, on directional islands, on the centre boards of roundabouts, on pavements and other places intended for pedestrian traffic."
+  },
+  {
+    "ID": 1432,
+    "question": "All pedestrians:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/1432.png",
+    "optionA": "Just as all drivers must anticipate risks and the behaviour of other road users",
+    "optionB": "You must give way, because drivers have the right of way because they are faster",
+    "optionC": "They have priority because they always have the right of way",
+    "Answer": "A",
+    "Explanation": "All pedestrians do not always have right of way, they must comply with several rules in order to cross the carriageway, especially the traffic lights."
+  },
+  {
+    "ID": 2860,
+    "question": "The discontinuous warning line on the pavement indicates the proximity of a:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2860.png",
+    "optionA": "Continuous line",
+    "optionB": "Discontinuous slowdown line",
+    "optionC": "Discontinuous line",
+    "Answer": "A",
+    "Explanation": "The Discontinuous Warning Line (M4 ) consists of dashes of normal width at short intervals, with the same meaning as the M2 mark or Discontinuous line, and indicates the approach of a continuous line M1 or narrow passage."
+  },
+  {
+    "ID": 3804,
+    "question": "When travelling outside a locality in low gear, the driver of a heavy goods vehicle must maintain a minimum distance of 50 metres from the vehicle in front of him",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/3804.png",
+    "optionA": "The statement is correct",
+    "optionB": "The statement is incorrect",
+    "optionC": "",
+    "Answer": "A",
+    "Explanation": "As per Article 40 - Idling vehicles,Outside localities, on roads with only one lane of traffic in each direction, drivers of heavy goods vehicles, agricultural vehicles, industrial machinery, animal-drawn vehicles or other vehicles, with the exception of cycles, travelling at a slow speed must maintain a distance of not less than 50 metres from the vehicles in front of them so that other vehicle can safely overtake them."
+  },
+  {
+    "ID": 2616,
+    "question": "This sign tells me?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2616.png",
+    "optionA": "End of the parking ban",
+    "optionB": "End of the ban on stopping",
+    "optionC": "End of the ban on overtaking",
+    "Answer": "C",
+    "Explanation": "The sign over there in the picture is Prohibition sign C20C - End of the prohibition to overtake, it Indicates of the place from which overtaking is no longer prohibited by the sign C14A."
+  },
+  {
+    "ID": 2146,
+    "question": "The sign indicates that I am going to find a place overflown at low altitude:",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2146.png",
+    "optionA": "2 kilometres away",
+    "optionB": "At a distance of 200 metres",
+    "optionC": "For 200 metres",
+    "Answer": "B",
+    "Explanation": "The panel there you can see is the Distance indicator panel Model No. 1a. It is used to show how far you are from a specific location as indicated by the above panel, or the point where a rule or restriction, indicated by the sign, starts to apply. Its not option C because the sign is not Model no 2."
+  },
+  {
+    "ID": 2866,
+    "question": "The mixed line marked on the pavement allows me to overtake the agricultural tractor?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/2866.png",
+    "optionA": "No, because the mixed line prohibits overtaking",
+    "optionB": "Yes, if there is no oncoming traffic",
+    "optionC": "Yes, but only if there is space so that you don't cross the continuous line",
+    "Answer": "B",
+    "Explanation": "The Mixed line M3 is made up of a continuous line next to a discontinuous line. Its meaning depends on which line is closer to the driver or on which lane you are driving in. If the continuous line is closer or you are driving on the side of the continuous line the driver can not cross or overtaking is not allowed. If the discontinuous line is closer, crossing or overtaking is allowed, as long as it's safe."
+  },
+  {
+    "ID": 648,
+    "question": "Ambulance drivers who improperly mark the urgent rescue mission incur an offence?",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/SET1/648.png",
+    "optionA": "No.",
+    "optionB": "Yes.",
+    "optionC": "",
+    "Answer": "B",
+    "Explanation": "As per Article 64 - Transit of vehicles in emergency services, Drivers of emergency vehicles (like police, ambulance, or fire trucks) must properly signal their movement when responding to an emergency by using audible (or sirens) and luminous (or lights) warning devices. If drivers fail to comply with these signalling requirements It will be charged as a light offence and be fined between €120 and €600."
+  }
+]
