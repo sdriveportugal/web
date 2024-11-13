@@ -21,7 +21,7 @@
   },
   {
     "ID": 23,
-    "question": "When leaving the car park, should I give up the ticket?",
+    "question": "When leaving the car park, should I give way?",
     "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Givingway-1/23.png",
     "optionA": "No.",
     "optionB": "Yes.",
@@ -61,7 +61,7 @@
   },
   {
     "ID": 61,
-    "question": "This sign means that circle:",
+    "question": "This signal means I'm going to circulate:",
     "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Givingway-1/61.png",
     "optionA": "In a priority lane",
     "optionB": "On a road without priority",
@@ -151,7 +151,7 @@
   },
   {
     "ID": 155,
-    "question": "In this situation, if the driver leaving the bridge wishes to turn to the left, he must wait for me to pass.",
+    "question": "In this situation, if I want to change direction to the left, the driver coming off the bridge must wait for me to pass.",
     "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Givingway-1/155.png",
     "optionA": "Right",
     "optionB": "Wrong",
