@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "7",
+		"question": "When driving on this road and in front of this sign, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/7.png",
+		"optionA": "I must move forward, although with caution, because oncoming vehicles must give way to me",
+		"optionB": "Give way to vehicles travelling in the opposite direction",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "19",
+		"question": "When entering this roundabout, do I have the right of way?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/19.png",
+		"optionA": "No, except when travelling outside a locality",
+		"optionB": "No.",
+		"optionC": "Yes, but only because I'm circulating within a locality",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "22",
+		"question": "When leaving a level crossing, do I have the right of way over other vehicles on the road I am going to enter?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/22.png",
+		"optionA": "No.",
+		"optionB": "Yes, all drivers are obliged to give way to me",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "27",
+		"question": "Given that none of the vehicles at this intersection intend to change direction, which vehicle passes first?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/27.png",
+		"optionA": "My vehicle",
+		"optionB": "The grey vehicle",
+		"optionC": "The black-coloured vehicle..",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "39",
+		"question": "How should I proceed at the junction I am approaching?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/39.png",
+		"optionA": "Move forward, checking that the other driver is giving way",
+		"optionB": "Give way to the other driver",
+		"optionC": "Proceed without the need for special precautions",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "43",
+		"question": "Considering the rule of giving way, when can I move forward?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/43.png",
+		"optionA": "In first place",
+		"optionB": "Secondly",
+		"optionC": "In last place",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "50",
+		"question": "I must give way to the tram, and only then will I be able to move forward.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/50.png",
+		"optionA": "Right, but only because of the pedestrian in front of me",
+		"optionB": "Right, because the tram has priority",
+		"optionC": "Wrong, because I'm on the right of the tram",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "63",
+		"question": "I'm coming out of the level crossing. Can the vehicle on the right move ahead of mine?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/63.png",
+		"optionA": "No.",
+		"optionB": "Yes.",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "92",
+		"question": "In this situation I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/92.png",
+		"optionA": "Slow down and give way to cars",
+		"optionB": "Move forward, as I have priority",
+		"optionC": "Start driving after all vehicles have passed",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "104",
+		"question": "In this situation, do I have a duty to give way to the oncoming car?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/104.png",
+		"optionA": "No.",
+		"optionB": "Yes, because the light car changes direction",
+		"optionC": "Yes.",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "113",
+		"question": "In this situation, should I give up the ticket?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/113.png",
+		"optionA": "No, I can't give way in this situation",
+		"optionB": "Yes, if the cyclist does not respect the rule, creating a dangerous situation",
+		"optionC": "Yes, because the cyclist is on my right..",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "117",
+		"question": "In this situation, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/117.png",
+		"optionA": "Giving way",
+		"optionB": "Stop",
+		"optionC": "Carrying on",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "121",
+		"question": "In this situation, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/121.png",
+		"optionA": "Give way",
+		"optionB": "Switch on hazard lights",
+		"optionC": "Stop",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "128",
+		"question": "In this situation, the ambulance driver:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/128.png",
+		"optionA": "You must stop",
+		"optionB": "You may proceed with caution",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "139",
+		"question": "In this situation, which should be the first vehicle to move forward?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/139.png",
+		"optionA": "The ambulance",
+		"optionB": "My vehicle",
+		"optionC": "The animal-drawn vehicle",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "168",
+		"question": "At this intersection, which vehicle passes first?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/168.png",
+		"optionA": "The motorbike and the cycle at the same time",
+		"optionB": "My vehicle",
+		"optionC": "The cyclist",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "181",
+		"question": "At this location, the light car:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/181.png",
+		"optionA": "You must proceed with caution, although you have priority of passage",
+		"optionB": "You must give way because you are entering the square",
+		"optionC": "You always have the right of way in first place",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "190",
+		"question": "At the next junction, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/190.png",
+		"optionA": "Stop and give way to vehicles with engines",
+		"optionB": "Reduce speed and give way to all vehicles",
+		"optionC": "Reduce speed and give way to motorised vehicles...",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "213",
+		"question": "Does the driver of the vehicle that is leaving the private path have the right of way?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/213.png",
+		"optionA": "No.",
+		"optionB": "Yes, because it is on the right",
+		"optionC": "Yes.",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "237",
+		"question": "What should I do at this intersection?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/237.png",
+		"optionA": "Proceed with caution",
+		"optionB": "Move quickly, because I have priority",
+		"optionC": "Give way",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "243",
+		"question": "What should I do in this situation?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/243.png",
+		"optionA": "Move forward in first place",
+		"optionB": "Give way",
+		"optionC": "I must stop",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "255",
+		"question": "What should I do in this situation?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/255.png",
+		"optionA": "Waiting for the other driver to stop before giving way",
+		"optionB": "Move forward first",
+		"optionC": "Give way",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "276",
+		"question": "Should the lorry give way to my vehicle?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/276.png",
+		"optionA": "No, the heavy goods vehicle must only give way to the motorbike",
+		"optionB": "Yes, if you intend to change direction to the left",
+		"optionC": "Yes.",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "284",
+		"question": "Drivers who intend to enter the road in which they are driving have the duty to:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/284.png",
+		"optionA": "Move forward in first place",
+		"optionB": "Give way",
+		"optionC": "Stop",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "289",
+		"question": "Vehicles on an urgent rescue mission wishing to leave a level crossing with guard shall:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/289.png",
+		"optionA": "Move forward",
+		"optionB": "Give way",
+		"optionC": "Stop",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "299",
+		"question": "In view of this situation:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/299.png",
+		"optionA": "I must give way",
+		"optionB": "I must stop",
+		"optionC": "I can go ahead, because I'm going ahead",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "303",
+		"question": "Should I give way at this sign and in the event of a crossing of vehicles?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/303.png",
+		"optionA": "No.",
+		"optionB": "Yes.",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "323",
+		"question": "What is the order of passage at this intersection, in which all drivers intend to go straight?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/323.png",
+		"optionA": "Motorbike, animal-drawn vehicle and lastly my vehicle",
+		"optionB": "My vehicle, the motorbike and lastly the animal-drawn vehicle",
+		"optionC": "My vehicle, the animal-drawn vehicle and lastly the motorbike",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "361",
+		"question": "When is the vehicle on my right obliged to give way to me?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/361.png",
+		"optionA": "Under no circumstances",
+		"optionB": "When driving on a main road",
+		"optionC": "When leaving a car park",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "371",
+		"question": "Who should advance first?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/371.png",
+		"optionA": "The car on my left",
+		"optionB": "My vehicle",
+		"optionC": "Who arrived first at the junction",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]
