@@ -24,7 +24,7 @@
         "question": "How should I proceed with the driver leaving the car park?",
         "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-2/35.png",
         "optionA": "Proceed with caution, always observing his behaviour",
-        "optionB": "Give way to you because you are on the right",
+        "optionB": "Give him the way because he presents himself on the right.",
         "optionC": "I must honk my horn to make you aware of my presence...",
         "Answer": "A",
         "Explanation": "For Explanation, please be a member or comment on our youtube channel."
@@ -81,7 +81,7 @@
     },
     {
         "ID": "89",
-        "question": "In this situation I must give way to the vehicle on the right, because it leaves a particular road.",
+        "question": "In this situation I must give way to the vehicle on the right, because it leaves a private road.",
         "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-2/89.png",
         "optionA": "Right",
         "optionB": "Wrong",
@@ -173,9 +173,9 @@
         "ID": "209",
         "question": "The driver of the fire engine:",
         "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-2/209.png",
-        "optionA": "You must not give way",
-        "optionB": "You have a duty to give way",
-        "optionC": "You have a duty to stop",
+        "optionA": "It must not give way",
+        "optionB": "It has a duty to give way",
+        "optionC": "It has a duty to stop",
         "Answer": "B",
         "Explanation": "For Explanation, please be a member or comment on our youtube channel."
     },
