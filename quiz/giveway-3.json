@@ -115,7 +115,7 @@
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/117.png",
 		"optionA": "Giving way",
 		"optionB": "Stop",
-		"optionC": "Carrying on",
+		"optionC": "Carry on",
 		"Answer": "C",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
@@ -163,9 +163,9 @@
 		"ID": "181",
 		"question": "At this location, the light car:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-3/181.png",
-		"optionA": "You must proceed with caution, although you have priority of passage",
-		"optionB": "You must give way because you are entering the square",
-		"optionC": "You always have the right of way in first place",
+		"optionA": "It must proceed with caution, although you have priority of passage",
+		"optionB": "It must give way because It is entering the square",
+		"optionC": "It always has the right to move forward first.",
 		"Answer": "A",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
