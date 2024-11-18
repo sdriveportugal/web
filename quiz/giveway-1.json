@@ -290,13 +290,13 @@
     "Explanation": "For Explanation, please be a member or comment on our youtube channel."
   },
   {
-    "ID": 412,
-    "question": "The ambulance whose year of registration is 2002, had the first mandatory periodic inspection:",
-    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Givingway-1/412.png",
-    "optionA": "After four years",
-    "optionB": "After one year",
+    "ID": 410,
+    "question": "The ambulance properly signals the emergency march.",
+    "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Givingway-1/410.png",
+    "optionA": "I must give way.",
+    "optionB": "I must not give way",
     "optionC": "",
-    "Answer": "B",
+    "Answer": "A",
     "Explanation": "For Explanation, please be a member or comment on our youtube channel."
   }
 ]
