@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "412",
+		"question": "The ambulance whose year of registration is 2002, had the first mandatory periodic inspection:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/412.png",
+		"optionA": "After four years",
+		"optionB": "After one year",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "421",
+		"question": "Each driver's assessment of a situation depends heavily on driving experience.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/421.png",
+		"optionA": "The statement is false",
+		"optionB": "Wrong",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "429",
+		"question": "The distance I travel from the vehicle in front of me is reduced if I:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/429.png",
+		"optionA": "Increase speed",
+		"optionB": "Slow down",
+		"optionC": "Do not change speed",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "430",
+		"question": "At a distance of 1000 meters can I go straight?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/430.png",
+		"optionA": "No, because I'm entering a road where driving is prohibited",
+		"optionB": "Yes, as long as you pull to the right of the carriageway",
+		"optionC": "Yes, if travelling at a specially reduced speed",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "436",
+		"question": "Human error is the dominant factor in road accidents.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/436.png",
+		"optionA": "Right",
+		"optionB": "Wrong",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "440",
+		"question": "My intention is to move forward. Should:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/440.png",
+		"optionA": "Change traffic lane if you want to overtake",
+		"optionB": "Changing traffic lanes",
+		"optionC": "Overtaking",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "444",
+		"question": "How far should I ride from the berm?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/444.png",
+		"optionA": "At a distance of more than 20 cm",
+		"optionB": "As far away as possible",
+		"optionC": "As close as possible, but in such a way as to avoid any accidents",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "447",
+		"question": "The collection of information by the driver depends mainly on:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/447.png",
+		"optionA": "The driver's experience, knowledge and attitude",
+		"optionB": "Existing signage",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "453",
+		"question": "The route to which the ambulance intends to access:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/453.png",
+		"optionA": "It is a rapid transit route, with no level crossings or access to marginal properties",
+		"optionB": "It is a road intended for local traffic",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "455",
+		"question": "The traffic lane in which I circulate ends:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/455.png",
+		"optionA": "100 metres from the gantry",
+		"optionB": "350 metres from the gantry",
+		"optionC": "450 metres from the gantry",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "460",
+		"question": "When driving within a locality, I must use the rightmost traffic lane.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/460.png",
+		"optionA": "The statement is false",
+		"optionB": "The statement is true",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "466",
+		"question": "When driving in this place, can I use the sound signals?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/466.png",
+		"optionA": "No, the use of sound signals is only permitted in the event of imminent danger",
+		"optionB": "Yes, when travelling outside a locality, the use of audible signals is permitted on curves with reduced visibility",
+		"optionC": "Yes, I am always obliged to use the audible signals",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "470",
+		"question": "When entering this highway, what is the name of the traffic lane where I travel?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/470.png",
+		"optionA": "Slow down lane",
+		"optionB": "Acceleration lane",
+		"optionC": "Braking lane",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "479",
+		"question": "Do the indications given by temporary signs prevail over vertical signs and road markings?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/479.png",
+		"optionA": "No, except for road markings",
+		"optionB": "No, except for vertical signs",
+		"optionC": "Yes.",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "485",
+		"question": "Do the orders of the traffic regulators prevail over the indication resulting from the red light signal?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/485.png",
+		"optionA": "No.",
+		"optionB": "Yes.",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "498",
+		"question": "Do I drive properly on this traffic road?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/498.png",
+		"optionA": "No, because I want to head towards Porto",
+		"optionB": "Yes, because there isn't a lot of traffic",
+		"optionC": "Yes, if you want to go straight ahead",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "505",
+		"question": "I circulate on a public road intended for rapid transit, with physical separation of lanes and signposted as such. Do you agree with this statement?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/505.png",
+		"optionA": "No.",
+		"optionB": "Yes.",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "523",
+		"question": "After overtaking this vehicle, should I move into the right-most lane of traffic?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/523.png",
+		"optionA": "No, as there is more than one traffic lane in the same direction",
+		"optionB": "Yes, I must drive in the traffic lane furthest to the right",
+		"optionC": "Yes, but only if I want to take the next exit",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "548",
+		"question": "Am I obliged to drive on the right side of the carriageway and as close as possible to the verges or pavements?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/548.png",
+		"optionA": "I am obliged to drive on the right-hand side of the carriageway, but as far away as possible from roadsides or pavements",
+		"optionB": "No, I should drive as close as possible to the centre of the carriageway",
+		"optionC": "Yes, keeping a distance from the kerb so as to avoid accidents",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "562",
+		"question": "In this lane, the rightmost lane of traffic is reserved for heavy passenger cars only.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/562.png",
+		"optionA": "Right",
+		"optionB": "Wrong",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "577",
+		"question": "In this situation I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/577.png",
+		"optionA": "Continue in the same traffic lane",
+		"optionB": "Change into the traffic lane on the left if you want to overtake",
+		"optionC": "Overtake before oncoming vehicles get any closer",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "581",
+		"question": "In this situation, am I obliged to give up the ticket to the ambulance?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/581.png",
+		"optionA": "No.",
+		"optionB": "Yes, because the ambulance is signalling emergency movement",
+		"optionC": "Yes, because the ambulance is travelling on the left",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "604",
+		"question": "In this situation, if the vehicle in front of me slows down and I do not change the speed of my vehicle, the safety distance:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/604.png",
+		"optionA": "Increase",
+		"optionB": "Decrease",
+		"optionC": "Do not change",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "625",
+		"question": "Does the Highway Code sanction the driver of an animal-drawn vehicle that causes an impediment to traffic?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/625.png",
+		"optionA": "No, except in cases of imminent danger",
+		"optionB": "No.",
+		"optionC": "Yes, with a fine",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "663",
+		"question": "Can vehicles travelling on a rescue mission and not having special audible and light warning devices signal the emergency march by the repeated use of audible signals?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/663.png",
+		"optionA": "No.",
+		"optionB": "Yes, but only during the day",
+		"optionC": "Yes, but only outside localities",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "687",
+		"question": "Can I use the sound signals in this location?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/687.png",
+		"optionA": "No, their use is always prohibited within a locality",
+		"optionB": "Yes, briefly and only in case of imminent danger",
+		"optionC": "Yes, briefly and whenever I see a driver idling and causing undue embarrassment",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "698",
+		"question": "What is the maximum speed at which I can drive on this section of motorway?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/698.png",
+		"optionA": "120 km/h, which is the maximum speed allowed on motorways",
+		"optionB": "80 km/h, which is the limit set by temporary road signs",
+		"optionC": "Less than 80 km/h, compulsory only in the traffic lane furthest to the right",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "709",
+		"question": "All vehicles are considered to be priority vehicles:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/709.png",
+		"optionA": "Built exclusively for patient transport",
+		"optionB": "The fire brigade",
+		"optionC": "If you are travelling on an urgent rescue mission and signal the emergency stop",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "723",
+		"question": "If I need to make a phone call I should:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/723.png",
+		"optionA": "Park the vehicle properly",
+		"optionB": "Move into the traffic lane on the right",
+		"optionC": "Reduce speed",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "740",
+		"question": "Is a pedestrian who performs an act that impedes or hinders traffic sanctioned by the Highway Code?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/740.png",
+		"optionA": "No.",
+		"optionB": "Yes.",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]
