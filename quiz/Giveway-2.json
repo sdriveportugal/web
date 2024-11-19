@@ -243,7 +243,7 @@
         "ID": "321",
         "question": "I was right to stop my vehicle in order to give way to the tram.",
         "image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Giveway-2/321.png",
-        "optionA": "Right",
+        "optionA": "Correct",
         "optionB": "Wrong",
         "optionC": "",
         "Answer": "A",
