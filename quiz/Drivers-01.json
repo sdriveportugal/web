@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "886",
+		"question": "Driving under the influence of psychotropic substances can be punished as a crime.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/886.png",
+		"optionA": "The statement is false",
+		"optionB": "The statement is true",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "889",
+		"question": "Driving under the influence of alcohol:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/889.png",
+		"optionA": "Increases the risk of an accident",
+		"optionB": "Reduces the risk of an accident",
+		"optionC": "In no way interferes with road safety",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "902",
+		"question": "The ingestion of alcoholic beverages can provoke in the driver a false state of euphoria and confidence, which leads him to:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/902.png",
+		"optionA": "Safer driving",
+		"optionB": "Requiring less time to react",
+		"optionC": "Overestimating your abilities and minimising the risk of injury.",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "905",
+		"question": "The ingestion of alcoholic beverages, even in small quantities, can have the following consequences:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/905.png",
+		"optionA": "Increase reaction time and stopping distance",
+		"optionB": "Increases reaction time, but not stopping distance",
+		"optionC": "Decrease reaction time and stopping distance",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "907",
+		"question": "The intake of alcoholic beverages:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/907.png",
+		"optionA": "Widens the field of vision",
+		"optionB": "Reduces the visual field",
+		"optionC": "Does not affect the visual field",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "908",
+		"question": "The ingestion of certain types of medication is not reconcilable with the exercise of driving.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/908.png",
+		"optionA": "Right",
+		"optionB": "Wrong",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "919",
+		"question": "A driver with a blood alcohol level of 0.9 g/l shall be subject to the additional sanction of disqualification from driving of:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/919.png",
+		"optionA": "Two months to two years",
+		"optionB": "Six months to two years",
+		"optionC": "One month to six months",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "921",
+		"question": "After drinking alcohol, the driver's physical and mental capacities:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/921.png",
+		"optionA": "They increase due to the state of euphoria",
+		"optionB": "They are altered",
+		"optionC": "Only altered if you drink a lot",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "923",
+		"question": "After drinking alcohol, the effects of alcohol on driving begin to manifest:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/923.png",
+		"optionA": "After more than 3 hours",
+		"optionB": "As early as the 1st hour",
+		"optionC": "Only from the 2nd hour",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "928",
+		"question": "Alcoholic beverages, even taken in small quantities, may affect driving:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/928.png",
+		"optionA": "By reducing the visual field",
+		"optionB": "By reducing the risk of an accident",
+		"optionC": "By reducing reaction time",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "930",
+		"question": "With a blood alcohol level of 0.9 g/l, the driver will be sanctioned for the practice:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/930.png",
+		"optionA": "A serious administrative offence",
+		"optionB": "A minor administrative offence",
+		"optionC": "A very serious offence",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "935",
+		"question": "How should I get around where I am?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/935.png",
+		"optionA": "Going round the sign on the right",
+		"optionB": "Going round the sign on the left",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "938",
+		"question": "How should I proceed with the deposit of obligation?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/938.png",
+		"optionA": "Giving way",
+		"optionB": "Bypassing the sign or obstacle",
+		"optionC": "Changing direction to the right because the direction is compulsory",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "939",
+		"question": "Driving under the influence of alcohol:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/939.png",
+		"optionA": "Increases peripheral vision",
+		"optionB": "Decreases peripheral vision",
+		"optionC": "Does not alter peripheral vision",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "944",
+		"question": "It is considered a crime to drive with an alcohol level equal to or greater than:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/944.png",
+		"optionA": "0.5 g/l",
+		"optionB": "0.8 g/l",
+		"optionC": "1.2 g/l",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "947",
+		"question": "By helping the driver to feel better physically and psychologically, tranquilizers allow safe driving.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/947.png",
+		"optionA": "The statement is false",
+		"optionB": "The statement is true",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "957",
+		"question": "It is considered a crime to drive with a blood alcohol level equal to:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/957.png",
+		"optionA": "0.9 g/l",
+		"optionB": "1.1 g/l.",
+		"optionC": "1.2 g/l.",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "961",
+		"question": "In which of the phases of the task of conducting is the role played by hearing fundamental?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/961.png",
+		"optionA": "In the execution of the response",
+		"optionB": "Gathering information",
+		"optionC": "Information processing",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "964",
+		"question": "As drivers, we must avoid situations that take us away from the attention that the task of driving requires.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/964.png",
+		"optionA": "Right",
+		"optionB": "Wrong",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "974",
+		"question": "There are medicines whose intake is incompatible with the exercise of driving.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/974.png",
+		"optionA": "The statement is false",
+		"optionB": "The statement is true",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "975",
+		"question": "Are there medicines which, taken at the same time as alcoholic beverages, reduce the ability to drive?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/975.png",
+		"optionA": "No.",
+		"optionB": "Yes.",
+		"optionC": "Only when the driver is weak",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "977",
+		"question": "In car driving there are situations in which hearing can override vision, allowing the individual to avoid the occurrence of an accident.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/977.png",
+		"optionA": "The statement is false",
+		"optionB": "The statement is true",
+		"optionC": "",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "998",
+		"question": "The driver's emotional state influences his or her performance in driving.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/998.png",
+		"optionA": "Right",
+		"optionB": "Wrong",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "1003",
+		"question": "Does the physical state of the driver influence the way he performs the task of driving?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/1003.png",
+		"optionA": "No, the physical state has no influence. Driving is only influenced by the psychological state",
+		"optionB": "Yes, but only if you are under the influence of alcohol at a rate of more than 0.8 g/l",
+		"optionC": "Yes, always",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "1010",
+		"question": "What does an alcohol level of 0.5 grams per liter of blood mean?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/1010.png",
+		"optionA": "Each litre of alcohol leads to 0.5 grams of alcohol in the blood",
+		"optionB": "There are 0.5 grams of alcohol in a litre of alcoholic drink",
+		"optionC": "There are 0.5 grams of alcohol in a litre of blood",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "1012",
+		"question": "The blue background sign to my right tells me:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/1012.png",
+		"optionA": "The possible compulsory directions",
+		"optionB": "That I am only authorised to change direction to the left",
+		"optionC": "That I am only authorised to go straight ahead",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "1024",
+		"question": "The vertical blue background sign indicates:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/1024.png",
+		"optionA": "Obligation to go straight ahead",
+		"optionB": "One-way traffic",
+		"optionC": "",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "1034",
+		"question": "Can medications, ingested with alcoholic beverages, impair the driver's performance behind the wheel?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/1034.png",
+		"optionA": "No, unless the medication is taken on an empty stomach",
+		"optionB": "No, this only happens with anti-depressants",
+		"optionC": "Yes.",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "1053",
+		"question": "Which of the following factors may affect the driver's visual field the most?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/1053.png",
+		"optionA": "Drinking alcoholic beverages",
+		"optionB": "Lane width",
+		"optionC": "Emotional state",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "1087",
+		"question": "An alcohol level of 0.5 g/l of blood means that:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/Driver-1/1087.png",
+		"optionA": "There are 0.5 grams of alcohol in a litre of alcoholic drink",
+		"optionB": "In a litre of blood there are 0.5 grams of pure alcohol",
+		"optionC": "One litre of alcoholic drink results in 0.5 grams of alcohol in the blood",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]
