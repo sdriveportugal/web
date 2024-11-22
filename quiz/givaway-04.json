@@ -3,7 +3,7 @@
 		"ID": "0",
 		"question": "The ambulance must:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/0.png",
-		"optionA": "Move forward, but only if I signal emergency action;",
+		"optionA": "Move forward, but only if he signals emergency action;",
 		"optionB": "Move forward;",
 		"optionC": "Give way to me;",
 		"Answer": "B",
@@ -85,7 +85,7 @@
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/45.png",
 		"optionA": "Me, because I'm going uphill and the manoeuvre is easier;",
 		"optionB": "The driver of the vehicle travelling in the opposite direction;",
-		"optionC": "In the case of vehicles in the same category, the downhill vehicle must always carry out the manoeuvre;",
+		"optionC": "In the case of vehicles in the same category, the vehicle going downhill must always carry out the manoeuvre;",
 		"Answer": "A",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
