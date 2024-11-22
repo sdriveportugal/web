@@ -21,7 +21,7 @@
 	},
 	{
 		"ID": "14",
-		"question": "When driving on a roundabout, the driver of a bicycle must give way:",
+		"question": "When driving on a roundabout, the rider of a bicycle must give way:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/14.png",
 		"optionA": "All vehicles;",
 		"optionB": "Motor vehicles only;",
@@ -253,7 +253,7 @@
 		"ID": "230",
 		"question": "What should the motorcycle driver do?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/230.png",
-		"optionA": "Moving forward;",
+		"optionA": "Move forward;",
 		"optionB": "Give way;",
 		"optionC": "Stop to give way;",
 		"Answer": "A",
