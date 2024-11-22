@@ -231,7 +231,7 @@
 	},
 	{
 		"ID": "211",
-		"question": "The driver of the black vehicle is already in the middle of the intersection. What should you do?",
+		"question": "The driver of the black vehicle is already in the middle of the intersection. What should he do?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/211.png",
 		"optionA": "Move forward, thus ending your passage at the intersection;",
 		"optionB": "Stop in the middle of the junction, because I have to go first;",
