@@ -241,7 +241,7 @@
 	},
 	{
 		"ID": "215",
-		"question": "Should the driver of the bicycle give me the ticket?",
+		"question": "Should the driver of the bicycle give me the way?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/215.png",
 		"optionA": "No, the cyclist has priority;",
 		"optionB": "Yes, cyclists must give way to all motorised vehicles;",
