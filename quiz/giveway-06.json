@@ -2,7 +2,7 @@
 	{
 		"ID": "16",
 		"question": "When I find this sign, what should I do?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/16.png",
 		"optionA": "Give way to all vehicles travelling on the road I am entering",
 		"optionB": "Give way only to vehicles coming from the right",
 		"optionC": "Give way only to vehicles coming from the left",
@@ -12,7 +12,7 @@
 	{
 		"ID": "34",
 		"question": "How should I proceed when entering this roundabout?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/34.png",
 		"optionA": "I must give way to vehicles on the roundabout",
 		"optionB": "I have priority over vehicles travelling on the roundabout",
 		"optionC": "",
@@ -22,7 +22,7 @@
 	{
 		"ID": "42",
 		"question": "How should I proceed with the road markings that are on this public road?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/42.png",
 		"optionA": "I must give way to vehicles travelling in the left-hand lane",
 		"optionB": "I must immediately move into the left-hand lane because I have priority",
 		"optionC": "I have priority of passage over vehicles travelling in the left lane",
@@ -32,7 +32,7 @@
 	{
 		"ID": "53",
 		"question": "Should I give up the ticket?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/53.png",
 		"optionA": "No, because the cycle is a non-motorised vehicle",
 		"optionB": "Yes, because I'm changing direction",
 		"optionC": "Yes, because I'm leaving a car park..",
@@ -42,7 +42,7 @@
 	{
 		"ID": "54",
 		"question": "Should I give up the ticket?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/54.png",
 		"optionA": "No, because it leaves a property",
 		"optionB": "Yes, because that vehicle is on the right",
 		"optionC": "",
@@ -52,7 +52,7 @@
 	{
 		"ID": "68",
 		"question": "I have stopped my car because I am forced to give way to the electric car. Did I proceed correctly?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/68.png",
 		"optionA": "No.",
 		"optionB": "Yes.",
 		"optionC": "",
@@ -62,7 +62,7 @@
 	{
 		"ID": "69",
 		"question": "At the next intersection, where there is no signaling, who should advance first?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/69.png",
 		"optionA": "It doesn't matter, because there are no signs",
 		"optionB": "My vehicle, because I don't want to change direction",
 		"optionC": "The vehicle on my right..",
@@ -72,7 +72,7 @@
 	{
 		"ID": "77",
 		"question": "At this intersection I intend to move forward.",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/77.png",
 		"optionA": "I must give way to the animal-drawn vehicle",
 		"optionB": "I can go ahead after giving way to the motorbike",
 		"optionC": "I can move forward",
@@ -82,7 +82,7 @@
 	{
 		"ID": "80",
 		"question": "At this intersection, I must advance:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/80.png",
 		"optionA": "Before the blue car and after the bicycle",
 		"optionB": "Before the grey car and after the blue car",
 		"optionC": "In first place if I change direction to the right",
@@ -92,7 +92,7 @@
 	{
 		"ID": "95",
 		"question": "In this situation I must:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/95.png",
 		"optionA": "Move forward",
 		"optionB": "Give way",
 		"optionC": "",
@@ -102,7 +102,7 @@
 	{
 		"ID": "97",
 		"question": "In this situation where I leave a private building:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/97.png",
 		"optionA": "I must give way to the cyclist",
 		"optionB": "I must stop",
 		"optionC": "I can move forward because the other vehicle has no engine",
@@ -112,7 +112,7 @@
 	{
 		"ID": "100",
 		"question": "In this situation, can I proceed with the car at the same time?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/100.png",
 		"optionA": "No, because the car changes direction",
 		"optionB": "Yes, but only because I'm driving a vehicle of the same category",
 		"optionC": "Yes.",
@@ -122,7 +122,7 @@
 	{
 		"ID": "107",
 		"question": "In this situation, I must proceed without waiting for the oncoming driver to pass.",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/107.png",
 		"optionA": "Right",
 		"optionB": "Wrong",
 		"optionC": "",
@@ -132,7 +132,7 @@
 	{
 		"ID": "144",
 		"question": "In this situation, who advances first?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/144.png",
 		"optionA": "Whoever reaches the junction first",
 		"optionB": "Me",
 		"optionC": "The vehicle on my right",
@@ -142,7 +142,7 @@
 	{
 		"ID": "150",
 		"question": "In this situation, who has the duty to give way?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/150.png",
 		"optionA": "Me",
 		"optionB": "The ambulance driver",
 		"optionC": "The last driver to arrive at the junction",
@@ -152,7 +152,7 @@
 	{
 		"ID": "160",
 		"question": "In this situation:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/160.png",
 		"optionA": "I must give way",
 		"optionB": "I must stop and give way to the ambulance",
 		"optionC": "I can continue",
@@ -162,7 +162,7 @@
 	{
 		"ID": "176",
 		"question": "At this junction, the driver of the bicycle must:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/176.png",
 		"optionA": "Move ahead of my vehicle",
 		"optionB": "Give way",
 		"optionC": "Stop, because you want to change direction",
@@ -172,7 +172,7 @@
 	{
 		"ID": "182",
 		"question": "In this place, should the driver on the right give way to me?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/182.png",
 		"optionA": "No, as you are on my right",
 		"optionB": "No, as there are no signs requiring you to do so",
 		"optionC": "Yes, because I'm leaving the level crossing",
@@ -182,7 +182,7 @@
 	{
 		"ID": "202",
 		"question": "The driver of the car on the left:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/202.png",
 		"optionA": "You must slow down to give way to me",
 		"optionB": "You must stop to give way to me",
 		"optionC": "You may proceed",
@@ -192,7 +192,7 @@
 	{
 		"ID": "231",
 		"question": "What should the driver of the vehicle on my left do?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/231.png",
 		"optionA": "Move forward",
 		"optionB": "Give way",
 		"optionC": "Reverse",
@@ -202,7 +202,7 @@
 	{
 		"ID": "234",
 		"question": "What should the driver of the velocipede do?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/234.png",
 		"optionA": "Move forward",
 		"optionB": "Give way",
 		"optionC": "You must stop",
@@ -212,7 +212,7 @@
 	{
 		"ID": "233",
 		"question": "What should the driver of the police vehicle do?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/233.png",
 		"optionA": "Move forward, but only if I stop my vehicle on the carriageway",
 		"optionB": "Move forward, because I have to give way to you",
 		"optionC": "You must stop",
@@ -222,7 +222,7 @@
 	{
 		"ID": "251",
 		"question": "What should I do in this situation?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/251.png",
 		"optionA": "Moving quickly without giving way to the motorbike",
 		"optionB": "Move forward, paying particular attention to the motorbike",
 		"optionC": "Stop",
@@ -232,7 +232,7 @@
 	{
 		"ID": "260",
 		"question": "What does the vertical sign mean?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/260.png",
 		"optionA": "Junction with prioritised lane",
 		"optionB": "Junction with non-priority lane",
 		"optionC": "Junction with non-prioritised lane",
@@ -242,7 +242,7 @@
 	{
 		"ID": "271",
 		"question": "The vertical sign on the public road means:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/271.png",
 		"optionA": "End of works",
 		"optionB": "End of priority lane",
 		"optionC": "Dead-end carriageway",
@@ -252,7 +252,7 @@
 	{
 		"ID": "286",
 		"question": "Do drivers who come to my right have a duty to give way?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/286.png",
 		"optionA": "No.",
 		"optionB": "Yes, but only to vehicles travelling in emergency gear",
 		"optionC": "Yes.",
@@ -262,7 +262,7 @@
 	{
 		"ID": "300",
 		"question": "Before this sign I must give way:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/300.png",
 		"optionA": "All vehicles travelling on the road I am approaching",
 		"optionB": "Only motor vehicles travelling on the right",
 		"optionC": "Only to vehicles travelling on the right",
@@ -272,7 +272,7 @@
 	{
 		"ID": "355",
 		"question": "When should the green vehicle move forward, knowing that it is facing the STOP sign?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/355.png",
 		"optionA": "First if you want to change direction to the left",
 		"optionB": "In last place",
 		"optionC": "Simultaneously with my vehicle, because we're both going straight ahead",
@@ -282,7 +282,7 @@
 	{
 		"ID": "400",
 		"question": "Am I obliged to give way to the fire brigade vehicle?",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/400.png",
 		"optionA": "No, because I'm driving on a motorway",
 		"optionB": "Yes, I must stop if necessary",
 		"optionC": "Yes, because it signals the march of urgency..",
@@ -292,7 +292,7 @@
 	{
 		"ID": "408",
 		"question": "I'm going to move on. In this situation:",
-		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/409.png",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/408.png",
 		"optionA": "I have a duty to give way to the grey vehicle",
 		"optionB": "The vehicle on my left has a duty to give way to the grey car",
 		"optionC": "All vehicles can move at the same time",
