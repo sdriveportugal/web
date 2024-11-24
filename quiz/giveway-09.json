@@ -193,9 +193,9 @@
 		"ID": "294",
 		"question": "If it is impossible for two vehicles of the same category to cross, the driver of the vehicle going up is obliged to carry out the reverse manoeuvre. Do you agree with this statement?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/45.png",
-		"optionA": "No, the driver of the descending vehicle must always carry out the manoeuvre",
-		"optionB": "Yes, the driver of the oncoming vehicle must always carry out the manoeuvre",
-		"optionC": "Yes, unless the manoeuvre is easier for the oncoming vehicle",
+		"optionA": "No, the driver of the downhill vehicle must always carry out the manoeuvre",
+		"optionB": "Yes, the driver of the uphill vehicle must always carry out the manoeuvre",
+		"optionC": "Yes, unless the manoeuvre is easier for the downhill vehicle",
 		"Answer": "C",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
