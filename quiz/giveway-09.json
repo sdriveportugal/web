@@ -231,7 +231,7 @@
 	},
 	{
 		"ID": "334",
-		"question": "What should be the last vehicle to move forward in this situation?",
+		"question": "Which should be the last vehicle to move forward in this situation?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/81.png",
 		"optionA": "My vehicle",
 		"optionB": "The motorbike",
