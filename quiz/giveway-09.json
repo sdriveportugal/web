@@ -43,10 +43,10 @@
 		"ID": "74",
 		"question": "At this intersection, the driver of the animal-drawn vehicle may proceed:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/74.png",
-		"optionA": "In first place if I change direction to the right",
-		"optionB": "In second place if I go straight ahead",
-		"optionC": "Third place if you change direction to the left",
-		"Answer": "A",
+		"optionA": "In first place if It changes direction to the right",
+		"optionB": "In second place if It goes straight ahead",
+		"optionC": "Third place if It changes direction to the left",
+		"Answer": "C",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
 	{
