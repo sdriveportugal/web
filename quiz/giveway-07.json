@@ -164,8 +164,8 @@
 		"question": "Is the driver in front of me doing the right thing?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/218.png",
 		"optionA": "No, because it is not compulsory to signal a change of direction within towns",
-		"optionB": "Yes, if you're heading towards EXPO 98",
-		"optionC": "Yes, if your intention is to go towards the airport",
+		"optionB": "Yes, he is heading towards EXPO 98",
+		"optionC": "Yes, his intention is to go towards the airport",
 		"Answer": "C",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
