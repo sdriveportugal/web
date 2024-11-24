@@ -284,7 +284,7 @@
 		"question": "Who can advance first at this intersection?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/373.png",
 		"optionA": "Me",
-		"optionB": "The driver of the vehicle used to provide assistance",
+		"optionB": "The driver of the rescue vehicle",
 		"optionC": "The driver who first arrived at the intersection",
 		"Answer": "A",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
