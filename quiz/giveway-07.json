@@ -153,9 +153,9 @@
 		"ID": "208",
 		"question": "The driver of the animal-drawn vehicle:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/208.png",
-		"optionA": "You must move forward before the cyclist",
-		"optionB": "You must move forward first",
-		"optionC": "You must give way to my vehicle",
+		"optionA": "Must move forward before the cyclist",
+		"optionB": "Must move forward first",
+		"optionC": "Must give way to my vehicle",
 		"Answer": "C",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
