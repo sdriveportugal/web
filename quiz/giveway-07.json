@@ -103,8 +103,8 @@
 		"ID": "138",
 		"question": "In this situation, what should be the behavior of the bicycle in relation to the heavy vehicle?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/138.png",
-		"optionA": "You must give way",
-		"optionB": "You must pass because you are on the right of the heavy goods vehicle",
+		"optionA": "Must give way",
+		"optionB": "Must pass because you are on the right of the heavy goods vehicle",
 		"optionC": "",
 		"Answer": "B",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
