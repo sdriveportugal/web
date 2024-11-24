@@ -223,7 +223,7 @@
 		"ID": "324",
 		"question": "What should be the correct order of passage at this intersection?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/139.png",
-		"optionA": "Ambulance first, followed by my vehicle and the HGV",
+		"optionA": "Ambulance first, followed by my vehicle and the Animal Drawn Vehicle",
 		"optionB": "Ambulance in first place, followed by animal traction vehicle and my vehicle in last place",
 		"optionC": "My vehicle first, followed by the ambulance and lastly the animal traction vehicle",
 		"Answer": "A",
