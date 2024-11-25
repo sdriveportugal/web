@@ -73,9 +73,9 @@
 		"ID": "135",
 		"question": "In this situation, the oncoming driver encounters a vertical sign:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/135.png",
-		"optionA": "Indicating that you must give way to me",
-		"optionB": "Indicating that you can go ahead in first place",
-		"optionC": "The same as the one I'm travelling in",
+		"optionA": "To indicate that he must give way to me",
+		"optionB": "Indicating that he can go ahead in first place.",
+		"optionC": "The same as what I find.",
 		"Answer": "B",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
