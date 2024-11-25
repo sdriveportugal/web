@@ -111,7 +111,7 @@
 	},
 	{
 		"ID": "278",
-		"question": "The truck intends to turn left. You must give way:",
+		"question": "The truck intends to turn left. It must give way:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/278.png",
 		"optionA": "My vehicle and the cyclist",
 		"optionB": "My vehicle",
