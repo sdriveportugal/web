@@ -213,9 +213,9 @@
 		"ID": "275",
 		"question": "The two-wheeler transiting the roundabout:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/94.png",
-		"optionA": "You must give way to my vehicle",
-		"optionB": "You must stop to give way to me",
-		"optionC": "You mustn't obstruct traffic",
+		"optionA": "Must give way to my vehicle",
+		"optionB": "Must stop to give way to me",
+		"optionC": "Must not obstruct traffic",
 		"Answer": "C",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
