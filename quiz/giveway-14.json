@@ -64,7 +64,7 @@
 		"question": "At this junction I must:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/174.png",
 		"optionA": "Move forward in first place",
-		"optionB": "Give way to the white car",
+		"optionB": "Give way to the white vehicle",
 		"optionC": "You must stop",
 		"Answer": "B",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
@@ -111,7 +111,7 @@
 	},
 	{
 		"ID": "278",
-		"question": "The truck intends to turn left. You must give way:",
+		"question": "The truck intends to turn left. It must give way:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/278.png",
 		"optionA": "My vehicle and the cyclist",
 		"optionB": "My vehicle",
