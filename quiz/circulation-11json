@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "510",
+		"question": "How should drivers of vehicles travelling on emergency duty when faced with red lights?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/510.png",
+		"optionA": "They should stop and wait for the signs to change before proceeding;",
+		"optionB": "They should stop, although they can continue after taking the necessary precautions and without waiting for the signs to change;",
+		"optionC": "You can go ahead as long as you signal the manoeuvre;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "515",
+		"question": "How do I leave the motorway and enter the petrol station?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/515.png",
+		"optionA": "Stay on the road I'm travelling on;",
+		"optionB": "Change to the slow lane;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "533",
+		"question": "In circulation, I must consider:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/533.png",
+		"optionA": "Only the lateral distance;",
+		"optionB": "All the distances to be kept from other vehicles;",
+		"optionC": "Only the distance I keep from the vehicle in front of me;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "537",
+		"question": "As a driver I must always be aware of:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/537.png",
+		"optionA": "Adapting to road conditions;",
+		"optionB": "The make of my vehicle;",
+		"optionC": "The hurry I get in to finish each journey..;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "545",
+		"question": "Is this vehicle considered a priority?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/545.png",
+		"optionA": "Yes, because it is only for urgent traffic;",
+		"optionB": "Yes, if I'm travelling on an emergency mission and I signal emergency gear;",
+		"optionC": "Yes, always;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "556",
+		"question": "At the roundabout, I must circulate:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/556.png",
+		"optionA": "Take the shortest route so as not to obstruct traffic;",
+		"optionB": "On the left, normally;",
+		"optionC": "On the side that allows you to turn left into the centre of the sign;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "565",
+		"question": "On this carriageway, all drivers wishing to proceed towards Algés:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/565.png",
+		"optionA": "You are prevented from changing traffic lanes;",
+		"optionB": "You can take the most convenient traffic lane;",
+		"optionC": "You are obliged to drive in the traffic lane on the right;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "576",
+		"question": "In this situation I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/576.png",
+		"optionA": "Move into the left-hand lane;",
+		"optionB": "Stop and wait for the driver to complete the manoeuvre;",
+		"optionC": "Use the audible signals;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "586",
+		"question": "In this situation, I must give way to the fire brigade vehicle because:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/586.png",
+		"optionA": "The vehicle is on the right;",
+		"optionB": "The vehicle is signalling emergency traffic;",
+		"optionC": "Fire brigade vehicles are always prioritised;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "596",
+		"question": "In this situation, can I drive in the rightmost lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/596.png",
+		"optionA": "I can't;",
+		"optionB": "I can, because I'm not crossing any continuous lines;",
+		"optionC": "I can, if I don't impede public transport vehicles;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "606",
+		"question": "In this situation, I am obliged to follow the path where the vertical sign is located.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/606.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "613",
+		"question": "At this location:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/613.png",
+		"optionA": "There is one carriageway and four directions of traffic;",
+		"optionB": "There are four carriageways;",
+		"optionC": "There are four traffic lanes in the same direction;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "616",
+		"question": "At the intersection, should I give way to the police vehicle?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/616.png",
+		"optionA": "No, because that vehicle is on my left and is not signalling emergency gear;",
+		"optionB": "Yes, because I'm driving on a main road;",
+		"optionC": "Yes, because this vehicle is always prioritised..;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "626",
+		"question": "Does the Highway Code peanalise pedestrians who do not occupy the correct position on the public road?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/626.png",
+		"optionA": "No, the Highway Code only applies to drivers;",
+		"optionB": "No.;",
+		"optionC": "Yes.;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "636",
+		"question": "Can irregular parking of vehicles interfere with road safety?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/636.png",
+		"optionA": "No, this manoeuvre only interferes with traffic management;",
+		"optionB": "No, because the vehicles are stationary;",
+		"optionC": "Yes, if pedestrians are forced to cross the carriageway..;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "646",
+		"question": "The vehicle signaling the emergency march:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/646.png",
+		"optionA": "Must stop at the stop sign;",
+		"optionB": "Must not stop at a stop sign;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "656",
+		"question": "Should bicycle drivers always circulate as close as possible to the verges or sidewalks?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/656.png",
+		"optionA": "No, under no circumstances;",
+		"optionB": "Yes, except when two or more queues of traffic are possible in the same direction;",
+		"optionC": "Yes, always;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "666",
+		"question": "To head towards the A1, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/666.png",
+		"optionA": "Move immediately into the traffic lane furthest to the right;",
+		"optionB": "Gradually move into the traffic lane furthest to the right;",
+		"optionC": "Proceed straight ahead until the lanes are closed;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "676",
+		"question": "Can I drive in the traffic lane on my right?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/676.png",
+		"optionA": "No, under no circumstances;",
+		"optionB": "Yes, as long as I'm travelling at a speed not less than or equal to 50 km/h;",
+		"optionC": "Yes, to gain access to a parking space;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "683",
+		"question": "I can use the left-hand side of the carriageway:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/683.png",
+		"optionA": "As a normal driving position;",
+		"optionB": "To stop;",
+		"optionC": "To overtake the vehicle;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "686",
+		"question": "Can I use the sidewalk on the right side of the public road where I drive?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/686.png",
+		"optionA": "No, because access to a property is not visible;",
+		"optionB": "Yes, but only because I'm driving outside a locality;",
+		"optionC": "Yes, because it does not prevent access to any building or property;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "693",
+		"question": "I intend to head towards Porto. Should:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/693.png",
+		"optionA": "Continue in this traffic lane;",
+		"optionB": "Change to the traffic lane on the right;",
+		"optionC": "Change to the traffic lane on the left;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "696",
+		"question": "I intend to go to the commercial area, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/696.png",
+		"optionA": "Switching to the appropriate traffic lane;",
+		"optionB": "Change to the traffic lane on the left;",
+		"optionC": "Transit in any of the traffic lanes;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "706",
+		"question": "As a general rule, on motorways, I must travel:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/706.png",
+		"optionA": "In the traffic lane on the left, because it's faster;",
+		"optionB": "In the traffic lane furthest to the right;",
+		"optionC": "Always in the traffic lane on the left;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "716",
+		"question": "If I am not overstepping, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/716.png",
+		"optionA": "Continue in this traffic lane;",
+		"optionB": "Move into the traffic lane on the right;",
+		"optionC": "Move to the left-hand traffic lane;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "726",
+		"question": "Whenever I enter a motorway, through the access branch, am I obliged to give way to vehicles circulating on it?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/726.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "735",
+		"question": "Can a driver who travels at a slow speed causing unjustified embarrassment to other road users be penalised?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/735.png",
+		"optionA": "No, as long as I'm not breaking the minimum speed set for the public road I'm travelling on;",
+		"optionB": "No, as long as it does not jeopardise the safety of other road users;",
+		"optionC": "Yes.;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "737",
+		"question": "One of the factors to be considered when driving heavily should be:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/737.png",
+		"optionA": "The distance I keep from the vehicle in front of me;",
+		"optionB": "The permanent use of hazard lights;",
+		"optionC": "Always occupy the queue of traffic travelling fastest, even if you have to constantly change your path;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "738",
+		"question": "One of the factors that most influences the safety distance is:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/738.png",
+		"optionA": "The driver's haste;",
+		"optionB": "The speed of the vehicle;",
+		"optionC": "Road markings on the road;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "744",
+		"question": "I find that the driver who intends to start the march, advances without precautions and without giving way to me. Should:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/744.png",
+		"optionA": "Waiting for it to pass;",
+		"optionB": "Swerve to the left and go first;",
+		"optionC": "Use the audible signals and move forward..;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]

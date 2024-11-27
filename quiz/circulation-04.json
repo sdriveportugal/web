@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "416",
+		"question": "Is the ambulance on a slowing down?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/416.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "426",
+		"question": "Driving in adverse weather conditions can impair braking distance.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/426.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "433",
+		"question": "The existence of abnormal traffic circumstances may lead to a temporary or permanent ban on the circulation of certain vehicles.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/433.png",
+		"optionA": "The statement is false;",
+		"optionB": "The statement is true;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "441",
+		"question": "Failure to wear a seat belt by a passenger in the vehicle is punishable by a fine.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/441.png",
+		"optionA": "The statement is false;",
+		"optionB": "The statement is true;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "450",
+		"question": "Temporary signage may be used only when workers are carrying out works on public roads.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/450.png",
+		"optionA": "The statement is false;",
+		"optionB": "The statement is true;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "452",
+		"question": "The road to which the ambulance intends to access:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/452.png",
+		"optionA": "It is intended for rapid transit;",
+		"optionB": "May have level crossings;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "469",
+		"question": "When driving at a roundabout, inside or outside a built-up, I must take the most convenient traffic route to my destination. Do you agree with this statement?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/469.png",
+		"optionA": "No.;",
+		"optionB": "Yes.;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "474",
+		"question": "When exiting a motorway, I must use:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/474.png",
+		"optionA": "Slow down;",
+		"optionB": "Acceleration lane;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "484",
+		"question": "Do the orders of traffic regulators prevail over vertical signs?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/484.png",
+		"optionA": "No, they only prevail when travelling within localities;",
+		"optionB": "No, only when driving outside localities;",
+		"optionC": "Yes, they always prevail;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "494",
+		"question": "Do I drive properly in this traffic queue?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/494.png",
+		"optionA": "No, because regardless of the circumstances, it is always compulsory to drive in the right-hand queue;",
+		"optionB": "Yes, if it's suitable for my destination;",
+		"optionC": "Yes, only because I'm travelling inside the town;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "504",
+		"question": "I drive on a road with:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/504.png",
+		"optionA": "Two directions of traffic;",
+		"optionB": "One direction of traffic;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "514",
+		"question": "How should I proceed in this situation?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/514.png",
+		"optionA": "Accelerate to pass as quickly as possible;",
+		"optionB": "Maintain speed, with the necessary precautions;",
+		"optionC": "Stop to give way to the police vehicle;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "524",
+		"question": "Should I give way to the fire brigade's vehicle?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/524.png",
+		"optionA": "No, never, because I'm on the right;",
+		"optionB": "Yes, in any situation;",
+		"optionC": "Yes, because it signals an urgent distress call;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "534",
+		"question": "On the march, is it necessary to maintain a safe distance?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/534.png",
+		"optionA": "Yes, in relation to the traffic around me;",
+		"optionB": "Yes, but only in relation to the vehicles in front of me;",
+		"optionC": "Yes, only a lateral distance;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "544",
+		"question": "This driver to talk on the phone:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/544.png",
+		"optionA": "You must use your right hand;",
+		"optionB": "You must use your left hand;",
+		"optionC": "A telephone with a loudspeaker system should have been installed;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "554",
+		"question": "On the 25 de Abril bridge, I am forbidden to carry out any type of repair on my vehicle.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/554.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "564",
+		"question": "Can I occupy the rightmost lane in this lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/564.png",
+		"optionA": "Yes, if the traffic intensity justifies it;",
+		"optionB": "Yes, if I want to change direction;",
+		"optionC": "Yes, if travelling on an urgent rescue mission;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "574",
+		"question": "In this situation I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/574.png",
+		"optionA": "Honk the horn to warn the driver that he is crossing the continuous line;",
+		"optionB": "Drive at a sufficient distance from the vehicle in front of me to avoid accidents;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "584",
+		"question": "In this situation, the safety distance essentially depends on:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/584.png",
+		"optionA": "Weather conditions;",
+		"optionB": "Pavement conditions;",
+		"optionC": "Reaction time;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "594",
+		"question": "In this situation, pedestrians were to drive on the left side of the carriageway.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/594.png",
+		"optionA": "The statement is false;",
+		"optionB": "The statement is true;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "603",
+		"question": "In this situation, if the driver of the priority vehicle does not comply with the rule of giving way, he commits the offence:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/603.png",
+		"optionA": "Serious;",
+		"optionB": "Slightly;",
+		"optionC": "Very serious;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "614",
+		"question": "On this telephone I can only make emergency calls.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/614.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "623",
+		"question": "At a roundabout, can I turn right to the middle of the roundabout?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/623.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "633",
+		"question": "Can the driver of an ambulance or other vehicle in the emergency service run a red light?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/633.png",
+		"optionA": "No, they are obliged to stop, although they can continue after taking the necessary precautions;",
+		"optionB": "Yes, but only if they signal your movement properly;",
+		"optionC": "Yes, they can act as if the traffic lights are green because they are on an urgent rescue mission;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "643",
+		"question": "The vehicle on the left is a priority vehicle:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/643.png",
+		"optionA": "Only when crossing junctions;",
+		"optionB": "When you have signalled the emergency route properly;",
+		"optionC": "Whenever driving on public roads;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "653",
+		"question": "Can drivers of priority vehicles disrespect the orders of traffic regulators?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/653.png",
+		"optionA": "No, they may never disrespect them;",
+		"optionB": "Yes, as long as the mission, whatever it may be, requires it;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "793",
+		"question": "Am I obliged to provide assistance in the event of an accident?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/793.png",
+		"optionA": "No.;",
+		"optionB": "Yes, except in cases where you were not involved in the accident;",
+		"optionC": "Yes, always;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "703",
+		"question": "Who should give way?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/703.png",
+		"optionA": "Me, because the other vehicle isn't signalling emergency gear;",
+		"optionB": "The police vehicle, because it's on my left and doesn't signal emergency traffic;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "713",
+		"question": "If a road traffic accident results in injuries or deaths, should I wait for the arrival of a police officer?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/713.png",
+		"optionA": "No, unless you were at fault in the accident;",
+		"optionB": "Yes, I must wait at the scene for the police to arrive;",
+		"optionC": "Yes, but only if the accident results in serious injuries;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "743",
+		"question": "One way to avoid some of the accidents that happen on public roads is to adopt a defensive posture.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/743.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]

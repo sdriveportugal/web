@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "420",
+		"question": "The attitude of drivers influences road safety.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/420.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "446",
+		"question": "Does the execution of works on public roads require prior authorization from the competent authorities?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/446.png",
+		"optionA": "No, under no circumstances;",
+		"optionB": "Yes, but only when the work is done on the motorway;",
+		"optionC": "Yes, always;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "457",
+		"question": "Before starting the crossing, do I have to check that the intensity of the traffic does not force me to stop my vehicle at the level crossing?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/457.png",
+		"optionA": "No.;",
+		"optionB": "Yes.;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "477",
+		"question": "The use of sound signals is only permitted in the event of imminent danger. Do you agree with this statement?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/477.png",
+		"optionA": "No, when driving through a town at night, I can also use the audible signals to warn a driver of my intention to overtake;",
+		"optionB": "No, I can also use the audible signals on speed bumps with reduced visibility when driving outside localities;",
+		"optionC": "Yes, I agree;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "489",
+		"question": "In view of the maximum speed limits applied on motorways, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/489.png",
+		"optionA": "Increase the safety distance;",
+		"optionB": "Decrease the safety distance;",
+		"optionC": "I keep the same safe distance as I used to within the locality...;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "499",
+		"question": "Do I drive properly on this traffic lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/499.png",
+		"optionA": "Yes, because there are other traffic lanes;",
+		"optionB": "Yes, because there are vehicles in front of me;",
+		"optionC": "Yes, if you are overtaking;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "509",
+		"question": "How is the urgent marching of vehicles that are not equipped with special audible and light warning devices to be signaled?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/509.png",
+		"optionA": "During the day or at night, drivers should use the Roadlight alternately with the Presence lights or use the audible signals repeatedly;",
+		"optionB": "During the day or at night, drivers must use the audible signals repeatedly;",
+		"optionC": "Alternate use of the Roadlights with the Presence light or, during the day, use the audible signals repeatedly;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "518",
+		"question": "What should I do if I have to suddenly reduce my vehicle's speed because of fog?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/518.png",
+		"optionA": "I should get as close as possible to the centre of the carriageway and use the hazard lights;",
+		"optionB": "I should use hazard lights or fog lights;",
+		"optionC": "I should use my Roadlights at junctions with other vehicles to signal my presence;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "528",
+		"question": "Which of the following factors do you consider most important in the prevention of road accidents?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/528.png",
+		"optionA": "Practising defensive driving;",
+		"optionB": "Have a new vehicle;",
+		"optionC": "Getting my driving licence at an older age;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "539",
+		"question": "This carriageway has:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/539.png",
+		"optionA": "Only one direction of traffic;",
+		"optionB": "Two directions of traffic;",
+		"optionC": "Three lanes of traffic;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "549",
+		"question": "I am faced with a:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/549.png",
+		"optionA": "Emergency telephone;",
+		"optionB": "Public telephone;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "559",
+		"question": "Should a driver use the most convenient lane of traffic at roundabouts to his destination?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/559.png",
+		"optionA": "No, drivers should always use the traffic lane furthest to the right;",
+		"optionB": "Yes, inside or outside a locality;",
+		"optionC": "Yes, but only at roundabouts within a town;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "569",
+		"question": "In this situation of traffic in parallel rows, can I change to the right row if it is my intention to move forward?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/569.png",
+		"optionA": "No, because the road markings don't allow it and the queue I'm in allows me to go straight ahead;",
+		"optionB": "Yes, because the queue on the right also allows you to follow the desired direction;",
+		"optionC": "Yes, because traffic should always move to the right of the queue;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "579",
+		"question": "In this situation, does the ambulance driver have priority?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/579.png",
+		"optionA": "No.;",
+		"optionB": "Yes, because it signals that it is on an urgent rescue mission;",
+		"optionC": "Yes, because the ambulance is travelling on the left;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "589",
+		"question": "In this situation, in view of the signs, should I drive in the right-most traffic lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/589.png",
+		"optionA": "No.;",
+		"optionB": "Yes.;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "599",
+		"question": "In this situation, when the light of the light turns green, I should not proceed if:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/599.png",
+		"optionA": "Driving at less than 40 kilometres per hour;",
+		"optionB": "It is foreseeable that traffic will force me to stop at the junction;",
+		"optionC": "Wanting to change direction to the right..;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "609",
+		"question": "In this place, due to the marks on the pavement, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/609.png",
+		"optionA": "Reduce the safety distance;",
+		"optionB": "Stop;",
+		"optionC": "Drive very carefully;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "619",
+		"question": "On sidecar motorcycles, is anyone exempt from wearing a protective helmet?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/619.png",
+		"optionA": "No.;",
+		"optionB": "Yes, the passenger in the car;",
+		"optionC": "Yes, both the driver and the passenger in the car;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "629",
+		"question": "The ambulance driver infringes:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/629.png",
+		"optionA": "If it signals the urgent rescue mission improperly;",
+		"optionB": "If it is travelling on the motorway at a speed of more than 120 Km/h;",
+		"optionC": "If, due to the demands of their job, they fail to observe traffic rules and signs;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "639",
+		"question": "What should I do in this situation?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/639.png",
+		"optionA": "Going round a white car because it is changing direction;",
+		"optionB": "Allow the driver of the white vehicle to complete the manoeuvre;",
+		"optionC": "Use the audible signals because the driver of the white vehicle is obstructing traffic;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "649",
+		"question": "Drivers of heavy goods vehicles are required to maintain a safety distance of not less than 50 metres from each other. Do you agree with this statement?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/649.png",
+		"optionA": "No, drivers of these vehicles are only obliged to keep a distance that allows them to avoid accidents;",
+		"optionB": "No, only drivers of heavy goods vehicles are obliged to maintain a safety distance of not less than 50 metres between them;",
+		"optionC": "Yes, but only when travelling outside a town and on roads with only one lane of traffic in each direction;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "659",
+		"question": "Do the pedestrians on my right side circulate correctly in that place?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/659.png",
+		"optionA": "No, pedestrians can never use a special lane;",
+		"optionB": "No, because it is forbidden to race on the tracks;",
+		"optionC": "Yes.;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "669",
+		"question": "When the passenger vehicle comes to a standstill, can I change lanes?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/669.png",
+		"optionA": "No, I should stay in the traffic lane furthest to the right;",
+		"optionB": "Yes, I can change traffic lanes but I must signal the manoeuvre and drive at a particularly moderate speed;",
+		"optionC": "Yes, I can change traffic lanes by signalling the manoeuvre and carrying it out as quickly as possible so as not to cause any inconvenience to traffic;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "679",
+		"question": "Can I be punished if, distracted by pedestrians, I drive at slow speed?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/679.png",
+		"optionA": "No, I'll only be penalised if I exceed the general speed limits;",
+		"optionB": "Yes, because I pollute the environment more that way;",
+		"optionC": "Yes, if I cause embarrassment to other road users;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "689",
+		"question": "Do I need to have money to make a call on this phone?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/689.png",
+		"optionA": "No.;",
+		"optionB": "Yes.;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "699",
+		"question": "What is the main element of the general system of circulation?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/699.png",
+		"optionA": "Traffic lanes;",
+		"optionB": "Man;",
+		"optionC": "The vehicle;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "709",
+		"question": "All vehicles are considered to be priority vehicles:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/709.png",
+		"optionA": "Built exclusively for patient transport;",
+		"optionB": "The fire brigade;",
+		"optionC": "If you are travelling on an urgent rescue mission and signal the emergency stop;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "719",
+		"question": "If I am not going to make a manoeuvre, should I always drive in the right-most traffic lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/719.png",
+		"optionA": "No, never;",
+		"optionB": "Yes, within a locality;",
+		"optionC": "Yes, outside a locality;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "729",
+		"question": "All traffic routes go in the same direction. In this place I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/729.png",
+		"optionA": "As a general rule, move into the traffic lane on the right;",
+		"optionB": "Transit on any road, regardless of traffic conditions;",
+		"optionC": "Always drive in the traffic lane on the left;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "749",
+		"question": "Does the mechanical part of the vehicle have an influence on driving?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/749.png",
+		"optionA": "No, because the way a vehicle is driven has nothing to do with how it works;",
+		"optionB": "Yes, but only if I want to reach ‘high speeds’;",
+		"optionC": "Yes, because incorrect vehicle operation can have a negative impact on my driving..;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "418",
+		"question": "Is the ambulance on an acceleration track?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/418.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "431",
+		"question": "The safety distance is a factor to consider:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/431.png",
+		"optionA": "Only in urban driving, due to the intensity of the traffic;",
+		"optionB": "In any situation;",
+		"optionC": "On motorways by reducing speed limits;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "443",
+		"question": "The prohibition on the use of certain devices applies to the driver:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/443.png",
+		"optionA": "Only while driving;",
+		"optionB": "When driving and also when stationary or parked;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "463",
+		"question": "When driving in this location, a driver knows that:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/463.png",
+		"optionA": "You drive within a locality;",
+		"optionB": "I'm driving outside a locality;",
+		"optionC": "You are driving on a road reserved for cars and mopeds;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "473",
+		"question": "When changing lanes, I must keep the turn signal on while manoeuvring and turn it off as soon as:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/473.png",
+		"optionA": "You are no longer a danger to other road users and the manoeuvre has been completed safely;",
+		"optionB": "See that other road users have realised my intention;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "501",
+		"question": "I circulate within a locality. Can I change to the leftmost lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/501.png",
+		"optionA": "No, within towns I can only use the right-hand side of the carriageway;",
+		"optionB": "No, as long as the white vehicle hasn't finished its manoeuvre;",
+		"optionC": "Yes, but I should only change traffic lanes after signalling the manoeuvre and taking the necessary precautions;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "511",
+		"question": "How should I get around the roundabout I am approaching?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/511.png",
+		"optionA": "In order to turn right into the centre of the roundabout;",
+		"optionB": "In order to turn left into the centre of the roundabout;",
+		"optionC": "It doesn't matter, as long as I signal my intention correctly;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "519",
+		"question": "As a general rule on motorways, circulation must be made:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/519.png",
+		"optionA": "Take the left-hand carriageway;",
+		"optionB": "Take the traffic lane on the left;",
+		"optionC": "On the right-hand side of the carriageway;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "530",
+		"question": "In the event of a vehicle breakdown on the 25 de Abril Bridge, its occupants, while waiting for help to arrive, must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/530.png",
+		"optionA": "Staying behind the vehicle;",
+		"optionB": "Remain inside the vehicle after the pre-signalling signal has been set;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "540",
+		"question": "This carriageway has:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/540.png",
+		"optionA": "Two lanes of traffic each way;",
+		"optionB": "Three lanes of traffic;",
+		"optionC": "One direction of traffic;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "550",
+		"question": "Are heavy goods vehicles at idle speed outside built-up areas on roads with only one lane in each direction?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/550.png",
+		"optionA": "No, the Highway Code does not establish any obligation;",
+		"optionB": "Yes, you must keep a distance of no less than 150 metres;",
+		"optionC": "Yes, you must keep a distance of no less than 50 metres;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "561",
+		"question": "On this carriageway there are:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/561.png",
+		"optionA": "Two directions of traffic;",
+		"optionB": "Two queues in each direction;",
+		"optionC": "Three lanes of traffic travelling to Sintra;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "571",
+		"question": "In this situation I must give way to the fire brigade's vehicle.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/571.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "581",
+		"question": "In this situation, am I obliged to give way to the ambulance?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/581.png",
+		"optionA": "No.;",
+		"optionB": "Yes, because the ambulance is signalling emergency movement;",
+		"optionC": "Yes, because the ambulance is travelling on the left;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "591",
+		"question": "In this situation, can the driver on the right start the journey without giving way to me?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/591.png",
+		"optionA": "No.;",
+		"optionB": "Yes.;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "601",
+		"question": "In this situation, if the traffic queue to my left circulates more quickly, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/601.png",
+		"optionA": "Keeping in the same queue;",
+		"optionB": "Change queue immediately;",
+		"optionC": "Signal and change queue immediately;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "611",
+		"question": "In this place, I can drive in the leftmost lane:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/611.png",
+		"optionA": "To overtake;",
+		"optionB": "To reverse direction;",
+		"optionC": "To change direction to the left;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "621",
+		"question": "In a road accident involving two automobiles, the amicable declaration must be filled out:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/621.png",
+		"optionA": "For the driver who caused the accident;",
+		"optionB": "For both drivers;",
+		"optionC": "By a police officer;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "631",
+		"question": "Is the driver of a vehicle obliged to switch on the turn signal whenever he intends to start or resume driving?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/631.png",
+		"optionA": "No, only when there are vehicles travelling behind them;",
+		"optionB": "No, unless there are oncoming vehicles;",
+		"optionC": "Yes, always;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "641",
+		"question": "Traffic is congested and I intend to enter the gas station. Should:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/641.png",
+		"optionA": "Changing traffic lanes quickly;",
+		"optionB": "Signalling my vehicle and changing direction as soon as possible;",
+		"optionC": "I use audible signals to make other drivers aware of my intention;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "651",
+		"question": "Drivers of vehicles in motion are required to maintain sufficient lateral distance between their vehicle and those travelling in the opposite direction. Do you agree with the statement?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/651.png",
+		"optionA": "No, only drivers of heavy goods vehicles and vehicles travelling at a slow speed are obliged to keep a lateral distance;",
+		"optionB": "Yes, they must also maintain sufficient lateral distance to avoid accidents between their vehicle and those travelling in the same lane and in the same direction;",
+		"optionC": "Yes, all drivers must drive as close as possible to the centre of the carriageway;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "661",
+		"question": "Vertical signs prevail over light signaling.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/661.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "671",
+		"question": "When an accident occurs, am I obliged to provide assistance?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/671.png",
+		"optionA": "Not on this road, as it is a rapid transit road where stopping is not permitted;",
+		"optionB": "Yes, but only if you were involved in the accident;",
+		"optionC": "Yes, for example by helping to identify the location;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "681",
+		"question": "Can I use the traffic lane on my right to turn right?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/681.png",
+		"optionA": "No, under no circumstances;",
+		"optionB": "Yes, I can only use the traffic lane to change direction to the left;",
+		"optionC": "Yes.;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "691",
+		"question": "I intend to change direction to the right. I must pass the triangular plate:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/691.png",
+		"optionA": "So that it's on my right;",
+		"optionB": "So that it's on my left;",
+		"optionC": "Either way;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "701",
+		"question": "When can pedestrians use the lanes intended for bicycles?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/701.png",
+		"optionA": "In the absence of specially designated places;",
+		"optionB": "When there is no cyclist in the same lane;",
+		"optionC": "Whenever they wish;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "711",
+		"question": "If the light of the light signal turns red, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/711.png",
+		"optionA": "Increase the speed a little so as not to immobilise the vehicle too close to the signal;",
+		"optionB": "Continue travelling, because the intensity of the traffic does not justify stopping;",
+		"optionC": "Stop;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "721",
+		"question": "If the vehicle in front slows down to maintain the same distance from safety, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/721.png",
+		"optionA": "Increase speed a little;",
+		"optionB": "Maintain the same speed;",
+		"optionC": "Reduce speed as well;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "731",
+		"question": "All drivers must maintain a distance between their vehicle and the vehicle in front of them:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/731.png",
+		"optionA": "Not less than 30 metres;",
+		"optionB": "Not less than 50 metres if you are travelling outside the town;",
+		"optionC": "That allows the vehicle to stop in a clear and visible space;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "741",
+		"question": "One of the characteristics of urban driving is:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/741.png",
+		"optionA": "The increase in speed;",
+		"optionB": "A smaller number of intersections;",
+		"optionC": "Greater traffic intensity..;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]

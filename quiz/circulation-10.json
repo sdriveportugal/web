@@ -1,0 +1,302 @@
+[
+	{
+		"ID": "458",
+		"question": "When approaching a pedestrian crossing, a driver must move forward as soon as the light signal permits, even if pedestrians are finishing the crossing. Do you agree with this statement?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/458.png",
+		"optionA": "No, the driver must allow pedestrians who have started to cross the carriageway to pass until they have finished;",
+		"optionB": "Yes, as long as the light signalling allows me to move forward;",
+		"optionC": "Yes, crossing the pedestrian crossing as quickly as possible;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "461",
+		"question": "When driving outside a locality, can I make use of sound signals?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/461.png",
+		"optionA": "No, I am always obliged to use traffic lights;",
+		"optionB": "Yes, if necessary;",
+		"optionC": "Yes, under any circumstances;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "465",
+		"question": "When driving in this place, a driver should know that the audible signals can be used:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/465.png",
+		"optionA": "Only in the event of imminent danger;",
+		"optionB": "Whenever you want to overtake;",
+		"optionC": "Whenever I notice that other drivers are not behaving in the right way;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "471",
+		"question": "When entering a roundabout, I must give way.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/471.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "478",
+		"question": "Can the dimensions of the vehicles in front of me have an influence on the safety distance?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/478.png",
+		"optionA": "No, never;",
+		"optionB": "Yes, because if there is a heavy goods vehicle in front of me, I must reduce the safety distance;",
+		"optionC": "Yes, especially if it is a heavy goods vehicle;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "481",
+		"question": "The rotating blue lights on the top of the vehicle indicate that it:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/481.png",
+		"optionA": "Return to the fire station;",
+		"optionB": "If travelling at high speed;",
+		"optionC": "If travelling on an urgent rescue mission;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "508",
+		"question": "How should the driver of a vehicle travelling in emergency service when faced with a vertical red light?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/508.png",
+		"optionA": "Signal your movement and move forward;",
+		"optionB": "You must stop;",
+		"optionC": "You can move forward because you have priority at junctions;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "512",
+		"question": "How should I proceed when driving in this roundabout with two lanes?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/512.png",
+		"optionA": "I must use the traffic lane most convenient to my destination;",
+		"optionB": "I should always use the traffic lane furthest to the right;",
+		"optionC": "I must always use the traffic lane furthest to the left;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "526",
+		"question": "I should know that in cars the use of seat belts is compulsory:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/526.png",
+		"optionA": "Only within localities;",
+		"optionB": "Only for the driver and front seat passenger;",
+		"optionC": "For all occupants;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "536",
+		"question": "In vehicles not equipped with special audible and light warnings, the emergency march may be signaled by alternating the Roadlight and Presence light.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/536.png",
+		"optionA": "The statement is false;",
+		"optionB": "The statement is true;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "546",
+		"question": "Am I driving correctly on this traffic lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/546.png",
+		"optionA": "Yes, because there are several traffic lanes in the same direction;",
+		"optionB": "Yes, if I'm travelling at more than 50 km/h;",
+		"optionC": "Yes, if you are overtaking;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "557",
+		"question": "On the road you want to access, can the ambulance travel at a speed of more than 120 km/h?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/557.png",
+		"optionA": "No.;",
+		"optionB": "Yes, because they are travelling on an urgent rescue mission;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "566",
+		"question": "In this lane:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/566.png",
+		"optionA": "There is only one direction of traffic;",
+		"optionB": "There are two lanes of traffic, one in each direction;",
+		"optionC": "There are several lanes of traffic in each direction;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "575",
+		"question": "In this situation I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/575.png",
+		"optionA": "Stop and wait for the black car to complete its manoeuvre;",
+		"optionB": "Use audible signals;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "585",
+		"question": "In this situation, the signs indicate to me that the road on which I am driving now has:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/585.png",
+		"optionA": "Four lanes of traffic, one of which is reserved for public transport vehicles;",
+		"optionB": "Three lanes of traffic, one of which is reserved for public transport vehicles;",
+		"optionC": "One lane of traffic in the direction I'm travelling and two in the opposite direction;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "595",
+		"question": "In this situation, can I drive in the rightmost lane?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/595.png",
+		"optionA": "I can't, because the signs don't authorise it;",
+		"optionB": "I can, if I'm not impeding public transport vehicles;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "605",
+		"question": "In this situation, if you can increase the speed the safe distance you must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/605.png",
+		"optionA": "Increase;",
+		"optionB": "Decrease;",
+		"optionC": "Keep moving;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "615",
+		"question": "At the intersection, the driver of the police vehicle must give way to me.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/615.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "625",
+		"question": "Does the Highway Code peanalise the driver of an animal-drawn vehicle that causes obstruction to the traffic?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/625.png",
+		"optionA": "No, except in cases of imminent danger;",
+		"optionB": "No.;",
+		"optionC": "Yes, with a fine;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "635",
+		"question": "The driver of the white vehicle intends to start the march. It can advance in first place because it presents itself from the right.",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/635.png",
+		"optionA": "Right;",
+		"optionB": "Wrong;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "645",
+		"question": "Does the fire brigade vehicle have right of way?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/645.png",
+		"optionA": "No, never;",
+		"optionB": "Yes, because it signals an urgent rescue mission;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "655",
+		"question": "Are drivers of vehicles on an urgent rescue mission required to stop at the \"STOP\" stop line marked on the pavement, accompanied by vertical signs?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/655.png",
+		"optionA": "No, under no circumstances;",
+		"optionB": "Yes, they are obliged to stop walking;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "665",
+		"question": "To facilitate the passage of a vehicle on an urgent rescue mission on a motorway, I must detour :",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/665.png",
+		"optionA": "In order to make it easier for you to cross the road;",
+		"optionB": "To the right, using the kerb if necessary;",
+		"optionC": "To the left, approaching the centre of the carriageway if necessary;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "673",
+		"question": "The following may contribute to reducing the number of accidents:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/673.png",
+		"optionA": "Only drivers;",
+		"optionB": "Only pedestrians;",
+		"optionC": "All road users;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "675",
+		"question": "I can cross the verge if:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/675.png",
+		"optionA": "It is necessary for access to the property;",
+		"optionB": "The traffic is very heavy;",
+		"optionC": "I want to overtake;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "685",
+		"question": "Can I use the left side of the carriageway?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/685.png",
+		"optionA": "No, I can never use the left-hand side of the carriageway;",
+		"optionB": "Yes, but only to overtake;",
+		"optionC": "Yes, to overtake or change direction;",
+		"Answer": "C",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "695",
+		"question": "I intend to move forward, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/695.png",
+		"optionA": "Stay in the queue of traffic I'm travelling in;",
+		"optionB": "Change to the traffic queue on the left;",
+		"optionC": "Move to the rightmost traffic lane;",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "705",
+		"question": "As a general rule, do I have to give way to vehicles that report that they are in emergency service?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/705.png",
+		"optionA": "No.;",
+		"optionB": "Yes.;",
+		"optionC": ";",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "715",
+		"question": "If I am assisting a motorcyclist who has fallen and become unconscious, I must:",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/715.png",
+		"optionA": "Move to a more comfortable location;",
+		"optionB": "Immediately signalise the scene of the accident and ask the authorities for help;",
+		"optionC": "Try to lift the driver immediately;",
+		"Answer": "B",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	},
+	{
+		"ID": "725",
+		"question": "If I want to turn right, what should I do?",
+		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-2/725.png",
+		"optionA": "Approach the right-hand edge of the carriageway as early as possible and carry out the manoeuvre on the shortest route;",
+		"optionB": "At the place closest to the junction, I must get as close as possible to the right-hand edge of the carriageway and carry out the change of direction manoeuvre;",
+		"optionC": ";",
+		"Answer": "A",
+		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
+	}
+]
