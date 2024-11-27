@@ -93,9 +93,9 @@
 		"ID": "451",
 		"question": "The signage on this public road allows me to use the sidewalks. Do you agree with this statement?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-1/451.png",
-		"optionA": "No, use of the pavement is prohibited",
-		"optionB": "Yes, but only the pavement on the right-hand side of the road",
-		"optionC": "Yes, the pavement is wide enough and the signage does not prohibit it..",
+		"optionA": "No, use of the sidewalk is prohibited",
+		"optionB": "Yes, but only the sidewalk on the right-hand side of the road",
+		"optionC": "Yes, the sidewalk is wide enough and the signage does not prohibit it..",
 		"Answer": "A",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
