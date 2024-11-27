@@ -191,11 +191,11 @@
 	},
 	{
 		"ID": "491",
-		"question": "I give the passage to the ambulance because:",
+		"question": "I give the way to the ambulance because:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/SetPics/circulation-1/491.png",
-		"optionA": "Mark the emergency gear appropriately",
+		"optionA": "It signals the emergency gear appropriately.",
 		"optionB": "It is always a priority vehicle",
-		"optionC": "Leaving a car park and turning right",
+		"optionC": "It is Leaving a car park and its on our right",
 		"Answer": "A",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
