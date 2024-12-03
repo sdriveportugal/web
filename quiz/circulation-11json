@@ -44,7 +44,7 @@
 		"question": "Is this vehicle considered a priority?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/545.png",
 		"optionA": "Yes, because it is only for urgent traffic",
-		"optionB": "Yes, if I'm travelling on an emergency mission and I signal emergency gear",
+		"optionB": "Yes, if it is travelling on an emergency mission and it signals emergency gear",
 		"optionC": "Yes, always",
 		"Answer": "B",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
@@ -241,7 +241,7 @@
 	},
 	{
 		"ID": "716",
-		"question": "If I am not overstepping, I must:",
+		"question": "If I am not overtaking, I must:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/475.png",
 		"optionA": "Continue in this traffic lane",
 		"optionB": "Move into the traffic lane on the right",
