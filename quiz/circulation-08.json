@@ -171,11 +171,11 @@
 	},
 	{
 		"ID": "619",
-		"question": "On sidecar motorcycles, is anyone exempt from wearing a protective helmet?",
+		"question": "On motorcycles with sidecar , is anyone exempt from wearing a protective helmet?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/526.png",
 		"optionA": "No.",
-		"optionB": "Yes, the passenger in the car",
-		"optionC": "Yes, both the driver and the passenger in the car",
+		"optionB": "Yes, the passenger in the sidecar",
+		"optionC": "Yes, both the driver and the passenger in the sidecar",
 		"Answer": "A",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
