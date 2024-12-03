@@ -241,7 +241,7 @@
 	},
 	{
 		"ID": "698",
-		"question": "What is the maximum speed at which I can drive on this section of motorway?",
+		"question": "What is the maximum speed I can travel on this section of motorway?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/479.png",
 		"optionA": "120 km/h, which is the maximum speed allowed on motorways",
 		"optionB": "80 km/h, which is the limit set by temporary road signs",
