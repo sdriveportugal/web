@@ -63,9 +63,9 @@
 		"ID": "509",
 		"question": "How is the urgent marching of vehicles that are not equipped with special audible and light warning devices to be signaled?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/509.png",
-		"optionA": "During the day or at night, drivers should use the Roadlight alternately with the Presence lights or use the audible signals repeatedly",
+		"optionA": "During the day or at night, drivers should use the Roadlight alternately with the Crossing lights or use the audible signals repeatedly",
 		"optionB": "During the day or at night, drivers must use the audible signals repeatedly",
-		"optionC": "Alternate use of the Roadlights with the Presence light or, during the day, use the audible signals repeatedly",
+		"optionC": "Alternate use of the Roadlights with the Crossing light or, during the day, use the audible signals repeatedly",
 		"Answer": "C",
 		"Explanation": "For Explanation, please be a member or comment on our youtube channel."
 	},
