@@ -201,7 +201,7 @@
 	},
 	{
 		"ID": "650",
-		"question": "Can drivers of motorcycles, mopeds and bicycles drive with their hands off the handlebars?",
+		"question": "Can riders of motorcycles, mopeds and bicycles drive with their hands off the handlebars?",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/650.png",
 		"optionA": "No, under no circumstances",
 		"optionB": "No, except to signal any manoeuvre",
