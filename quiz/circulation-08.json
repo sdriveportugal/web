@@ -151,7 +151,7 @@
 	},
 	{
 		"ID": "599",
-		"question": "In this situation, when the light of the light turns green, I should not proceed if:",
+		"question": "In this situation, when the traffic light turns green, I must not proceed if:",
 		"image": "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/QuestionsB/599.png",
 		"optionA": "Driving at less than 40 kilometres per hour",
 		"optionB": "It is foreseeable that traffic will force me to stop at the junction",
