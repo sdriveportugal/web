@@ -136,7 +136,7 @@
     "optionA": "Yes.",
     "optionB": "No.",
     "optionC": "",
-    "Answer": "A",
+    "Answer": "B",
     "Explanation": "The sign is not posted at the exact location, it indicates the location, 250 metres away. Where the sign is posted, you won't find the escape route."
   },
   {
@@ -156,7 +156,7 @@
     "optionA": "Proceed with caution",
     "optionB": "Go ahead quickly.",
     "optionC": "Stop.",
-    "Answer": "A",
+    "Answer": "C",
     "Explanation": "The supplementary lamp on the right-hand side is a yellow background lamp with a black arrow pointing to the right-hand side. When turning right, you can proceed without stopping at the red light if there's a flashing yellow light, but you must proceed with caution. but you cannot go in any direction other than right, for any other direction you must stop."
   },
   {
