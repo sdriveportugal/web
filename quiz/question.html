@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .quiz-container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .nav-btn {
+            padding: 8px 15px;
+            background-color: #FF9800; /* Orange */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .nav-btn:hover {
+            background-color: #002D72; /* Navy Blue */
+        }
+        .qn-navigation {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            align-items: center;
+        }
+        .qn-btn {
+            padding: 8px 15px;
+            background-color: #4CAF50; /* Green */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .qn-btn:hover {
+            background-color: #45a049; /* Darker Green */
+        }
+        .search-box {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .search-box input {
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 200px;
+            text-align: center;
+        }
+        .search-btn {
+            padding: 8px 15px;
+            background-color: #002D72; /* Navy Blue */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .search-btn:hover {
+            background-color: #046A38; /* Green */
+        }
+        .question-number {
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .options {
+            margin: 15px 0;
+        }
+        .options label {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-align: left;
+            padding: 10px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            background-color: #f4f4f4;
+            margin-bottom: 5px;
+            border-radius: 5px;
+            position: relative;
+        }
+        .options input[type="radio"] {
+            appearance: none;
+            -webkit-appearance: none;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-left: auto;
+        }
+        .options input[type="radio"]:checked {
+            background-color: #4CAF50;
+            position: relative;
+        }
+        .options input[type="radio"]:checked::after {
+            content: 'X';
+            color: white;
+            font-weight: bold;
+            font-size: 14px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        .options label:hover {
+            background-color: #e0e0e0;
+        }
+        .options label.correct {
+            background-color: #d4edda;
+        }
+        .options label.incorrect {
+            background-color: #ffdddd;
+        }
+        .explanation {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e7f7e7;
+            border: 1px solid #a6d6a6;
+            border-radius: 5px;
+        }
+        iframe {
+            width: 100%;
+            height: 300px;
+            margin-top: 20px;
+            border: none;
+        }
+        .check-btn {
+            padding: 10px 20px;
+            background-color: #DA291C;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .check-btn:hover {
+            background-color: #002D72;
+        }
+    </style>
+    <script>
+        const quizData = [];
+        let currentQuestionIndex = 0;
+
+        // Fetch data from Google Sheets
+        fetch("https://docs.google.com/spreadsheets/d/1yK89Hl0pFhiNcvO64n0Lr2UUIo2fPwPzfZ4pgmaoyoE/gviz/tq?tqx=out:json")
+            .then(response => response.text())
+            .then(data => {
+                const jsonData = JSON.parse(data.substring(47).slice(0, -2));
+                if (jsonData.table && jsonData.table.rows) {
+                    jsonData.table.rows.forEach(row => {
+                        quizData.push({
+                            qn: row.c[0]?.v || "",
+                            image: row.c[1]?.v || "",
+                            question: row.c[2]?.v || "",
+                            options: [
+                                row.c[3]?.v || "",
+                                row.c[4]?.v || "",
+                                row.c[5]?.v || ""
+                            ],
+                            correct: row.c[6]?.v?.toUpperCase() || "",
+                            explanation: row.c[7]?.v || "",
+                            iframe: row.c[8]?.v || ""
+                        });
+                    });
+                } else {
+                    console.error("No valid rows found in the sheet.");
+                }
+                console.log(quizData); // Debugging: Log the quizData array
+
+                // After loading data, check for URL parameter
+                const qnParam = getQueryParam('qn');
+                if (qnParam) {
+                    const searchQN = Number(qnParam);
+                    const foundIndex = quizData.findIndex(question => Number(question.qn) === searchQN);
+                    if (foundIndex !== -1) {
+                        currentQuestionIndex = foundIndex;
+                    } else {
+                        alert(`Question number ${qnParam} not found.`);
+                    }
+                }
+                loadQuestion(currentQuestionIndex);
+            })
+            .catch(error => console.error("Error loading data: ", error));
+
+        // Function to get query parameter
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // Load a specific question
+        function loadQuestion(index) {
+            if (quizData.length === 0) {
+                console.error("No quiz data available.");
+                return;
+            }
+
+            const questionData = quizData[index];
+
+            document.getElementById("question-number").textContent = `Question ${questionData.qn}`;
+            document.getElementById("question-image").src = questionData.image;
+            document.getElementById("question-image").alt = `Image for Question ${questionData.qn}`;
+            document.getElementById("question-text").textContent = questionData.question;
+
+            const optionsContainer = document.getElementById("options-container");
+            optionsContainer.innerHTML = "";
+
+            questionData.options.forEach((option, i) => {
+                option = option.replace(';', '').trim();
+
+                if (option) {
+                    const label = document.createElement("label");
+                    const input = document.createElement("input");
+                    input.type = "radio";
+                    input.name = "answer";
+                    input.id = `option${i}`;
+                    input.value = String.fromCharCode(65 + i);
+                    label.appendChild(document.createTextNode(`${String.fromCharCode(65 + i)}. ${option}`));
+                    label.appendChild(input);
+                    optionsContainer.appendChild(label);
+                }
+            });
+
+            document.getElementById("explanation").style.display = "none";
+            //document.getElementById("iframe-container").style.display = "none";
+
+            const labels = optionsContainer.getElementsByTagName('label');
+            for (let label of labels) {
+                label.classList.remove("incorrect", "correct");
+            }
+        }
+
+        // Check the selected answer
+        function checkAnswer() {
+            const selectedAnswer = document.querySelector('input[name="answer"]:checked');
+            if (!selectedAnswer) {
+                alert("Please select an option!");
+                return;
+            }
+
+            const selected = selectedAnswer.value;
+            const questionData = quizData[currentQuestionIndex];
+
+            const optionsContainer = document.getElementById("options-container");
+            Array.from(optionsContainer.children).forEach(label => {
+                const input = label.querySelector('input');
+                if (input.value === questionData.correct) {
+                    label.classList.add("correct");
+                } else if (input.value === selected) {
+                    label.classList.add("incorrect");
+                }
+            });
+
+            const explanationContainer = document.getElementById("explanation");
+            explanationContainer.style.display = "block";
+            explanationContainer.textContent = `Explanation: ${questionData.explanation || "No explanation provided."}`;
+
+           /* const iframeContainer = document.getElementById("iframe-container");
+            iframeContainer.src = questionData.iframe;
+            iframeContainer.style.display = "block"; */
+        }
+
+        // Navigate between questions
+        function navigateQuestion(direction) {
+            currentQuestionIndex += direction;
+            if (currentQuestionIndex < 0) currentQuestionIndex = quizData.length - 1;
+            if (currentQuestionIndex >= quizData.length) currentQuestionIndex = 0;
+            loadQuestion(currentQuestionIndex);
+
+            // Update the URL with the new question number
+            const newQN = quizData[currentQuestionIndex].qn;
+            const newUrl = `${window.location.pathname}?qn=${newQN}`;
+            window.history.pushState({}, '', newUrl);
+        }
+
+        // Navigate by question number
+        function navigateByQN(direction) {
+            const currentQN = Number(quizData[currentQuestionIndex].qn);
+            const targetQN = currentQN + direction;
+            const foundIndex = quizData.findIndex(question => Number(question.qn) === targetQN);
+
+            if (foundIndex === -1) {
+                alert(`Question number ${targetQN} not found.`);
+                return;
+            }
+
+            currentQuestionIndex = foundIndex;
+            loadQuestion(currentQuestionIndex);
+
+            // Update the URL with the new question number
+            const newUrl = `${window.location.pathname}?qn=${targetQN}`;
+            window.history.pushState({}, '', newUrl);
+        }
+
+        // Search for a specific question
+        function searchQuestion() {
+            const searchInput = document.getElementById("search-input").value.trim();
+            if (!searchInput) {
+                alert("Please enter a question number (QN) to search.");
+                return;
+            }
+
+            const searchQN = Number(searchInput);
+            const foundIndex = quizData.findIndex(question => Number(question.qn) === searchQN);
+
+            if (foundIndex === -1) {
+                alert(`Question number ${searchInput} not found.`);
+                return;
+            }
+
+            currentQuestionIndex = foundIndex;
+            loadQuestion(currentQuestionIndex);
+
+            // Update the URL with the searched question number
+            const newUrl = `${window.location.pathname}?qn=${searchQN}`;
+            window.history.pushState({}, '', newUrl);
+        }
+    </script>
+</head>
+<body>
+    <div class="separator" style="clear: both; text-align: center;">
+        <a href="https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/site_pictures/Exam_Questions.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+            <img border="0" data-original-height="1080" data-original-width="1080" height="200" src="https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/site_pictures/Exam_Questions.png" width="200" />
+        </a>
+    </div>
+    <div class="quiz-container">
+        <div class="navigation">
+            <button class="nav-btn prev" onclick="navigateQuestion(-1)">&lt; </button>
+            <button class="nav-btn next" onclick="navigateQuestion(1)"> &gt;</button>
+        </div>
+
+        <div class="qn-navigation">
+            <button class="qn-btn" onclick="navigateByQN(-1)">-</button>
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="Enter QN to search">
+                <button class="search-btn" onclick="searchQuestion()">Search</button>
+            </div>
+            <button class="qn-btn" onclick="navigateByQN(1)">+</button>
+        </div>
+<div><p>Image credits: <a href="https://www.imt-ip.pt/sites/IMTT/English/Pages/IMTnew.aspx" target="_blank">IMT</a> and <a href="https://testes-codigo.pt/versaopremium/" target="_blank">Testes de Código</a></p>
+  
+  
+        <div class="question-number">
+            <span id="question-number">Question 1</span></div>
+
+        </div>
+        <img id="question-image" src="" alt="Question Image" style="max-width: 100%; border-radius: 5px; margin-bottom: 15px;">
+        <h2 id="question-text">Question text will appear here</h2>
+        <div class="options" id="options-container"></div>
+        
+      <button class="nav-btn prev" onclick="navigateQuestion(-1)">&lt; </button>
+      <button class="qn-btn" onclick="navigateByQN(-1)">-</button>
+        <button class="check-btn" onclick="checkAnswer()">Check Answer</button>
+      <button class="qn-btn" onclick="navigateByQN(1)">+</button>
+      <button class="nav-btn next" onclick="navigateQuestion(1)"> &gt;</button>
+      
+      
+      <div class="explanation" id="explanation" style="display: none;"></div>
+      <iframe id="iframe-container" style="display: none;"></iframe>
+    </div>
+</body>
+</html>
