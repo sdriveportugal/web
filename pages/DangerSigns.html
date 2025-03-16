@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danger Signs</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .description {
+            text-align: center;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto 20px;
+            font-size: 1em;
+            line-height: 1.6;
+        }
+
+        /* Gallery Container */
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+
+        /* Image Card */
+        .card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Image */
+        .card img {
+            width: 100%;
+            height: auto;
+            border-bottom: 1px solid #ddd;
+            object-fit: contain;
+        }
+
+        /* Content (Name and Description) */
+        .card-content {
+            padding: 15px;
+        }
+
+        .card-content h3 {
+            margin: 0 0 10px;
+            font-size: 1.2em;
+            color: #333;
+        }
+
+        .card-content p {
+            margin: 0;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+
+        .modal-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            width: 90%;
+            text-align: center;
+            position: absolute;
+            overflow-y: auto; /* Enable scrolling if content overflows */
+            max-height: 90vh; /* Limit height to 90% of viewport height */
+        }
+
+        .close-modal {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            color: #000;
+            cursor: pointer;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 1;
+        }
+
+        .close-modal:hover {
+            background-color: rgba(255, 255, 255, 1);
+        }
+
+        .image-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .watermark {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 24px;
+            color: rgba(255, 0, 0, 0.5);
+            pointer-events: none;
+            user-select: none;
+        }
+
+        .modal-content img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .modal-content h2 {
+            margin: 20px 0 10px;
+            color: #333;
+        }
+
+        .modal-content p {
+            color: #666;
+            margin: 10px 0; /* Add margin for better spacing */
+        }
+
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            .gallery {
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            }
+        }
+
+        .header-image {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <img src="https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/menu/Dangersignpic.webp" alt="Danger signs" class="header-image">
+
+    <h1>Danger Signs</h1>
+    <div class="description">
+        Hazard signs indicate the existence or possibility of the emergence of particularly dangerous traffic conditions that require special attention and caution on the part of the driver.<br><br>
+        Hazard signs must not be placed less than 150 metres or more than 300 metres from the point of the road to which they refer, unless local conditions do not permit; in this case, an additional distance indicator panel should be used. When you encounter any of these signs, you should drive at a particularly moderate speed.<br><br>
+कुनै पनि Danger Sign देख्ने बितिक्कै speed moderateगर्नपर्छ । यस्ता signहरु 150m देखी 300m सम्मका दुरीमा हुन्छन्, कम्तिमा 150m भन्दा परै राख्नुपर्छ यस्ता Danger Sign । 
+ </div>
+
+    <div class="gallery" id="gallery"></div>
+
+    <!-- Modal -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <span class="close-modal" id="close-modal">&times;</span>
+            <div class="image-container">
+                <img id="modal-image" src="" alt="Image">
+                <div class="watermark">SDrive</div>
+            </div>
+            <h2 id="modal-title"></h2>
+            <p id="modal-description1"></p>
+            <p id="modal-description2"></p>
+        </div>
+    </div>
+
+    <script>
+        // Disable Right-Click and Text Selection
+        document.addEventListener('contextmenu', function(e) {
+            e.preventDefault();
+        });
+
+        document.addEventListener('selectstart', function(e) {
+            e.preventDefault();
+        });
+
+        // Image data with two descriptions
+        const images = [
+            { id: "A1a", name: "A1a - Turn right", description1: "Indication of the existence of a dangerous right turn.", description2: "Right तिर घुम्ती वा मोड । " },
+            { id: "A1b", name: "A1b - Left turn", description1: "Indication of the existence of a dangerous left turn.", description2: "Left तिर घुम्ती वा मोड । " },
+            { id: "A1c", name: "A1c - Right turn and counter-curve", description1: "Indication of the proximity of a succession of dangerous curves, the first being on the right.", description2: "सुरुमा Right तिर घुम्ती वा मोड त्यसपछी अर्कोतर्फको मोड ।  " },
+            { id: "A1d", name: "A1d - Left turn and counter-curve", description1: "Indication of the proximity of a succession of dangerous curves, the first being on the left.", description2: "सुरुमा Left तिर घुम्ती वा मोड त्यसपछी अर्कोतर्फको मोड ।  " },
+            { id: "A2a", name: "A2a - Bump", description1: "Indication of a section of track or bridge with convex deformation in the pavement.", description2: "" },
+            { id: "A2b", name: "A2b - Depression", description1: "Indication of a section of track or bridge with concave deformation in the pavement.", description2: "" },
+            { id: "A2c", name: "A2c - Bump or depression", description1: "Indication of road or section of track where there is marked deformation of the pavement.", description2: "" },
+            { id: "A3a", name: "A3a - Dangerous descent", description1: "Indication of a steep slope or that, for any other reason, constitutes a danger to traffic. In the inscription, the slope of the descent is indicated in percentage.", description2: "" },
+            { id: "A3b", name: "A3b - Steep Slope Climb", description1: "Indication of a steep slope climb; In inscription, the slope of the climb is indicated in percentage.", description2: "" },
+            { id: "A4a", name: "A4a - Narrow passage", description1: "Indication of a narrowing of the road, with the constant configuration of the signal.", description2: "" },
+            { id: "A5", name: "A5 - Slippery floor", description1: "Indication of a section of track whose pavement may become slippery under certain conditions.", description2: "" },
+            { id: "A6", name: "A6 - Gravel Projection", description1: "Indication of the proximity of a section of track where there is a risk of gravel projection.", description2: "" },
+            { id: "A7a", name: "A7a - Low berms", description1: "Indication of a section of track with low verges on the right-hand side.", description2: "" },
+            { id: "A7b", name: "A7b - Low berms", description1: "Indication of a section of track with low shoulders on the left side.", description2: "" },
+            { id: "A8", name: "A8 - Exit at a pier or precipice", description1: "Indication that the road flanks or ends at a pier or precipice.", description2: "" },
+            { id: "A9", name: "A9 - Falling rocks", description1: "Indication of the proximity of a place where there is a danger of falling stones.", description2: "" },
+            { id: "A10", name: "A10 - Mobile bridge", description1: "Indication of the proximity of a location where there is a movable bridge that, when raised, temporarily interrupts traffic.", description2: "" },
+            { id: "A11", name: "A11 - Snow or ice", description1: "Indication of a section of road where the pavement may become slippery due to the possibility of snow or ice.", description2: "" },
+            { id: "A12", name: "A12 - Crosswind", description1: "Indication of the proximity of a section of road where very strong side winds are common; the orientation of the symbol shown indicates the predominant direction of the wind.", description2: "" },
+            { id: "A13", name: "A13 - Insufficient visibility", description1: "Indication of the proximity of a section of public road where there may be meteorological or environmental conditions that make visibility insufficient, particularly in the event of fog, heavy rain, snowfall or clouds of smoke or dust.", description2: "" },
+            { id: "A14", name: "A14 - Children", description1: "Indication of a place frequented by children, such as a school, playground or similar.", description2: "" },
+            { id: "A15", name: "A15 - Elderly", description1: "Indication of a place frequented by elderly people, such as a home, garden, park or similar place.", description2: "" },
+            { id: "A16a", name: "A16A - Passage for Pedestrian crossing", description1: "Indication of approaching a pedestrian crossing.", description2: "" },
+            { id: "A16b", name: "A16B - Pedestrian Passing", description1: "Indication that pedestrians may be crossing the roadway.", description2: "" },
+            { id: "A17", name: "A17 - Cyclists exit", description1: "Indication of the proximity of a place frequently used by cyclists who intend to enter or cross the public road.", description2: "" },
+            { id: "A18", name: "A18 - Knights", description1: "Indication of the proximity of a place frequently used by horse riders who intend to enter or cross the public road.", description2: "" },
+            { id: "A19a", name: "A19A - Animals", description1: "Indication of a section of road where animals without a driver may be found.", description2: "" },
+            { id: "A19b", name: "A19B - Wild animals", description1: "Indication that the road may be crossed by wild animals.", description2: "" },
+            { id: "A20", name: "A20 - Tunnel", description1: "Indication of the proximity of a tunnel.", description2: "" },
+            { id: "A21", name: "A21 - Airstrip", description1: "Indication of the approach to a location where the route may be flown over, at low altitude, by aircraft that have taken off or are about to land on a nearby runway.", description2: "" },
+            { id: "A22", name: "A22 - Light signaling", description1: "Indication of the proximity of a place where traffic is regulated by light signals; this signal should only be used in places where drivers are not expected to see that type of signalling.", description2: "" },
+            { id: "A23", name: "A23 - Road works", description1: "Indication of the existence of works or obstacles on the road.", description2: "" },
+            { id: "A24", name: "A24 - Crossing or junction", description1: "Indication of the proximity of a crossroads or junction where the general rule of priority on the right applies; this sign may only be used exceptionally inside built-up areas.", description2: "" },
+            { id: "A25", name: "A25 - Two-way traffic", description1: "Indication that the road where traffic only moves in one direction now serves traffic in both directions.", description2: "" },
+            { id: "A26", name: "A26 - Level crossing with guard", description1: "Indication of the proximity of a level crossing with gates or barriers.", description2: "" },
+            { id: "A27", name: "A27 - Unguarded level crossing", description1: "Indication of the proximity of a level crossing without gates or barriers, with or without automatic signaling; in addition to this sign, sign A32a or A32b must be placed in the immediate vicinity of the railway track.", description2: "" },
+            { id: "A28", name: "A28 - Intersection with a road where vehicles run on rails", description1: "Indication of a crossing or junction with a road where vehicles travel on rails; this sign must not be used at level crossings.", description2: "" },
+            { id: "A29", name: "A29 - Other hazards", description1: "Indication of a danger different from any of those indicated in the previous signs.", description2: "" },
+            { id: "A30", name: "A30 - Congestion", description1: "Indication of proximity to a section of road with high traffic volume.", description2: "" },
+            { id: "A31", name: "A31 - Obstruction of the road", description1: "Indication of the proximity of a section of public road where traffic is obstructed by vehicles.", description2: "" },
+            { id: "A32a", name: "A32A - Unguarded level crossing location", description1: "Indication of level crossing location without gates or barriers.", description2: "" },
+            { id: "A32b", name: "A32B - Unguarded level crossing with two or more tracks", description1: "Indication of a level crossing without gates or barriers when there are two or more railway tracks.", description2: "" }
+        ];
+
+        // Base URL for images
+        const baseImageUrl = "https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/photos/DangerSigns/";
+
+        // Function to show modal
+        function showModal(image, event) {
+            const modal = document.getElementById("modal");
+            const modalImage = document.getElementById("modal-image");
+            const modalTitle = document.getElementById("modal-title");
+            const modalDescription1 = document.getElementById("modal-description1");
+            const modalDescription2 = document.getElementById("modal-description2");
+
+            // Set modal content
+            modalImage.src = `${baseImageUrl}${image.id}.png`;
+            modalImage.alt = image.name;
+            modalTitle.textContent = image.name;
+            modalDescription1.textContent = image.description1;
+
+            // Show or hide description2 based on content
+            if (image.description2) {
+                modalDescription2.textContent = image.description2;
+                modalDescription2.style.display = "block"; // Ensure it's visible
+            } else {
+                modalDescription2.style.display = "none"; // Hide if empty
+            }
+
+            // Calculate the position of the clicked image
+            const clickedElement = event.currentTarget; // The clicked card
+            const rect = clickedElement.getBoundingClientRect(); // Get its position
+
+            // Position the modal near the clicked image
+            const modalContent = document.querySelector(".modal-content");
+            const offset = 20; // Offset from the clicked image
+
+            modalContent.style.top = `${rect.top + window.scrollY + offset}px`;
+            modalContent.style.left = `${rect.left + window.scrollX + offset}px`;
+
+            // Show the modal
+            modal.style.display = "block";
+        }
+
+        // Function to close modal
+        function closeModal() {
+            document.getElementById("modal").style.display = "none";
+        }
+
+        // Close modal when clicking outside the modal content
+        document.getElementById("modal").addEventListener("click", (event) => {
+            if (event.target === document.getElementById("modal")) {
+                closeModal();
+            }
+        });
+
+        // Close modal when clicking the close button
+        document.getElementById("close-modal").addEventListener("click", closeModal);
+
+        // Generate the gallery on page load
+        function generateGallery() {
+            const gallery = document.getElementById("gallery");
+
+            images.forEach(image => {
+                const card = document.createElement("div");
+                card.className = "card";
+
+                const img = document.createElement("img");
+                img.src = `${baseImageUrl}${image.id}.png`;
+                img.alt = image.name;
+
+                const cardContent = document.createElement("div");
+                cardContent.className = "card-content";
+
+                const title = document.createElement("h3");
+                title.textContent = image.name;
+
+                const description1 = document.createElement("p");
+                description1.textContent = image.description1;
+
+                card.appendChild(img);
+                cardContent.appendChild(title);
+                cardContent.appendChild(description1);
+                card.appendChild(cardContent);
+                gallery.appendChild(card);
+
+                // Add click event to show modal
+                card.addEventListener("click", (event) => showModal(image, event));
+            });
+        }
+
+        generateGallery();
+    </script>
+</body>
+</html>
