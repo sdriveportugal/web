@@ -168,6 +168,12 @@
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
+        .p2 {
+    font-size: 0.9em;
+    color: #333; /* Darker color for description2 */
+    font-weight: bold; /* Make description2 bold */
+    margin: 10px 0; /* Add some margin */
+}
     </style>
 </head>
 <body>
@@ -269,13 +275,20 @@
             modalTitle.textContent = image.name;
             modalDescription1.textContent = image.description1;
 
+           /*  modalDescription2.style.display = "block";
+            modalDescription2.textContent = image.description2 || ""; // Always set content, even if empty */
+
+
+            // Debugging: Log description2
+            console.log("Description 2:", image.description2);
+
             // Show or hide description2 based on content
-            if (image.description2) {
+             if (image.description2) {
                 modalDescription2.textContent = image.description2;
                 modalDescription2.style.display = "block"; // Ensure it's visible
             } else {
                 modalDescription2.style.display = "none"; // Hide if empty
-            }
+            } 
 
             // Calculate the position of the clicked image
             const clickedElement = event.currentTarget; // The clicked card
@@ -327,10 +340,24 @@
 
                 const description1 = document.createElement("p");
                 description1.textContent = image.description1;
+                
+               const lineBreak = document.createElement("hr"); // Add a line between descriptions
+               
+
+                const description2 = document.createElement("p");
+                description2.className = "p2"; // Add class for description2
+                description2.textContent = image.description2;
+
 
                 card.appendChild(img);
                 cardContent.appendChild(title);
+                cardContent.appendChild(description2);
+
+                if (image.description2) {
+                    cardContent.appendChild(lineBreak); // Add the line
+                }
                 cardContent.appendChild(description1);
+                
                 card.appendChild(cardContent);
                 gallery.appendChild(card);
 
