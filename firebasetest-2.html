@@ -264,16 +264,22 @@
     }
 
     // Start the quiz
-    async function startQuiz() {
-      const questions = await fetchQuestions();
-      if (questions) {
-        quizData = shuffleArray(questions).slice(0, 30); // Select 30 random questions
-        showQuestion(currentQuestionIndex);
-        startTimer();
-      } else {
-        console.error('No questions available');
-      }
+    async function startQuiz() {  //startQuiz needs to be async as well
+    try {
+        const questions = await fetchQuestions(); //Await here
+        if (questions) {
+            //Now questions is defined and you can work with it
+            quizData = questions;
+            //...rest of the code...
+        } else {
+           console.log("No questions found")
+        }
+    } catch (error) {
+        console.error("Error in startQuiz:", error)
     }
+}
+
+
 
     // Show a question
     function showQuestion(index) {
