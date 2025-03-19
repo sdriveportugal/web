@@ -192,7 +192,7 @@
     // Fetch 30 random questions from the database
     async function fetchQuestions() {
       // Replace this with your API endpoint or static data
-      const response = await fetch('https://your-api-endpoint.com/questions');
+      const response = await fetch('https://sdrivejson-default-rtdb.europe-west1.firebasedatabase.app/qsndata');
       const data = await response.json();
       quizData = data.sort(() => Math.random() - 0.5).slice(0, 30); // Randomize and pick 30 questions
       startQuiz();
