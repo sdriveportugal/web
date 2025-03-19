@@ -230,6 +230,7 @@
     // Fetch questions from Firebase
     async function fetchQuestions() {
     const dbRef = ref(database, 'questions');
+    console.log(questions);
     try {
         const snapshot = await get(dbRef);
         if (snapshot.exists()) {
