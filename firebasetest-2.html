@@ -228,24 +228,31 @@
     let timeRemaining = 30 * 60; // 30 minutes in seconds
 
     // Fetch questions from Firebase
+  
     async function fetchQuestions() {
-    const dbRef = ref(database, 'questions');
-    console.log(questions);
-    try {
-        const snapshot = await get(dbRef);
-        if (snapshot.exists()) {
-            const questions = Object.values(snapshot.val()); // Convert object to array
-            console.log('Questions fetched:', questions);
-            return questions;
-        } else {
-            console.log('No questions found');
-            return null;
-        }
-    } catch (error) {
-        console.error('Error fetching questions:', error);
-        return null;
+  const dbRef = ref(database, 'questions');
+  console.log("Fetching questions from:", dbRef); // Log the database reference
+
+  try {
+    const snapshot = await get(dbRef);
+    if (snapshot.exists()) {
+      console.log("Access granted. Data fetched successfully."); // Success message
+      const questions = Object.values(snapshot.val());
+      console.log('Questions fetched:', questions); // Log the fetched data
+      return questions;
+    } else {
+      console.log('No questions found in the database.'); // Handle empty database
+      return null;
     }
+  } catch (error) {
+    console.error("Error fetching questions:", error); // Detailed error message
+    if (error.code === 'PERMISSION_DENIED') {
+      console.error("Permission denied. Check your Firebase security rules."); // Specific error
+    }
+    return null;
+  }
 }
+
 
     // Shuffle array
     function shuffleArray(array) {
