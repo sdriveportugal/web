@@ -230,7 +230,7 @@
     // Fetch questions from Firebase
   
     async function fetchQuestions() {
-  const dbRef = ref(database, 'questions');
+  const dbRef = ref(database, '/qsndata');
   console.log("Fetching questions from:", dbRef); // Log the database reference
 
   try {
