@@ -95,52 +95,82 @@
         }
 
         #button-container {
-            margin-top: 20px;
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
-        }
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px 0;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 5;
+}
 
-        button {
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            border: none;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
+#button-container button {
+    flex: 0 0 auto;
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
 
-        button:hover {
-            background-color: #e0e0e0;
-        }
+#button-container button:hover {
+    background-color: #e0e0e0;
+}
 
-        #prev-button, #next-button {
-            background-color: #007bff;
-            color: white;
-        }
+#button-container #prev-button,
+#button-container #next-button {
+    background-color: #007bff;
+    color: white;
+}
 
-        #prev-button:hover, #next-button:hover {
-            background-color: #0056b3;
-        }
+#button-container #prev-button:hover,
+#button-container #next-button:hover {
+    background-color: #0056b3;
+}
 
-        #submit-button {
-            background-color: #28a745;
-            color: white;
-        }
+#button-container #submit-button {
+    background-color: #28a745;
+    color: white;
+}
 
-        #submit-button:hover {
-            background-color: #218838;
-        }
+#button-container #submit-button:hover {
+    background-color: #218838;
+}
 
-        #restart-button {
-            background-color: #ffc107;
-            color: black;
-        }
+#button-container #restart-button {
+    background-color: #ffc107;
+    color: black;
+}
 
-        #restart-button:hover {
-            background-color: #e0a800;
-        }
+#button-container #restart-button:hover {
+    background-color: #e0a800;
+}
 
+#button-container #restart-button,
+#button-container #submit-button {
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#button-container #next-button {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#button-container #prev-button {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+       
         #result-container {
             width: 100%;
             text-align: center;
