@@ -131,15 +131,6 @@
       background-color: #218838;
     }
 
-    #restart-button {
-      background-color: #ffc107;
-      color: black;
-    }
-
-    #restart-button:hover {
-      background-color: #e0a800;
-    }
-
     #result-container {
       width: 100%;
       text-align: center;
@@ -202,7 +193,6 @@
     <!-- Button Container -->
     <div id="button-container">
       <button class="hidden" id="prev-button">Previous Question</button>
-      <button class="hidden" id="restart-button">Restart Quiz</button>
       <button class="hidden" id="submit-button">Submit Answer</button>
       <button class="hidden" id="next-button">Next Question</button>
     </div>
@@ -342,13 +332,6 @@
         document.getElementById('next-button').textContent = 'Next Question';
       }
 
-      // Show/hide the restart button based on quiz status
-      if (quizFinished) {
-        document.getElementById('restart-button').classList.remove('hidden');
-      } else {
-        document.getElementById('restart-button').classList.add('hidden');
-      }
-
       document.getElementById('prev-button').classList.toggle('hidden', currentQuestionIndex === 0);
     }
 
@@ -438,19 +421,17 @@
             : '<span style="background-color: red;">Sorry You failed. Try again! 😢</span>'
           }
         </p>
+        <button id="restart-button">Restart Quiz</button>
       `;
       
-      // Show the restart button
-      document.getElementById('restart-button').classList.remove('hidden');
+      // Attach event listener for Restart button
+      document.getElementById('restart-button').addEventListener('click', restartQuiz);
     }
 
     // Function to restart the quiz
     function restartQuiz() {
       location.reload(); // Reloads the page
     }
-
-    // Add event listener for Restart button
-    document.getElementById('restart-button').addEventListener('click', restartQuiz);
 
     // Timer function
     function startTimer() {
