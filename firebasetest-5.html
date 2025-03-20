@@ -201,10 +201,10 @@
     </div>
     <!-- Button Container -->
     <div id="button-container">
-      <button class="hidden" id="prev-button">Previous Question</button>
+      <button class="hidden" id="prev-button"><</button>
       <button class="hidden" id="restart-button">Restart Quiz</button>
       <button class="hidden" id="submit-button">Submit Answer</button>
-      <button class="hidden" id="next-button">Next Question</button>
+      <button class="hidden" id="next-button">></button>
     </div>
     <!-- Result Display -->
     <div class="hidden" id="result-container"></div>
@@ -339,7 +339,7 @@
       if (index === 29) {
         document.getElementById('next-button').textContent = 'End Test';
       } else {
-        document.getElementById('next-button').textContent = 'Next Question';
+        document.getElementById('next-button').textContent = '>';
       }
 
       // Show/hide the restart button based on quiz status
