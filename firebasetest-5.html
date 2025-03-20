@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8"></meta>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
-  <title>working test App</title>
+  <title>Test App</title>
   <style>
     /* General Styles */
     body {
@@ -323,6 +323,13 @@
         // Show/Hide buttons accordingly
         document.getElementById('submit-button').classList.remove('hidden');
         document.getElementById('next-button').classList.add('hidden');
+      }
+
+      // Change "Next Question" button text to "End Test" if it's the last question
+      if (index === 29) {
+        document.getElementById('next-button').textContent = 'End Test';
+      } else {
+        document.getElementById('next-button').textContent = 'Next Question';
       }
 
       document.getElementById('prev-button').classList.toggle('hidden', currentQuestionIndex === 0);
