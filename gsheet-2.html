@@ -4,119 +4,238 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Google Sheet Quiz App</title>
-    <style>
-        /* YOUR ORIGINAL CSS */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            min-height: 100vh;
+    /* YOUR ORIGINAL CSS */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+    }
+
+    #quiz-container {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 10px;
+        max-width: 900px;
+        max-height: 100vh;
+        overflow-y: auto;
+        text-align: center;
+        margin: 0 auto;
+        position: relative;
+    }
+    
+    #question-container img {
+        max-height: 50vh;
+        width: auto;
+        max-width: 100%;
+        display: block;
+        margin: 0 auto 10px;
+    }
+
+    .timer-box {
+        background-color: #0057b323;
+        color: white;
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 16px;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 10;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        white-space: nowrap;
+        font-weight: bold;
+    }
+
+    h3 {
+        color: #444;
+        font-size: 24px;
+    }
+
+    li {
+        margin: 10px 0;
+        padding: 10px;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        background-color: #f9f9f9;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    li:hover {
+        background-color: #f1f1f1;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .selected {
+        background-color: #e0e0e0;
+        border-color: #888;
+    }
+
+    .option-label {
+        font-weight: bold;
+        margin-right: 10px;
+        display: inline-block;
+        width: 30px;
+    }
+
+    .option-text {
+        flex: 1;
+    }
+
+    img {
+        max-width: 600px;
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    #button-container {
+        position: sticky;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 10px 0;
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+        z-index: 5;
+    }
+
+    #button-container button {
+        flex: 0 0 auto;
+        margin: 0 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        border: none;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    #button-container button:hover {
+        background-color: #e0e0e0;
+    }
+
+    #button-container #prev-button,
+    #button-container #next-button {
+        background-color: #007bff;
+        color: white;
+    }
+
+    #button-container #prev-button:hover,
+    #button-container #next-button:hover {
+        background-color: #0056b3;
+    }
+
+    #button-container #submit-button {
+        background-color: #28a745;
+        color: white;
+    }
+
+    #button-container #submit-button:hover {
+        background-color: #218838;
+    }
+
+    #button-container #restart-button {
+        background-color: #ffc107;
+        color: black;
+    }
+
+    #button-container #restart-button:hover {
+        background-color: #e0a800;
+    }
+
+    #button-container #restart-button,
+    #button-container #submit-button {
+        margin: 0 auto;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #button-container #next-button {
+        margin-left: auto;
+        margin-right: 0;
+    }
+
+    #button-container #prev-button {
+        margin-right: auto;
+        margin-left: 0;
+    }
+
+    #result-container {
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    #result-container h3 {
+        font-size: 28px;
+        color: #28a745;
+    }
+
+    #result-container p {
+        font-size: 18px;
+        color: #333;
+    }
+
+    @media (max-width: 767px) {
+        #quiz-container {
+            max-width: 600px;
+            width: 100%;
+            height: auto;
+            max-height: calc(100vh - 120px);
+            margin: 5px auto;
+            padding: 5px;
         }
 
-        #quiz-container {
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            padding: 10px;
-            max-width: 900px;
-            max-height: 100vh;
-            overflow-y: auto;
-            text-align: center;
-            margin: 0 auto;
-            position: relative;
+        #button-container button {
+            margin: 0 3px;
+            padding: 6px 10px;
+            font-size: 12px;
         }
         
-        #question-container img {
-            max-height: 50vh;
-            width: auto;
-            max-width: 100%;
-            display: block;
-            margin: 0 auto 10px;
-        }
-
-        .timer-box {
-            background-color: #0057b323;
-            color: white;
-            padding: 5px;
-            border-radius: 5px;
-            font-size: 16px;
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            z-index: 10;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-            white-space: nowrap;
-            font-weight: bold;
-        }
-
         h3 {
             color: #444;
-            font-size: 24px;
+            font-size: 16px;
+            font-style: bold;
+        }
+        
+        #explanation {
+            color: #444;
+            font-size: 12px;
+            font-style: bold;
         }
 
         li {
-            margin: 10px 0;
-            padding: 10px;
-            border: 2px solid #ddd;
-            border-radius: 8px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            background-color: #f9f9f9;
-            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            margin: 5px 0;
+            padding: 5px;
+            font-size: 12px;
         }
-
-        li:hover {
-            background-color: #f1f1f1;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .selected {
-            background-color: #e0e0e0;
-            border-color: #888;
-        }
-
-        .option-label {
-            font-weight: bold;
-            margin-right: 10px;
-            display: inline-block;
-            width: 30px;
-        }
-
-        .option-text {
-            flex: 1;
-        }
-
+        
         img {
             max-width: 600px;
             width: 100%;
             border-radius: 5px;
+            height: auto;
+            display: block;
         }
-
-        .hidden {
-            display: none;
-        }
-
-        #button-container {
-            position: sticky;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background-color: rgba(255, 255, 255, 0.9);
-            padding: 10px 0;
-            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
-            z-index: 5;
-        }
-
-        /* ... rest of your original CSS ... */
-    </style>
+    }
+</style>
 </head>
 <body>
     <div id="quiz-container">
