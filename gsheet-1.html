@@ -270,8 +270,7 @@
             const allQuestions = await response.json();
             
             return allQuestions.map(question => ({
-                ID: question.ID,
-                question: question.question,
+                ...question,
                 optionA: (question.optionA || '').replace(/;$/, ''),
                 optionB: (question.optionB || '').replace(/;$/, ''),
                 optionC: (question.optionC || '').replace(/;$/, ''),

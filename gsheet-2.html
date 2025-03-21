@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Google Sheet Quiz App</title>
-    <style>
+     <style>
     /* YOUR ORIGINAL CSS */
     body {
         font-family: Arial, sans-serif;
@@ -264,13 +264,13 @@
     let timerInterval;
     let timeRemaining = 30 * 60;
 
-    async function fetchQuestions() {
+   /* async function fetchQuestions() {
         try {
             const response = await fetch('https://opensheet.elk.sh/1w6RQT9mK13IfcD5pZyQoRw7eMGkgfDi65SuAVGYHrQU/main');
             const allQuestions = await response.json();
             return allQuestions.map(question => ({
                 ID: question.ID,
-                question: question.question,
+                question: question.Question,
                 optionA: (question.optionA || '').replace(/;$/, ''),
                 optionB: (question.optionB || '').replace(/;$/, ''),
                 optionC: (question.optionC || '').replace(/;$/, ''),
@@ -278,12 +278,36 @@
                 Explanation: question.Explanation || 'No explanation available',
                 image: question.image
             }));
+           
+           
+           
+            // return allQuestions;
         } catch (error) {
             console.error('Error:', error);
             alert('Failed to load questions. Please try again.');
             return null;
         }
+    }*/ 
+    async function fetchQuestions() {
+    try {
+        const response = await fetch('https://opensheet.elk.sh/1w6RQT9mK13IfcD5pZyQoRw7eMGkgfDi65SuAVGYHrQU/main');
+        const allQuestions = await response.json();
+        
+        return allQuestions.map(question => ({
+            // Keep original fields except options
+            ...question,  // Preserves all existing properties
+            
+            // Only clean the options
+            optionA: (question.optionA || '').replace(/;\s*$/, ''),
+            optionB: (question.optionB || '').replace(/;\s*$/, ''),
+            optionC: (question.optionC || '').replace(/;\s*$/, '')
+        }));
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Failed to load questions. Please try again.');
+        return null;
     }
+}
 
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
@@ -297,6 +321,12 @@
         const question = quizData[index];
         const questionContainer = document.getElementById('question-container');
         
+        
+        // Reset states for new question
+    questionContainer.innerHTML = '';
+    selectedAnswer = userAnswers[index] || null; // Load previous answer if exists
+    answered = userAnswers[index] ? true : false;
+
         questionContainer.innerHTML = `
             ${question.image ? `<img src="${question.image}" alt="Question Image" onerror="this.style.display='none'">` : ''}
             <h3>QN ${index + 1}| ${question.Question}</h3>
@@ -316,8 +346,7 @@
                 </li>` : ''}
             </ul>
             <p id="answer" class="hidden"><strong>Correct Answer:</strong> ${question.Answer}</p>
-            <p id="explanation" class="hidden"><strong>Explanation:</strong> ${question.Explanation || 'No explanation available'}</p>
-        `;
+            <p id="explanation" class="hidden">  <strong>Explanation (#${question.QN}):</strong> ${question.Explanation || 'No explanation available'} </p>      `;
 
         // Event listeners
         document.getElementById('optionA').addEventListener('click', () => selectAnswer('A', 'optionA'));
@@ -359,7 +388,7 @@
         answered = false;
     }
 
-    function checkAnswer() {
+    /*function checkAnswer() {
         if (!selectedAnswer) {
             alert('Please select an answer before submitting.');
             return;
@@ -381,7 +410,58 @@
 
         document.getElementById('submit-button').classList.add('hidden');
         document.getElementById('next-button').classList.remove('hidden');
+    }*/
+    function checkAnswer() {
+    // Check if any answer is selected
+    if (selectedAnswer === null || selectedAnswer === undefined) {
+        alert('Please select an answer before submitting.');
+        return;
     }
+
+    const question = quizData[currentQuestionIndex];
+    const answerElement = document.getElementById('answer');
+    const explanationElement = document.getElementById('explanation');
+    
+    // Show answer and explanation
+    answerElement.classList.remove('hidden');
+    explanationElement.classList.remove('hidden');
+
+    // Mark question as answered
+    answered = true;
+
+    // Check correctness
+    if (selectedAnswer === question.Answer) {
+        correctAnswers++;
+        answerStatus[currentQuestionIndex] = 'correct';
+        document.getElementById(`option${selectedAnswer}`).style.backgroundColor = 'lightgreen';
+    } else {
+        wrongAnswers++;
+        answerStatus[currentQuestionIndex] = 'incorrect';
+        document.getElementById(`option${selectedAnswer}`).style.backgroundColor = 'lightcoral';
+        document.getElementById(`option${question.Answer}`).style.backgroundColor = 'lightgreen';
+    }
+
+    // Update button visibility
+    document.getElementById('submit-button').classList.add('hidden');
+    document.getElementById('next-button').classList.remove('hidden');
+}
+
+// Update selectAnswer function to properly track selection
+function selectAnswer(answer, elementId) {
+    if (quizFinished) return;
+    
+    // Clear previous selection
+    document.querySelectorAll('li').forEach(li => {
+        li.classList.remove('selected');
+        li.style.backgroundColor = ''; // Clear color
+    });
+
+    // Set new selection
+    selectedAnswer = answer;
+    userAnswers[currentQuestionIndex] = answer;
+    document.getElementById(elementId).classList.add('selected');
+    answered = false; // Reset answered state when new selection is made
+}
 
     function startTimer() {
         timerInterval = setInterval(() => {
