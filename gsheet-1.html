@@ -238,28 +238,25 @@
 
         }
     </style>
-
 </head>
 <body>
-    <!-- Keep the same HTML structure -->
     <div id="quiz-container">
         <div class="timer-box" id="timer"><strong>30:00</strong></div>
         <div id="question-container"></div>
         <div id="button-container">
-            <button class="hidden" id="prev-button"><</button>
+            <button class="hidden" id="prev-button">&lt;</button>
             <button class="hidden" id="restart-button">Restart Quiz</button>
             <button class="hidden" id="submit-button">Submit Answer</button>
-            <button class="hidden" id="next-button">></button>
+            <button class="hidden" id="next-button">&gt;</button>
         </div>
         <div class="hidden" id="result-container"></div>
     </div>
 
 <script type="module">
-    // Removed Firebase imports
     let currentQuestionIndex = 0;
     let quizData = [];
-    let selectedAnswer = [];
-    let answered = [];
+    let selectedAnswer = null;
+    let answered = false;
     let correctAnswers = 0;
     let wrongAnswers = 0;
     let userAnswers = [];
@@ -268,24 +265,25 @@
     let timerInterval;
     let timeRemaining = 30 * 60;
 
-    // Modified data fetching for Google Sheets
     async function fetchQuestions() {
         try {
             const response = await fetch('https://opensheet.elk.sh/1w6RQT9mK13IfcD5pZyQoRw7eMGkgfDi65SuAVGYHrQU/main');
+            if (!response.ok) throw new Error('Network response was not ok');
             const allQuestions = await response.json();
             
             return allQuestions.map(question => ({
                 ID: question.ID,
                 question: question.question,
-                optionA: question.optionA?.replace(/;$/, ''),
-                optionB: question.optionB?.replace(/;$/, ''),
-                optionC: question.optionC?.replace(/;$/, ''),
+                optionA: (question.optionA || '').replace(/;$/, ''),
+                optionB: (question.optionB || '').replace(/;$/, ''),
+                optionC: (question.optionC || '').replace(/;$/, ''),
                 Answer: question.Answer,
-                Explanation: question.Explanation,
+                Explanation: question.Explanation || 'No explanation available',
                 image: question.image
             }));
         } catch (error) {
             console.error('Error fetching questions:', error);
+            alert('Failed to load questions. Please check your internet connection.');
             return null;
         }
     }
@@ -298,27 +296,158 @@
         return array;
     }
 
-    // Keep all your existing functions exactly the same
-    function showQuestion(index) { /* ... unchanged ... */ }
-    function selectAnswer(answer, elementId) { /* ... unchanged ... */ }
-    function checkAnswer() { /* ... unchanged ... */ }
-    function showResults() { /* ... unchanged ... */ }
-    function restartQuiz() { /* ... unchanged ... */ }
-    function startTimer() { /* ... unchanged ... */ }
+    function showQuestion(index) {
+        const question = quizData[index];
+        const questionContainer = document.getElementById('question-container');
+        
+        questionContainer.innerHTML = `
+            ${question.image ? `<img src="${question.image}" alt="Question Image">` : ''}
+            <h3>QN ${index + 1} | ${question.question}</h3>
+            <ul>
+                <li id="optionA">
+                    <span class="option-label">A.</span>
+                    <span class="option-text">${question.optionA}</span>
+                </li>
+                <li id="optionB">
+                    <span class="option-label">B.</span>
+                    <span class="option-text">${question.optionB}</span>
+                </li>
+                ${question.optionC ? `
+                <li id="optionC">
+                    <span class="option-label">C.</span>
+                    <span class="option-text">${question.optionC}</span>
+                </li>` : ''}
+            </ul>
+            <p id="answer" class="hidden"><strong>Correct Answer:</strong> ${question.Answer}</p>
+            <p id="explanation" class="hidden"><strong>Explanation:</strong> ${question.Explanation}</p>
+        `;
 
-    // Modified initialization
-    async function initializeQuiz() {
-        const allQuestions = await fetchQuestions();
-        if (allQuestions) {
-            quizData = shuffleArray(allQuestions).slice(0, 30);
-            showQuestion(currentQuestionIndex);
-            startTimer();
+        // Add event listeners
+        document.getElementById('optionA').addEventListener('click', () => selectAnswer('A', 'optionA'));
+        document.getElementById('optionB').addEventListener('click', () => selectAnswer('B', 'optionB'));
+        if (question.optionC) {
+            document.getElementById('optionC').addEventListener('click', () => selectAnswer('C', 'optionC'));
+        }
+
+        // Handle previous answers
+        if (userAnswers[index] !== undefined) {
+            const selectedOption = document.getElementById(`option${userAnswers[index]}`);
+            selectedOption.classList.add('selected');
+            document.getElementById('answer').classList.remove('hidden');
+            document.getElementById('explanation').classList.remove('hidden');
+
+            if (answerStatus[index] === 'correct') {
+                selectedOption.style.backgroundColor = 'lightgreen';
+            } else {
+                selectedOption.style.backgroundColor = 'lightcoral';
+                document.getElementById(`option${question.Answer}`).style.backgroundColor = 'lightgreen';
+            }
+        }
+
+        // Update navigation buttons
+        document.getElementById('prev-button').classList.toggle('hidden', index === 0);
+        document.getElementById('next-button').textContent = index === 29 ? 'End Test' : 'Next';
+        document.getElementById('submit-button').classList.toggle('hidden', answered);
+    }
+
+    function selectAnswer(answer, elementId) {
+        if (quizFinished) return;
+        selectedAnswer = answer;
+        userAnswers[currentQuestionIndex] = answer;
+        document.querySelectorAll('li').forEach(li => li.classList.remove('selected'));
+        document.getElementById(elementId).classList.add('selected');
+        answered = false;
+    }
+
+    function checkAnswer() {
+        if (!selectedAnswer) {
+            alert('Please select an answer before submitting.');
+            return;
+        }
+
+        const question = quizData[currentQuestionIndex];
+        answered = true;
+        
+        if (selectedAnswer === question.Answer) {
+            correctAnswers++;
+            answerStatus[currentQuestionIndex] = 'correct';
+            document.getElementById(`option${selectedAnswer}`).style.backgroundColor = 'lightgreen';
         } else {
-            alert('Failed to load questions. Please try again later.');
+            wrongAnswers++;
+            answerStatus[currentQuestionIndex] = 'incorrect';
+            document.getElementById(`option${selectedAnswer}`).style.backgroundColor = 'lightcoral';
+            document.getElementById(`option${question.Answer}`).style.backgroundColor = 'lightgreen';
+        }
+
+        document.getElementById('answer').classList.remove('hidden');
+        document.getElementById('explanation').classList.remove('hidden');
+        document.getElementById('submit-button').classList.add('hidden');
+        document.getElementById('next-button').classList.remove('hidden');
+    }
+
+    function startTimer() {
+        timerInterval = setInterval(() => {
+            if (timeRemaining <= 0) {
+                clearInterval(timerInterval);
+                showResults();
+            } else {
+                timeRemaining--;
+                const minutes = Math.floor(timeRemaining / 60);
+                const seconds = timeRemaining % 60;
+                document.getElementById('timer').innerHTML = 
+                    `<strong>${minutes}:${seconds.toString().padStart(2, '0')}</strong>`;
+            }
+        }, 1000);
+    }
+
+    function showResults() {
+        quizFinished = true;
+        clearInterval(timerInterval);
+        const questionContainer = document.getElementById('question-container');
+        questionContainer.innerHTML = `
+            <h3>Test Completed!</h3>
+            <p>Total Correct Answers: ${correctAnswers}</p>
+            <p>Total Wrong Answers: ${wrongAnswers}</p>
+            <p id="resultMessage" style="font-size: 24px; padding: 20px; border-radius: 8px; color: white; text-align: center;">
+                ${correctAnswers > 26 ? 
+                    '<span style="background-color: green;">Congratulations! You passed! 🎉</span>' : 
+                    '<span style="background-color: red;">Sorry You failed. Try again! 😢</span>'}
+            </p>
+        `;
+        document.getElementById('restart-button').classList.remove('hidden');
+    }
+
+    // Event listeners
+    document.getElementById('submit-button').addEventListener('click', checkAnswer);
+    document.getElementById('next-button').addEventListener('click', () => {
+        if (currentQuestionIndex < 29) {
+            currentQuestionIndex++;
+            showQuestion(currentQuestionIndex);
+        } else {
+            showResults();
+        }
+    });
+    document.getElementById('prev-button').addEventListener('click', () => {
+        if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            showQuestion(currentQuestionIndex);
+        }
+    });
+    document.getElementById('restart-button').addEventListener('click', () => location.reload());
+
+    // Initialize quiz
+    async function initializeQuiz() {
+        const questions = await fetchQuestions();
+        if (questions && questions.length > 0) {
+            quizData = shuffleArray(questions).slice(0, 30);
+            startTimer();
+            showQuestion(0);
+            document.getElementById('submit-button').classList.remove('hidden');
+        } else {
+            alert('No questions found. Please check your data source.');
         }
     }
 
-    // Start the quiz
     initializeQuiz();
 </script>
 </body>
