@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Iframe</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%; /* Ensure body and html take full height */
+      overflow: hidden; /* Prevent scrolling */
+    }
+
+    .iframe-container {
+      width: 100%; /* Full width by default */
+      height: 100vh; /* Full viewport height */
+      margin: 0 auto; /* Center the container */
+      overflow: hidden; /* Hide overflow */
+    }
+
+    /* Desktop styles */
+    @media (min-width: 769px) {
+      .iframe-container {
+        max-width: 900px; /* Maximum width for desktop */
+      }
+    }
+
+    /* Mobile styles */
+    @media (max-width: 768px) {
+      .iframe-container {
+        max-width: 480px; /* Maximum width for mobile */
+      }
+    }
+
+    iframe {
+      width: 100%; /* Full width of the container */
+      height: 100%; /* Full height of the container */
+      border: none; /* Remove iframe border */
+    }
+  </style>
+</head>
+<body>
+  <div class="iframe-container">
+    <iframe src="https://sdriveportugal.github.io/web/firebasetest-4.html" title="Firebase Test"></iframe>
+  </div>
+</body>
+</html>
