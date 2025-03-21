@@ -320,26 +320,40 @@
             <p id="explanation" class="hidden"><strong>Explanation:</strong> ${question.Explanation}</p>
         `;
 
-        // Button state management
-        document.getElementById('submit-button').classList.toggle('hidden', answered);
-        document.getElementById('next-button').classList.toggle('hidden', !answered);
-        document.getElementById('next-button').textContent = index === 29 ? 'End Test' : '>';
-
-        // Event listeners
+        // Event listeners for options
         document.getElementById('optionA').addEventListener('click', () => selectAnswer('A', 'optionA'));
         document.getElementById('optionB').addEventListener('click', () => selectAnswer('B', 'optionB'));
         if (question.optionC) {
             document.getElementById('optionC').addEventListener('click', () => selectAnswer('C', 'optionC'));
         }
 
-        // Previous answer state
+        // Handle previous answers
         if (userAnswers[index]) {
             document.getElementById(`option${userAnswers[index]}`).classList.add('selected');
-            document.getElementById('answer').classList.remove('hidden');
-            document.getElementById('explanation').classList.remove('hidden');
+            
+            const answerElement = document.getElementById('answer');
+            const explanationElement = document.getElementById('explanation');
+            answerElement.classList.remove('hidden');
+            explanationElement.classList.remove('hidden');
+
+            if (answerStatus[index] === 'correct') {
+                document.getElementById(`option${userAnswers[index]}`).style.backgroundColor = 'lightgreen';
+            } else if (answerStatus[index] === 'incorrect') {
+                document.getElementById(`option${userAnswers[index]}`).style.backgroundColor = 'lightcoral';
+                document.getElementById(`option${question.Answer}`).style.backgroundColor = 'lightgreen';
+            }
+
+            document.getElementById('submit-button').classList.add('hidden');
+            document.getElementById('next-button').classList.remove('hidden');
+        } else {
+            document.getElementById('submit-button').classList.remove('hidden');
+            document.getElementById('next-button').classList.add('hidden');
         }
 
-        document.getElementById('prev-button').classList.toggle('hidden', index === 0);
+        // Update navigation buttons
+        document.getElementById('prev-button').classList.toggle('hidden', currentQuestionIndex === 0);
+        document.getElementById('next-button').textContent = index === 29 ? 'End Test' : '>';
+        document.getElementById('restart-button').classList.toggle('hidden', !quizFinished);
     }
 
     function selectAnswer(answer, elementId) {
@@ -373,8 +387,6 @@
 
         document.getElementById('submit-button').classList.add('hidden');
         document.getElementById('next-button').classList.remove('hidden');
-        document.getElementById('answer').classList.remove('hidden');
-        document.getElementById('explanation').classList.remove('hidden');
     }
 
     function startTimer() {
@@ -433,7 +445,8 @@
             quizData = shuffleArray(questions).slice(0, 30);
             startTimer();
             showQuestion(0);
-            document.getElementById('submit-button').classList.remove('hidden');
+        } else {
+            alert('No questions found. Please check your Google Sheet configuration.');
         }
     }
 
