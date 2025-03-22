@@ -156,8 +156,38 @@
             z-index: 1000;
             background: white;
         }
+        /* 
+        .timer-box {
+            background-color: #0057b323;
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            font-size: 16px;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 10;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            white-space: nowrap;
+            font-weight: bold;
+        }*/ 
 
         .back-button {
+            background: #0057b323;
+            color: white;
+            padding: 5px 5px;
+            border-radius: 5px;
+            font-size: 16px;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1001;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            white-space: nowrap;
+            border: none;
+        }
+
+        /* .back-button {
             position: fixed;
             top: 20px;
             left: 20px;
@@ -169,7 +199,7 @@
             border-radius: 5px;
             cursor: pointer;
             display: none;
-        }
+        }*/ 
     </style>
 </head>
 <body>
@@ -186,7 +216,7 @@
     </div>
 
     <!-- New iframe and back button -->
-    <button class="back-button" onclick="showList()">← Back to Categories</button>
+    <button class="back-button" onclick="showList()">← </button>
     <iframe id="testFrame" class="test-iframe"></iframe>
 
 <script>
