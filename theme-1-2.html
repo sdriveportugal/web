@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Driving Test Categories</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #4a90e2;
+            --background-color: #f5f7fa;
+            --border-color: #e0e6ed;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            margin: 2rem;
+            background-color: var(--background-color);
+            color: var(--primary-color);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            padding: 2rem;
+        }
+
+        .category-list {
+            counter-reset: category-counter;
+            margin-bottom: 1.5rem;
+        }
+
+        .category-item {
+            display: flex;
+            align-items: center;
+            padding: 1rem;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            background: #fff;
+            transition: all 0.2s ease;
+            border: 1px solid var(--border-color);
+            position: relative;
+        }
+
+        .category-item.selected {
+            background: var(--accent-color);
+            border-color: var(--accent-color);
+            color: white;
+        }
+
+        .category-item::before {
+            counter-increment: category-counter;
+            content: counter(category-counter);
+            width: 28px;
+            height: 28px;
+            background: var(--accent-color);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 1rem;
+            flex-shrink: 0;
+        }
+
+        .category-item.selected::before {
+            background: white;
+            color: var(--accent-color);
+        }
+
+        .category-item label {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            gap: 1rem;
+        }
+
+        .qns-count {
+            background: rgba(255,255,255,0.9);
+            color: var(--primary-color);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.9em;
+            margin-left: auto;
+            margin-right: 1rem;
+        }
+
+        .category-item.selected .qns-count {
+            background: rgba(255,255,255,0.2);
+            color: white;
+        }
+
+        input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            accent-color: white;
+            cursor: pointer;
+        }
+
+        h1 {
+            margin: 0 0 2rem 0;
+            color: var(--primary-color);
+            font-weight: 600;
+        }
+
+        .total-box {
+            background: var(--accent-color);
+            color: white;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-top: 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .total-label {
+            font-weight: 500;
+        }
+
+        .total-value {
+            font-size: 1.2em;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Select Question Categories</h1>
+        <div class="category-list" id="categoryList"></div>
+        <div class="total-box">
+            <span class="total-label">Total Selected Questions:</span>
+            <span class="total-value" id="totalValue">0</span>
+        </div>
+    </div>
+
+<script>
+const categories = [
+    { name: "25 de Abril", qns: 4 },
+    { name: "Bridge", qns: 14 },
+    { name: "Circulations", qns: 180 },
+    { name: "Defensive Driving", qns: 175 },
+    { name: "Distances", qns: 49 },
+    { name: "Driver", qns: 58 },
+    { name: "Drug and Alcohol", qns: 121 },
+    { name: "Environment", qns: 93 },
+    { name: "Give Way", qns: 256 },
+    { name: "Give Way Narrow", qns: 56 },
+    { name: "Grip", qns: 20 },
+    { name: "Horn", qns: 36 },
+    { name: "Human on Road", qns: 96 },
+    { name: "Kids on Board", qns: 17 },
+    { name: "Level Crossing", qns: 58 },
+    { name: "Licence", qns: 75 },
+    { name: "Load", qns: 36 },
+    { name: "Mechanical parts", qns: 74 },
+    { name: "Offences", qns: 88 },
+    { name: "Overtake", qns: 179 },
+    { name: "Priority Vehicles", qns: 122 },
+    { name: "Reverse", qns: 159 },
+    { name: "Road safety", qns: 49 },
+    { name: "Roundabout", qns: 50 },
+    { name: "Sign", qns: 42 },
+    { name: "Sign A", qns: 12 },
+    { name: "Sign Danger", qns: 279 },
+    { name: "Sign Give Way", qns: 99 },
+    { name: "Sign Indication", qns: 187 },
+    { name: "Sign Light", qns: 85 },
+    { name: "Sign Obligation", qns: 54 },
+    { name: "Sign Prohibition", qns: 278 },
+    { name: "Sign Road Markings", qns: 144 },
+    { name: "Sign Temporary", qns: 37 },
+    { name: "Sign Traffic", qns: 32 },
+    { name: "Speed", qns: 195 },
+    { name: "Stopping & Parking", qns: 171 },
+    { name: "Tunnel", qns: 33 },
+    { name: "Turn", qns: 59 },
+    { name: "Vehicle light", qns: 123 },
+    { name: "Visibility", qns: 15 }
+];
+
+function renderCategories() {
+    const container = document.getElementById('categoryList');
+    container.innerHTML = categories.map(category => `
+        <div class="category-item">
+            <label>
+                <span>${category.name}</span>
+                <span class="qns-count">${category.qns} Qns</span>
+                <input type="checkbox" value="${category.qns}" data-name="${category.name}">
+            </label>
+        </div>
+    `).join('');
+
+    // Add event listeners to all checkboxes
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.addEventListener('change', updateSelection);
+    });
+}
+
+function updateSelection() {
+    const total = Array.from(document.querySelectorAll('input:checked'))
+                     .reduce((sum, checkbox) => sum + parseInt(checkbox.value), 0);
+    
+    document.getElementById('totalValue').textContent = total;
+    
+    // Update selected styling
+    const parentItem = this.closest('.category-item');
+    parentItem.classList.toggle('selected', this.checked);
+}
+
+// Initial render
+renderCategories();
+</script>
+</body>
+</html>

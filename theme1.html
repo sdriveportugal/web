@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Driving Test Categories</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #4a90e2;
+            --background-color: #f5f7fa;
+            --border-color: #e0e6ed;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            margin: 2rem;
+            background-color: var(--background-color);
+            color: var(--primary-color);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            padding: 2rem;
+        }
+
+        .category-list {
+            counter-reset: category-counter;
+        }
+
+        .category-item {
+            display: flex;
+            align-items: center;
+            padding: 1rem;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            background: #fff;
+            transition: all 0.2s ease;
+            border: 1px solid var(--border-color);
+        }
+
+        .category-item:hover {
+            transform: translateX(4px);
+            border-color: var(--accent-color);
+            box-shadow: 0 2px 8px rgba(74,144,226,0.1);
+        }
+
+        .category-item::before {
+            counter-increment: category-counter;
+            content: counter(category-counter);
+            width: 28px;
+            height: 28px;
+            background: var(--accent-color);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 1rem;
+            flex-shrink: 0;
+        }
+
+        .category-item label {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            gap: 1rem;
+        }
+
+        .category-item input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            accent-color: var(--accent-color);
+            margin-left: auto;
+        }
+
+        h1 {
+            margin: 0 0 2rem 0;
+            color: var(--primary-color);
+            font-weight: 600;
+        }
+
+        button {
+            background: var(--accent-color);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: opacity 0.2s;
+            margin-top: 1.5rem;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Select Question Categories</h1>
+        <div class="category-list" id="categoryList"></div>
+        <button onclick="generateTest()">Generate Test</button>
+    </div>
+
+<script>
+const categories = [
+    "25 de Abril", "Bridge", "Circulations", "Defensive Driving",
+    "Distances", "Driver", "Drug and Alcohol", "Environment",
+    "Give Way", "Give Way Narrow", "Grip", "Horn", "Human on Road",
+    "Kids on Board", "Level Crossing", "Licence", "Load",
+    "Mechanical parts", "Offences", "Overtake", "Priority Vehicles",
+    "Reverse", "Road safety", "Roundabout", "Sign", "Sign A",
+    "Sign Danger", "Sign Give Way", "Sign Indication", "Sign Light",
+    "Sign Obligation", "Sign Prohibition", "Sign Road Markings",
+    "Sign Temporary", "Sign Traffic", "Speed", "Stopping & Parking",
+    "Tunnel", "Turn", "Vehicle light", "Visibility"
+];
+
+function renderCategories() {
+    const container = document.getElementById('categoryList');
+    container.innerHTML = categories.map(category => `
+        <div class="category-item">
+            <label>
+                <span>${category}</span>
+                <input type="checkbox" value="${category}">
+            </label>
+        </div>
+    `).join('');
+}
+
+function generateTest() {
+    const selected = Array.from(document.querySelectorAll('input:checked'))
+                         .map(checkbox => checkbox.value);
+    
+    if(selected.length === 0) {
+        alert("Please select at least one category");
+        return;
+    }
+    
+    // Add your test generation logic here
+    console.log("Selected categories:", selected);
+}
+
+// Initial render
+renderCategories();
+</script>
+</body>
+</html>
