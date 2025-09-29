@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Understanding Reduced Visibility in Driving Tests</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+
+    h1 {
+      color: #2c3e50;
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 10px;
+      margin-top: 0;
+    }
+
+    .question {
+      background-color: #fff;
+      border-left: 4px solid #3498db;
+      padding: 15px;
+      margin: 20px 0;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .question-image {
+      width: 100%;
+      max-width: 600px;
+      height: auto;
+      margin: 15px 0;
+      border-radius: 4px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .options { margin: 15px 0; }
+    .option {
+      padding: 10px;
+      margin: 5px 0;
+      background-color: #f0f0f0;
+      border-radius: 4px;
+    }
+    .correct { background-color: #d4edda; border-left: 4px solid #28a745; }
+    .incorrect { background-color: #f8d7da; border-left: 4px solid #dc3545; }
+
+    .analysis {
+      background-color: #e7f5fe;
+      padding: 15px;
+      border-radius: 4px;
+      margin: 20px 0;
+    }
+
+    .definition {
+      background-color: #fff8e1;
+      padding: 15px;
+      border-left: 4px solid #ffc107;
+      margin: 15px 0;
+    }
+
+    .note { font-style: italic; color: #6c757d; }
+    .highlight {
+      background-color: #fff3cd;
+      padding: 2px 4px;
+      border-radius: 3px;
+      font-weight: bold;
+    }
+
+    .trick {
+      background-color: #f5e6ff;
+      padding: 15px;
+      border-left: 4px solid #9c27b0;
+      margin: 15px 0;
+    }
+
+    /* Language toggle styles */
+    .language-switcher {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+    }
+
+    .lang-btn {
+      padding: 8px 15px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: all 0.3s;
+      margin-left: 5px;
+      border: 2px solid #ddd;
+      background-color: #f8f9fa;
+      color: #2c3e50;
+    }
+
+    .lang-btn.active {
+      background-color: #2c3e50;
+      color: #fff;
+      border-color: #2c3e50;
+    }
+
+    .lang-btn:hover {
+      background-color: #046B3E;
+      color: #fff;
+      border-color: #03502f;
+      transform: translateY(-2px);
+    }
+
+    .lang-en, .lang-np { display: none; }
+    .lang-en.show, .lang-np.show { display: block; }
+  </style>
+</head>
+<body>
+
+  <div class="language-switcher">
+    <button class="lang-btn" id="enBtn">English</button>
+    <button class="lang-btn" id="npBtn">नेपाली</button>
+  </div>
+
+  <!-- English Content -->
+  <div class="lang-en" id="enContent">
+    <h1>Reduced Visibility</h1>
+
+
+    <div class="question">
+      <p><strong>773: Poor visibility conditions for driving are considered to exist:</strong></p>
+      <img src="https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/quiz/OWNpics/767.png"
+           alt="Poor visibility driving conditions"
+           class="question-image"
+           title="773">
+
+      <div class="options">
+        <div class="option correct">A. Whenever there are a large number of vehicles in circulation</div>
+        <div class="option incorrect">B. Whenever the driver cannot see the traffic lane for a length and width of at least 50 metres</div>
+        <div class="option">C. Whenever the vehicle has not had its periodic inspection</div>
+      </div>
+    </div>
+
+    <div class="definition">
+      <p><strong>Definition:</strong></p>
+      <p><em>Article 19 — Reduced or insufficient visibility</em></p>
+      <p>For the purposes of this Code, visibility is considered reduced whenever the driver cannot see the entire width of the roadway for at least 50 m.</p>
+    </div>
+
+    <div class="analysis">
+      <h3>Why option B is incorrect:</h3>
+      <p>It incorrectly refers to a single "traffic lane" rather than the <span class="highlight">entire roadway</span>.</p>
+      <p>It also mentions a "width of at least 50m", which is unrealistic (a lane is only ~3.5m wide).</p>
+    </div>
+
+    <div class="analysis">
+      <h3>Why option A is correct:</h3>
+      <p>When there is heavy traffic, visibility of the road width and 50m ahead is reduced, matching the legal definition.</p>
+    </div>
+
+    <div class="note">
+      <p>Note: IMT often uses tricky wording. Always refer to the exact Highway Code definition.</p>
+    </div>
+  </div>
+
+  <!-- Nepali Content -->
+  <div class="lang-np" id="npContent">
+    <h1>Reduced Visibility — दृश्यता घट्ने अवस्था</h1>
+
+    <div class="question">
+      <p><strong>773: Poor visibility conditions for driving are considered to exist:</strong></p>
+    <!--   <p><strong>773: Poor visibility को अवस्था यसरी मानिन्छ:</strong></p>  -->
+      <img src="https://raw.githubusercontent.com/sdriveportugal/web/refs/heads/main/quiz/OWNpics/767.png"
+           alt="Poor visibility driving conditions"
+           class="question-image"
+           title="दृश्यता घट्ने अवस्था">
+
+      <div class="options">
+        <!-- <div class="option correct">A. जब सडकमा धेरै सवारी साधनहरू चलिरहेका हुन्छन्</div> -->
+        <div class="option correct">A. Whenever there are a large number of vehicles in circulation</div>
+       
+        <!-- <div class="option incorrect">B. जब चालकले कम्तीमा ५० मिटर लामो र चौडा ट्राफिक लेन देख्न सक्दैन</div> -->
+        <div class="option incorrect">B. Whenever the driver cannot see the traffic lane for a length and width of at least 50 metres</div>
+
+        <!-- <div class="option">C. जब सवारी साधनले periodic inspection गरेको छैन</div> --> 
+        <div class="option">C. Whenever the vehicle has not had its periodic inspection</div>
+
+
+       
+
+      </div>
+    </div>
+
+    <div class="trick">
+      <p><strong>IMT ले दिने यस्ता प्रश्नहरूमा शब्दहरूलाई कसरी घुमाएर राखिएको हुन्छ भन्ने कुरामा ध्यान दिनु जरुरी हुन्छ।</strong></p>
+    </div>
+
+    <div class="definition">
+      <p><strong>परिभाषा:</strong></p>
+      <p><em>Article 19 — Reduced or insufficient visibility</em></p>
+      <p>दृश्यता घटेको (reduced) मानिन्छ जब चालकले सम्पूर्ण सडकको चौडाइ कम्तीमा ५० मिटर दूरीसम्म देख्न सक्दैन।</p>
+      <ul>
+        <li>पूरा सडकको चौडाइ देख्न नसकिएको हुनु</li>
+        <li>कम्तीमा ५० मिटर अगाडि देख्न नसकिएको हुनु</li>
+      </ul>
+    </div>
+
+    <div class="analysis">
+      <h3>उत्तर B किन गलत?</h3>
+      <p>B ले <span class="highlight">"traffic lane"</span> (एउटा मात्र लेन) को कुरा गर्छ, तर परिभाषाले "पूरा सडक" भन्न्छ।</p>
+      <p>त्यसमा "५० मिटर चौडा ट्राफिक लेन" को कुरा गरिएको छ, जुन असम्भव छ। एउटा लेनको चौडाइ ~३.५ मिटर मात्र हुन्छ।</p>
+    </div>
+
+    <div class="analysis">
+      <h3>उत्तर A किन सही?</h3>
+      <p>धेरै ट्राफिक हुँदा वा खराब मौसम हुँदा दृश्यता घट्छ। यस अवस्थामा सडकको चौडाइ र ५० मिटर दूरी देख्न सकिँदैन, जसले परिभाषा पूरा गर्छ।</p>
+    </div>
+
+    <div class="note">
+      <p>नोट: IMT ले प्रश्नलाई जटिल बनाउन गलत शब्दावली प्रयोग गर्न सक्छ। सधैं Highway Code को सही परिभाषामा भर पर्नुहोस्।</p>
+    </div>
+  </div>
+
+  <script>
+    function switchLanguage(lang) {
+      if (lang === 'en') {
+        document.getElementById('enContent').classList.add('show');
+        document.getElementById('npContent').classList.remove('show');
+        document.getElementById('enBtn').classList.add('active');
+        document.getElementById('npBtn').classList.remove('active');
+      } else {
+        document.getElementById('npContent').classList.add('show');
+        document.getElementById('enContent').classList.remove('show');
+        document.getElementById('npBtn').classList.add('active');
+        document.getElementById('enBtn').classList.remove('active');
+      }
+    }
+    document.getElementById('enBtn').addEventListener('click', () => switchLanguage('en'));
+    document.getElementById('npBtn').addEventListener('click', () => switchLanguage('np'));
+    // Default language
+    document.addEventListener('DOMContentLoaded', () => switchLanguage('np'));
+  </script>
+
+</body>
+</html>
