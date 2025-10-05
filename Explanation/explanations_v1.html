@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QN Topic Menu</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #2c3e50;
+            font-weight: 600;
+        }
+        
+        .search-container {
+            margin-bottom: 25px;
+            position: relative;
+        }
+        
+        .search-box {
+            width: 100%;
+            padding: 12px 20px;
+            border: 2px solid #e1e5eb;
+            border-radius: 50px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+        
+        .search-box:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+        }
+        
+        .search-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #7f8c8d;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        thead {
+            background-color: #3498db;
+            color: white;
+        }
+        
+        th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            cursor: pointer;
+            user-select: none;
+        }
+        
+        th:hover {
+            background-color: #2980b9;
+        }
+        
+        tbody tr {
+            border-bottom: 1px solid #e1e5eb;
+            transition: background-color 0.2s;
+        }
+        
+        tbody tr:hover {
+            background-color: #f8f9fa;
+        }
+        
+        td {
+            padding: 15px;
+        }
+        
+        .qn-cell {
+            font-weight: 500;
+            color: #2c3e50;
+        }
+        
+        .topic-cell {
+            color: #34495e;
+        }
+        
+        .link-cell a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+        }
+        
+        .link-cell a:hover {
+            color: #2980b9;
+            text-decoration: underline;
+        }
+        
+        .link-cell a::after {
+            content: "→";
+            margin-left: 5px;
+            transition: transform 0.2s;
+        }
+        
+        .link-cell a:hover::after {
+            transform: translateX(3px);
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 30px;
+            color: #7f8c8d;
+            display: none;
+        }
+        
+        .results-count {
+            margin-top: 15px;
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 15px;
+            }
+            
+            th, td {
+                padding: 12px 10px;
+            }
+            
+            th:nth-child(1), td:nth-child(1) {
+                width: 20%;
+            }
+            
+            th:nth-child(2), td:nth-child(2) {
+                width: 50%;
+            }
+            
+            th:nth-child(3), td:nth-child(3) {
+                width: 30%;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 24px;
+            }
+            
+            .search-box {
+                padding: 10px 15px;
+            }
+            
+            th, td {
+                padding: 10px 8px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1></h1>
+        
+        <div class="search-container">
+            <input type="text" class="search-box" id="searchInput" placeholder="Search by QN or Topic...">
+            <div class="search-icon">🔍</div>
+        </div>
+        
+        <div class="table-container">
+            <table id="qnTable">
+                <thead>
+                    <tr>
+                        <th data-sort="qn">QN</th>
+                        <th data-sort="topic">Topic</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <!-- Table rows will be generated by JavaScript -->
+                </tbody>
+            </table>
+            <div class="no-results" id="noResults">
+                No matching results found. Try a different search term.
+            </div>
+        </div>
+        
+        <div class="results-count" id="resultsCount"></div>
+    </div>
+
+    <script>
+        // Sample data - replace with your actual data
+        const qnData = [
+            { qn: "621", topic: "Amicable Declaration in Road Accidents", link: "https://sites.google.com/view/sdrive-pt/explanations/621?authuser=0" },
+            { qn: "773", topic: "Reduced Visibility", link: "https://sites.google.com/view/sdrive-pt/explanations/773?authuser=0" },
+            { qn: "778", topic: "Vehicle Inspections", link: "https://sites.google.com/view/sdrive-pt/explanations/778?authuser=0" },
+            { qn: "1037", topic: "Effects of Drug", link: "https://sites.google.com/view/sdrive-pt/explanations/1037?authuser=0" },
+            { qn: "3794", topic: "Aquaplaning", link: "https://sites.google.com/view/sdrive-pt/explanations/3794?authuser=0" },
+            
+        ];
+
+        // DOM elements
+        const tableBody = document.getElementById('tableBody');
+        const searchInput = document.getElementById('searchInput');
+        const noResults = document.getElementById('noResults');
+        const resultsCount = document.getElementById('resultsCount');
+        const tableHeaders = document.querySelectorAll('th[data-sort]');
+
+        // Initialize the table with all data
+        function populateTable(data) {
+            tableBody.innerHTML = '';
+            
+            if (data.length === 0) {
+                noResults.style.display = 'block';
+                resultsCount.textContent = 'No results found';
+                return;
+            }
+            
+            noResults.style.display = 'none';
+            
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td class="qn-cell">${item.qn}</td>
+                    <td class="topic-cell">${item.topic}</td>
+                    <td class="link-cell"><a href="${item.link}" target="_blank">View</a></td>
+                `;
+                tableBody.appendChild(row);
+            });
+            
+            resultsCount.textContent = `Showing ${data.length} of ${qnData.length} items`;
+        }
+
+        // Search function
+        function searchTable() {
+            const searchTerm = searchInput.value.toLowerCase();
+            
+            if (searchTerm === '') {
+                populateTable(qnData);
+                return;
+            }
+            
+            const filteredData = qnData.filter(item => 
+                item.qn.toLowerCase().includes(searchTerm) || 
+                item.topic.toLowerCase().includes(searchTerm)
+            );
+            
+            populateTable(filteredData);
+        }
+
+        // Sort function
+        function sortTable(column, direction) {
+            const sortedData = [...qnData].sort((a, b) => {
+                if (a[column] < b[column]) return direction === 'asc' ? -1 : 1;
+                if (a[column] > b[column]) return direction === 'asc' ? 1 : -1;
+                return 0;
+            });
+            
+            populateTable(sortedData);
+        }
+
+        // Event listeners
+        searchInput.addEventListener('input', searchTable);
+        
+        tableHeaders.forEach(header => {
+            header.addEventListener('click', () => {
+                const column = header.getAttribute('data-sort');
+                const isAscending = header.classList.contains('asc');
+                
+                // Remove all sorting classes
+                tableHeaders.forEach(h => {
+                    h.classList.remove('asc', 'desc');
+                });
+                
+                // Set the new sorting direction
+                header.classList.add(isAscending ? 'desc' : 'asc');
+                
+                // Sort the table
+                sortTable(column, isAscending ? 'desc' : 'asc');
+            });
+        });
+
+        // Initialize the table
+        populateTable(qnData);
+    </script>
+</body>
+</html>
